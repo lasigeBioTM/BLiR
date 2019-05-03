@@ -1,0 +1,15 @@
+1987	SlamonDJ ClarkGM WongSG LevinWJ UllrichA McGuireW	2158	Science (New York, N.Y.)
+1997	AmbrosiniG AdidaC AltieriD	605	Nature medicine
+1998	TsujiiM KawanoS TsujiS SawaokaH HoriM DuBoisR	366	Cell
+1999	GolubTR SlonimDK TamayoP HuardC GaasenbeekM MesirovJP CollerH LohML DowningJR CaligiuriMA BloomfieldCD LanderE	1644	Science (New York, N.Y.)
+2004	LynchTJ BellDW SordellaR GurubhagavatulaS OkimotoRA BranniganBW HarrisPL HaserlatSM SupkoJG HaluskaFG LouisDN ChristianiDC SettlemanJ HaberD	2654	The New England journal of medicine
+2006	NeveRM ChinK FridlyandJ YehJ BaehnerFL FevrT ClarkL BayaniN CoppeJP TongF SpeedT SpellmanPT DeVriesS LapukA WangNJ KuoWL StilwellJL PinkelD AlbertsonDG WaldmanFM McCormickF DicksonRB JohnsonMD LippmanM EthierS GazdarA GrayJ	1279	Cancer cell
+2008	ChenX BaY MaL CaiX YinY WangK GuoJ ZhangY ChenJ GuoX LiQ LiX WangW ZhangY WangJ JiangX XiangY XuC ZhengP ZhangJ LiR ZhangH ShangX GongT NingG WangJ ZenK ZhangJ ZhangC	1216	Cell research
+2013	GaoJ AksoyBA DogrusozU DresdnerG GrossB SumerSO SunY JacobsenA SinhaR LarssonE CeramiE SanderC Schultz	2308	Science signaling
+2015	PérezMorenoMA CotrinaLuqueJ GalvánBanqueriM FloresMorenoS BautistaPalomaFJ CallejaHernándezM	0	Journal of chemotherapy (Florence, Italy)
+2015	BellierT VallardA EspenelS LangrandEscureJ BenMradM VédrineL MagnéN Chargari	0	Bulletin du cancer
+2015	BacalbaȘaN BalescuI DimaS Popescu	0	Anticancer research
+2015	XiaopingL XiaoweiZ LeizhenZ Weijian	6	World journal of surgical oncology
+2015	ExpósitoJ LinaresI CastilloI MartínezM VargasP HerruzoI MedinaJA PalaciosA BayoE PeracaulaF JaénJ SánchezJA OrtizM	0	Radiation oncology (London, England)
+2015	AleseOB KimS ChenZ RamalingamSS OwonikokoTK ElRayesB	0	Current oncology (Toronto, Ont.)
+2019	JiangY LinL ZhongS CaiY ZhangF WangX MiaoR ZhangB GaoS Hu	0	Journal of cellular physiology
