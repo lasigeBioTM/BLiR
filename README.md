@@ -20,7 +20,7 @@ If you have a `.txt` file with PMIDs, place it in the [Processed_data](Data_Coll
 #### Text file with the relevant PMIDs:
 Place your `.txt` file with the PMIDs of the relevant articles in the [Data_Preprocessing](Data_Preprocessing) folder.
 
-See the sample files and match your files to that format. After placing your files in the apropriate location, go to the `variables.py` script (there are three of them, one in each folder) and change the names of the variables to match the name of your files.
+See the sample files and match your files to that format. After placing them in the apropriate location, go to the `variables.py` script (there are three of them, one in each folder) and change the variables to match the name of your files.
 
 ## Data Collection
 If you have a `.bib` file, run the first option in the `get_pmids_titles_abst_meta.py` script in order to get all the files in the [Processed_data](Data_Collection/Processed_data) folder.
