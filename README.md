@@ -1,6 +1,12 @@
 # BLiR
 Biomarker Literature Retrieval
 
+This tool allows to:
+1. Retrieve abstracts, titles and metadata (publication date, author names, number of times the article was cited and journal name) from PubMed by either using the article's PMID or BibTeX entry;
+2. Preprocess text data into numerical data;
+3. Build machine learning models (classifiers), with a supervised learning approach. The classifiers able to predict an article's relevance based on its abstract, title or metadata.
+
+
 ## Dependencies
 
 - Python 3.6
