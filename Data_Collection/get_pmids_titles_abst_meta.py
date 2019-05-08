@@ -95,7 +95,7 @@ def main_pmids(files):
         write_file_metadata(file, metadata)
 
 
-
+###################################### OPTION 1 ######################################
 # Uncomment one of the next lines if you have a .bib file in the Raw_data folder
 #main_bib(ALL)          # run for file1 and file2
 #OR
@@ -103,6 +103,7 @@ def main_pmids(files):
 #main_bib(FILE_2)       # single run for file2
 
 
+###################################### OPTION 2 ######################################
 # Uncomment one of the next lines if you have a _pmids.txt file in the
 #Processed_data folder
 #main_pmids(ALL)          # run for file1 and file2
