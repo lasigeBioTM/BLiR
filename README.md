@@ -9,7 +9,8 @@ This tool allows to:
 
 ## Dependencies
 - Python 3.6
-- requirements.txt: run `pip install -r requirements.txt`
+- requirements.txt. Run `pip install -r requirements.txt`
+- Stopword list from NLTK package. Run `python -m nltk.downloader stopwords`
 - NCBI account and API key. Please check [NCBI API Keys](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/) for more information.
 
 ## Preparing the Data
