@@ -77,6 +77,12 @@ PUBMED_FETCH_META_URL = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.
 
 """ --------------------------- OTHER VARIABLES ---------------------------- """
 
+# Some articles were not being found on PubMed due to some words in the title 
+#not being writen in the same way as they were in the .bib files from WOS.
+
+# This specific error correction is for the Exposome-Explorer dataset. You can 
+#change it to match your data, if you find any errors.
+
 ERRORS = {'epsilon dA':'epsilondA','metaholites':'metabolites', \
           'polyhrominated':'polybrominated', 'Causcasian':'Caucasian', \
           'SEMIQUANTITATIVE':'SEMI-QUANTITATIVE', '.1.':'I', ' .2.':'. II.',\
