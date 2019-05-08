@@ -8,7 +8,6 @@ This tool allows to:
 
 
 ## Dependencies
-
 - Python 3.6
 - requirements.txt: run `pip install -r requirements.txt`
 - NCBI account and API key. Please check [NCBI API Keys](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/) for more information.
@@ -17,6 +16,8 @@ This tool allows to:
 In order for the program to work, you need to provide:
 1. BibTeX file(s) or text file(s) with PMIDs;
 2. A text file with the PMIDs of the relevant articles.
+
+All the folders you need are already created, so you do not have to change any folder paths. Just place the files in the assigned folders and change the names of the variables, as instructed below.
 
 #### BibTeX file:
 If you have a `.bib` file, place it in the [Raw_data](Data_Collection/Raw_data) folder.
