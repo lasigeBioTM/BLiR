@@ -5,6 +5,7 @@ Biomarker Literature Retrieval
 
 - Python 3.6
 - requirements.txt: run `pip install -r requirements.txt`
+- NCBI account and API key. Please check [NCBI API Keys](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/) for more information.
 
 ## Preparing the Data
 In order for the program to work, you need to provide:
