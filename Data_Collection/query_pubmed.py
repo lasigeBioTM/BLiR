@@ -1,6 +1,5 @@
 import requests
 import xml.etree.ElementTree as ET
-from ratelimit import limits, sleep_and_retry
 
 from variables import *
 
