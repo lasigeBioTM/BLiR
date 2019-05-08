@@ -24,9 +24,9 @@ Place your `.txt` file with the PMIDs of the relevant articles in the [Data_Prep
 See the sample files and match your files to that format. After placing them in the apropriate location, go to the `variables.py` script (there are three of them, one in each folder) and change the variables to match the name of your files.
 
 ## Data Collection
-If you have a `.bib` file, run the first option in the `get_pmids_titles_abst_meta.py` script in order to get all the files in the [Processed_data](Data_Collection/Processed_data) folder.
+If you have a `.bib` file, run the first option in the `get_pmids_titles_abst_meta.py` script in order to get all the files in the [Processed_data](Data_Collection/Processed_data) folder. For example, if you have a file called 'cancer.bib' and you run the first option, you will get the following files: cancer_abstracts.txt, cancer_metadata.txt, cancer_pmids.txt and cancer_titles.txt.
 
-If you have a `.txt` file with PMIDs, run the second option in the `get_pmids_titles_abst_meta.py` script in order to get the remaining three files in the [Processed_data](Data_Collection/Processed_data) folder.
+If you have a `.txt` file with PMIDs, run the second option in the `get_pmids_titles_abst_meta.py` script in order to get the remaining three files in the [Processed_data](Data_Collection/Processed_data) folder. For example, if you already have a file called 'cancer_pmids.txt' and you run this option, you will get the following files: cancer_abstracts.txt, cancer_metadata.txt and cancer_titles.txt.
 
 ## Data Preprocessing
 Run `get_ML_data.py` to get all the data you need to train the models in the [ML_data](Data_Preprocessing/ML_data) folder.
