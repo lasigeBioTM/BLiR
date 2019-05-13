@@ -1,4 +1,4 @@
-bibtexparser==1.0.1
+bibtexparser==1.1.0
 nltk==3.4.1
 numpy==1.15.4
 pandas==0.23.4
