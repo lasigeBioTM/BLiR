@@ -41,4 +41,4 @@ If you have a `.txt` file with PMIDs, run the second option in the `get_pmids_ti
 Run `get_ML_data.py` to get all the data you need to train the models in the [ML_data](Data_Preprocessing/ML_data) folder.
 
 ## Train the models
-In the [Machine_Learning](Machine_Learning) folder, choose the script with the algorithm you want to run: `DecisionTree.py`, `LogRegression.py`, `NaiveBayes.py`, `NeuralNetwork.py`, `RandomForest.py` or `SupportVectorMachine.py`. Inside each script there are further instructions and options, select the ones are more suitable for you.
+In the [Machine_Learning](Machine_Learning) folder, choose the script with the algorithm you want to run: `DecisionTree.py`, `LogRegression.py`, `NaiveBayes.py`, `NeuralNetwork.py`, `RandomForest.py` or `SupportVectorMachine.py`. Inside each script there are further instructions and options, select the ones that are more suitable for you.
