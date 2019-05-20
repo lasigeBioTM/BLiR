@@ -158,7 +158,7 @@ def single_run_CV(file, ngram, df, tfidf, class_type, C):
     CrossVal_LogReg(X_matrix, y_labels, C)
     
 # Uncomment next line to create only one classifier
-#single_run_CV(file, ngram = 2, df = 14, tfidf = True, class_type = 'A', C = 10.0)
+#single_run_CV(DIET, ngram = 2, df = 14, tfidf = True, class_type = 'A', C = 10.0)
 
 
 
@@ -170,7 +170,7 @@ def single_run_grid(file, ngram, df, tfidf, class_type):
     grid_search_LogReg(X_matrix, y_labels)
 
 # Uncomment next line to run a grid search
-#single_run_grid(file, ngram = 1, df = 1, tfidf = True, class_type = 'T')
+#single_run_grid(DIET, ngram = 1, df = 1, tfidf = True, class_type = 'T')
 
 
 
@@ -183,7 +183,7 @@ def single_run_CR(file, ngram, df, tfidf, class_type, C):
     return all_pred
 
 # Uncomment the next lines to get the label predictions from a single classifier
-#all_pred = single_run_CR(file, ngram = 1, df = 1, tfidf = False, class_type = 'T', C = 0.1) 
+#all_pred = single_run_CR(DIET, ngram = 1, df = 1, tfidf = False, class_type = 'T', C = 0.1) 
 #print(all_pred)
 
 
@@ -214,5 +214,5 @@ def multiple_runs_write_files(file):
 
 
 # Uncomment next line to get the files in the Results/LogReg folder
-#multiple_runs_write_files(file)
+#multiple_runs_write_files(DIET)
 

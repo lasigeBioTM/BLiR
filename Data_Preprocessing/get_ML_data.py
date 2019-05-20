@@ -114,12 +114,19 @@ def __main__(files):
 
 
 # Join all absts, titles and metadata from file_1 and file_2 in the same files.
-#__main__(ALL)
+##__main__(ALL)
 
 #OR
 
 # Create individual absts, titles and metadata files for file_1 and file_2.
-#__main__(FILE_1)
-#__main__(FILE_2)
+##__main__(DIET)
+##__main__(DBPS)
+##__main__(HCA)
+##__main__(PAH)
+##__main__(PCB)
+##__main__(PHTHALATES)
+##__main__(POLYBROMINATED)
+##__main__(POLYCHLORINATED)
+##__main__(REPRODUCIBILITY)
 
 

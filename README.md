@@ -1,5 +1,5 @@
 # BLiR
-Biomarker Literature Retrieval
+Biomarker Literature Retrieval using data from the [Exposome-Explorer](http://exposome-explorer.iarc.fr/) database.
 
 This tool allows to:
 1. Retrieve abstracts, titles and metadata (publication date, author names, number of times the article was cited and journal name) from PubMed by either using the article's PMID or BibTeX entry;

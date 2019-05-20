@@ -73,7 +73,7 @@ def single_run_CV(file, ngram, df, tfidf, class_type):
     CrossVal_NeuralNetwork(X_matrix, y_labels)
 
 # Uncomment next line to create only one classifier
-#single_run_CV(file, ngram = 3, df = 16, tfidf = False, class_type = 'A')
+#single_run_CV(DIET, ngram = 3, df = 16, tfidf = False, class_type = 'A')
 
 
 
@@ -103,5 +103,5 @@ def multiple_runs_write_files(file):
 
 
 # Uncomment next line to get the files in the Results/NeuralNetwork folder
-#multiple_runs_write_files(file)
+#multiple_runs_write_files(DIET)
 

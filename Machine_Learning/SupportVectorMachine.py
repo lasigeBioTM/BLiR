@@ -134,7 +134,7 @@ def single_run_SVC(file, ngram, df, tfidf, class_type):
     CrossVal_SVC(X_matrix, y_labels)
 
 # Uncomment next line to create only one classifier  
-#single_run_SVC(file, ngram = 1, df = 21, tfidf = True, class_type = 'A')
+#single_run_SVC(DIET, ngram = 1, df = 21, tfidf = True, class_type = 'A')
 
 
 
@@ -147,7 +147,7 @@ def single_run_classification_report(file, ngram, df, tfidf, class_type):
     return all_pred, TN, FP, FN, TP
 
 # Uncomment the next lines to get the label predictions from a single classifier
-#all_pred, TN, FP, FN, TP = single_run_classification_report(file, ngram = 1, df = 1, tfidf = True, class_type = 'T')
+#all_pred, TN, FP, FN, TP = single_run_classification_report(DIET, ngram = 1, df = 1, tfidf = True, class_type = 'T')
 #print(all_pred)
 #print('TN:\n', TN, '\nFP:\n', FP, '\nFN:\n', FN, '\nTP:\n', TP)
 
@@ -179,5 +179,5 @@ def multiple_runs_write_files(file):
 
 
 # Uncomment next line to get the files in the Results/SVM folder
-#multiple_runs_write_files(file)
+#multiple_runs_write_files(DIET)
 

@@ -1,0 +1,785 @@
+12775040	Hydroxylated PCBs and other chlorinated phenolic compounds in lake trout (Salvelinus namaycush) blood plasma from the Great Lakes region.
+9697965	Effects of postnatal exposure of monkeys to a PCB mixture on spatial discrimination reversal and DRL performance.
+16337987	Dioxin-like and non-dioxin-like PCBs in human serum of Slovak population.
+3921368	PCBs, PCQs and PCDFs in blood of yusho and yu-cheng patients.
+7510429	Subchronic dietary exposure to Aroclor 1254 in rats: accumulation of PCBs in liver, blood, and adipose tissue and its relationship to induction of various hepatic drug-metabolizing enzymes.
+22750796	PCDD/F and PCB concentrations in sera from the Canadian Health Measures Survey (CHMS) from 2007 to 2009.
+15089092	Characterization and quantitative analysis of DNA adducts formed from lower chlorinated PCB-derived quinones.
+10473895	Influence of maternal age and duration of pregnancy on serum concentrations of polychlorinated biphenyls and hexachlorobenzene in full-term neonates.
+15734276	Neuromotor functions in Inuit preschool children exposed to Pb, PCBs, and Hg.
+21668970	Serum PCB levels and congener profiles among teachers in PCB-containing schools: a pilot study.
+16130963	Exposure to polychlorinated biphenyls and risk of neural-tube defects in a Mexican American population.
+23053646	Exposure to polychlorinated biphenyl (PCB) congeners measured shortly after giving birth and subsequent risk of maternal breast cancer before age 50.
+21480306	Serum levels of polychlorinated biphenyls in Mexican women and breast cancer risk.
+14659953	Environmental exposure to PCBs and cancer incidence in eastern Slovakia.
+16182859	Assessment of reference values for polychlorinated biphenyl concentration in human blood.
+15606145	Metabolism of polychlorinated biphenyls by Gunn rats: identification and serum retention of catechol metabolites.
+11482517	Effects of polybrominated diphenyl ethers (PBDEs) and polychlorinated biphenyls (PCBs) on thyroid hormone and vitamin A levels in rats and mice.
+11940460	Pentachlorophenol and hydroxylated polychlorinated biphenyl metabolites in umbilical cord plasma of neonates from coastal populations in Québec.
+11154948	Plasma leptin and thyroxine of mink (Mustela vison) vary with gender, diet and subchronic exposure to PCBs.
+1432297	Use of PCB blood levels to assess potential exposure following an electrical transformer explosion.
+23899181	Biological monitoring of polychlorinated biphenyls in plasma a comparison of enzyme linked immunosorbent assay and gas chromatography detection methods.
+23054994	Serum levels of hydroxylated PCBs, PCBs and thyroid hormone measures of Japanese pregnant women.
+16203234	Impact of polychlorinated biphenyls contamination on estrogenic activity in human male serum.
+1581674	Formation of toxic PCB congeners and PCB-solvent adducts in a sunlight irradiated cyclohexane solution of Aroclor 1254.
+827981	Lead and PCB's in canvasback ducks: relationship between enzyme levels and residues in blood.
+22004731	Concentrations of polychlorinated dibenzo-p-dioxins, polychlorinated dibenzofurans, and polychlorinated biphenyls in blood and breast milk collected from pregnant women in Sapporo City, Japan.
+17589595	Positive associations of serum concentration of polychlorinated biphenyls or organochlorine pesticides with self-reported arthritis, especially rheumatoid type, in women.
+15542352	Antioxidant role of zinc in PCB (Aroclor 1254) exposed ventral prostate of albino rats.
+21851983	In utero exposure to polychlorinated biphenyls and reduced neonatal physiological development from Guiyu, China.
+20691717	NMR-based metabonomic analysis of the hepatotoxicity induced by combined exposure to PCBs and TCDD in rats.
+2571373	Effects of PCBs on plasma enzymes, testosterone level, and hepatic xenobiotic metabolism in the grey partridge, Perdix perdix.
+12530594	Assessment of health effects in New York City firefighters after exposure to polychlorinated biphenyls (PCBs) and polychlorinated dibenzofurans (PCDFs): the Staten Island Transformer Fire Health Surveillance Project.
+20426459	Polychlorinated biphenyls and their hydroxylated metabolites (OH-PCBs) in the blood of toothed and baleen whales stranded along Japanese coastal waters.
+10448565	Determination of polychlorinated biphenyls in human blood serum by SPME.
+6411677	Evaluation of potential analytical approach for determination of polychlorinated biphenyls in serum: interlaboratory study.
+6434008	Polychlorinated biphenyl (PCB) partitioning between adipose tissue and serum.
+23618890	Tibial bone lead, but not serum polychlorinated biphenyl, concentrations are associated with neurocognitive deficits in former capacitor workers.
+21665017	Relationship between serum concentrations of polychlorinated biphenyls and organochlorine pesticides and dietary habits of pregnant women in Shanghai.
+19403125	Polychlorinated biphenyls in Spanish adults: determinants of serum concentrations.
+9525537	Polychlorinated biphenyls in blood plasma among Swedish female fish consumers in relation to low birth weight.
+21344607	In utero and lactational exposure to PCB 118 and PCB 153 alter ovarian follicular dynamics and GnRH-induced luteinizing hormone secretion in female lambs.
+12676596	Assessing human polychlorinated biphenyl contamination for epidemiologic studies: lessons from patterns of congener concentrations in Canadians in 1992.
+20089337	Relative importance of polychlorinated naphthalenes compared to dioxins, and polychlorinated biphenyls in human serum from Korea: contribution to TEQs and potential sources.
+8703183	Intellectual impairment in children exposed to polychlorinated biphenyls in utero.
+18222549	Cytochrome P4501A1 expression, polychlorinated biphenyls and hydroxylated metabolites, and adipocyte size of bottlenose dolphins from the Southeast United States.
+14966849	Critical evaluation of a high-throughput analytical method for polychlorinated biphenyls in human serum: which detector for the establishment of the reference values?
+8187704	Polychlorinated biphenyl levels in the tissues of exposed and nonexposed humans.
+7953468	Blood serum levels of PCDFs and PCBs in Yu-Cheng children peri-natally exposed to a toxic rice oil.
+15379968	Concentrations of polychlorinated biphenyls in blood and the risk for testicular cancer.
+12441362	Tissue distribution and half-lives of individual polychlorinated biphenyls and serum levels of 4-hydroxy-2,3,3',4',5-pentachlorobiphenyl in the rat.
+16263525	In utero exposure to dioxins and polychlorinated biphenyls and its relations to thyroid function and growth hormone in newborns.
+8920591	Development of a method for the analysis of PCB congeners and organochlorine pesticides in blood/serum.
+17490634	Thyroid hormone status of newborns in relation to in utero exposure to PCBs and hydroxylated PCB metabolites.
+9496912	Two cases of ras mutation associated with liver hyperplasia in dragonets (Callionymus lyra) exposed to polychlorinated biphenyls and polycyclic aromatic hydrocarbons.
+1909340	Problems associated with interferences in the analysis of serum for polychlorinated biphenyls.
+1903103	Assessment of exposure to polychlorinated biphenyls: analysis of selected isomers in blood and adipose tissue.
+9216878	Blood serum levels of PCBs and PCDFs in Yucheng women 14 years after exposure to a toxic rice oil.
+1907513	Levels of organochlorine pesticides and polychlorinated biphenyls (PCBs) in human milk and serum collected from lactating mothers in the northern Adriatic area of Yugoslavia.
+22615239	Simultaneous enantioselective separation of polychlorinated biphenyls and their methyl sulfone metabolites by heart-cut MDGC: determination of enantiomeric fractions in fish oils and cow liver samples.
+21700918	Polychlorinated biphenyls and organochlorine pesticides in plasma predict development of type 2 diabetes in the elderly: the prospective investigation of the vasculature in Uppsala Seniors (PIVUS) study.
+21797774	Association of caffeine consumption and smoking status with the serum concentrations of polychlorinated biphenyls, dioxins, and furans in the general U.S. population: NHANES 2003-2004.
+6125333	The combined effect of DDT and polychlorinated biphenyls on the blood and heart rate of the white leghorn cockerel (Gallus domesticus).
+109143	Increase in the human blood PCB levels promptly following ingestion of fish containing PCBs.
+9587783	Reproductive toxicity and tissue concentrations of 3,3',4,4'-tetrachlorobiphenyl (PCB 77) in male adult rats.
+21476350	Enhanced hepatotoxicity induced by repeated exposure to polychlorinated biphenyls and 2,3,7,8-tetrachlorodibenzo-p-dioxin in combination in male rats.
+18632132	PCDDs/PCDFs and dioxin-like PCBs: recent body burden levels and their determinants among general inhabitants in Japan.
+27316864	Effects of a Single Large Dose of Ethanol on Tissue Ascorbic Acid, Drug-Metabolizing Enzymes in the Liver, and Serum and Liver Lipids in Rats Fed with a PCB-containing Diet.
+18439647	Strong correlation between the concentration of dioxins and total PCBs in current Japanese people.
+9878591	Congener-specific distribution of polychlorinated biphenyls in brain regions, blood, liver, and fat of adult rats following repeated exposure to Aroclor 1254.
+16114233	Simple solid-phase extraction method for determination of polychlorinated biphenyls and selected organochlorine pesticides in human serum.
+3919789	Effects of dietary PCBs (Aroclor 1254) on serum levels of lipoprotein cholesterol in Fischer rats.
+10595720	Determination of polychlorinated biphenyls in human blood by solid-phase extraction including on-column lipid decomposition.
+15809109	Serum concentrations and profiles of polychlorinated biphenyls in Taiwan Yu-cheng victims twenty years after the incident.
+8013129	Exposure to mixtures and congeners of polychlorinated biphenyls.
+7757209	Determination of polychlorinated biphenyls in biotic matrices using gas chromatography--microwave-induced plasma atomic emission spectrometry.
+3094462	A pilot study of serum polychlorinated biphenyl levels in persons at high risk of exposure in residential and occupational environments.
+22976994	Validation of questionnaire-based long-term dietary exposure to polychlorinated biphenyls using biomarkers.
+14602522	Biochemical and toxicopathic biomarkers assessed in smallmouth bass recovered from a polychlorinated biphenyl-contaminated river.
+21565681	Correlations of PCBs, DIOXIN, and PBDE with TSH in children's blood in areas of computer E-waste recycling.
+16906772	Polychlorinated biphenyl quinone metabolites poison human topoisomerase IIalpha: altering enzyme function by blocking the N-terminal protein gate.
+1706122	A methylsulphonyl metabolite of a polychlorinated biphenyl can serve as a ligand for alpha 2mu-globulin in rat and major-urinary-protein in mice.
+23032644	Development and validation of prediction models for blood concentrations of dioxins and PCBs using dietary intakes.
+7850381	Dioxin and PCB levels in blood and human milk in relation to living areas in The Netherlands.
+15519386	Impact of FEBRA (fermented brown rice with Aspergillus oryzae) intake and concentrations of PCDDs, PCDFs and PCBs in blood of humans from Japan.
+8757236	Relation of a seafood diet to mercury, selenium, arsenic, and polychlorinated biphenyl and other organochlorine concentrations in human milk.
+16076757	Serum hormones in boys prenatally exposed to polychlorinated biphenyls and dibenzofurans.
+18093177	Developmental exposure to polychlorinated biphenyls PCB153 or PCB126 impairs learning ability in young but not in adult rats.
+6426410	Polychlorinated biphenyls and organochlorine pesticides in milk and blood of Canadian women during lactation.
+6435547	Polychlorobiphenyl (PCB) congeners, p,p'-DDE, and hexachlorobenzene in maternal and fetal cord blood from mothers in Upstate New York.
+17631943	Concentrations of polychlorinated dibenzo-p-dioxins, polychlorinated dibenzofurans, and dioxin-like polychlorinated biphenyls in blood collected from 195 pregnant women in Sapporo City, Japan.
+649209	Relationship between breast feeding and PCB residues in blood of the children whose mothers were occupationally exposed to PCBs.
+2115777	Transport and cellular uptake of polychlorinated biphenyls (PCBs)--I. Association of individual PCB isomers and congeners with plasma lipoproteins and proteins in the pigeon.
+23452180	PCBs and OH-PCBs in serum from children and mothers in urban and rural U.S. communities.
+22424617	Glutathione transferase polymorphisms and risk of endometriosis associated with polychlorinated biphenyls exposure in Italian women: a gene-environment interaction.
+1425510	Changes in PCB serum concentrations among capacitor manufacturing workers.
+21664404	Disruption of spermatogenesis and differential regulation of testicular estrogen receptor expression in mice after polychlorinated biphenyl exposure.
+8520928	Perinatal exposure to polychlorinated biphenyls and dioxins through dietary intake.
+12765239	Binding of polychlorinated biphenyls/metabolites to hemoglobin.
+22142904	Response inhibition and error monitoring during a visual go/no-go task in inuit children exposed to lead, polychlorinated biphenyls, and methylmercury.
+14657828	Prenatal exposure to polychlorinated biphenyls and attention at school age.
+21177424	A case study addressing the reliability of polychlorinated biphenyl levels measured at the time of breast cancer diagnosis in representing early-life exposure.
+9007045	Antiestrogenic activity of hydroxylated polychlorinated biphenyl congeners identified in human serum.
+11716887	Environmental exposure to polychlorinated biphenyls and quality of the home environment: effects on psychodevelopment in early childhood.
+6792745	Blood chemistry alterations in rats after single and multiple gavage administration of polychlorinated biphenyl.
+8418942	Organochlorine pesticides and polychlorinated biphenyls (PCBs) in human serum collected from the general population from Zagreb (1985-1990).
+9194418	Using structural information to create physiologically based pharmacokinetic models for all polychlorinated biphenyls.
+23619185	Developmental effects of perinatal exposure to PBDE and PCB on gene expression in sexually dimorphic rat brain regions and female sexual behavior.
+17521129	Polychlorinated biphenyls, DDT, polybrominated diphenyl ethers, and organic pesticides in United Kingdom harbor seals (Phoca vitulina)--mixed exposures and thyroid homeostasis.
+18368012	Addendum to: Evaluation of PCDD/F and dioxin-like PCB serum concentration data from the 2001-2002 National Health and Nutrition Examination Survey of the United States population.
+10438656	Developmental exposure of rats to a reconstituted PCB mixture or aroclor 1254: effects on organ weights, aromatase activity, sex hormone levels, and sweet preference behavior.
+6793700	Effect of dietary level of ascorbic acid on the growth, hepatic lipid peroxidation, and serum lipids in guinea pigs fed polychlorinated biphenyls.
+11138666	Measurement of PCBs, DDE, and hexachlorobenzene in cord blood from infants born in towns adjacent to a PCB-contaminated waste site.
+12739868	Effects of dietary PCB exposure on adrenocortical function in captive American kestrels (Falco sparverius).
+9572157	Consumption of fatty fish from the Baltic Sea and PCB in whole venous blood, plasma and cord blood from delivering women in the Aland/Turku archipelago.
+19786508	A possible mechanism for the decrease in serum thyroxine level by a 2,3,7,8-tetrachlorodibenzo-p-dioxin-like polychlorinated biphenyl congener, 3,3',4,4',5-pentachlorobiphenyl in mice.
+15707680	Hydroxylated metabolites of polychlorinated biphenyls inhibit thyroid-hormone-dependent extension of cerebellar Purkinje cell dendrites.
+15325145	Hydroxylated and methyl sulfone PCB metabolites in adipose and whole blood of polar bear (Ursus maritimus) from East Greenland.
+11706375	Identification of hydroxylated PCB metabolites and other phenolic halogenated pollutants in human blood plasma.
+9551809	Quantitative analysis of polychlorinated biphenyls, organochlorine insecticides, polycyclic aromatic hydrocarbons, polychlorinated hydrocarbons and polynitrohydrocarbons in spiked samples of soil, water and plasma by selected-ion monitoring gas chromatography-mass spectrometry.
+16135941	In utero polychlorinated biphenyl exposures in relation to fetal and early childhood growth.
+19394084	External exposure and bioaccumulation of PCBs in humans living in a contaminated urban environment.
+19479025	The University of Michigan Dioxin Exposure Study: methods for an environmental exposure study of polychlorinated dioxins, furans, and biphenyls.
+15893794	Congener profiles of PCBs and PCDD/Fs in Yucheng victims fifteen years after exposure to toxic rice-bran oils and their implications for epidemiologic studies.
+21962672	Quantification of PCDD/Fs and dioxin-like PCBs in small amounts of human serum using the sensitive H1L7.5c1 mouse hepatoma cell line: optimization and analysis of human serum samples from adolescents of the Flemish human biomonitoring program FLEHS II.
+17938731	Plasma concentrations of selected organobromine compounds and polychlorinated biphenyls in postmenopausal women of Québec, Canada.
+21723585	Comparison of the concentrations of polychlorinated biphenyls and dioxins in mothers affected by the Yusho incident and their children.
+17488503	Dietary exposure to methyl mercury and PCB and the associations with semen parameters among Swedish fishermen.
+109151	Levels of polychlorinated biphenyls in blood of breast-fed children whose mothers are non-occupationally exposed to PCBs.
+119494	Levels of organochlorine pesticides and polychlorinated biphenyls (PCBs) in mothers' milk collected in Osaka Prefecture from 1969 to 1976.
+15589659	PCBs and DDT in the serum of juvenile California sea lions: associations with vitamins A and E and thyroid hormones.
+18941588	The relationship between prenatal PCB exposure and intelligence (IQ) in 9-year-old children.
+18719292	Perinatal exposure to brominated flame retardants and polychlorinated biphenyls in Japan.
+15686873	Modeling vitellogenesis in female fish exposed to environmental stressors: predicting the effects of endocrine disturbance due to exposure to a PCB mixture and cadmium.
+12631537	Prenatal exposure to low-level polychlorinated biphenyls in relation to mental and motor development at 8 months.
+17639023	A novel mechanism for polychlorinated biphenyl-induced decrease in serum thyroxine level in rats.
+18825156	Negative association between plasma levels of adiponectin and polychlorinated biphenyl 153 in obese women under non-energy-restrictive regime.
+22364893	Blood levels of dioxins, furans, dioxin-like PCBs, and TEQs in general populations: a review, 1989-2010.
+18977572	PCB accumulation in osprey exposed to local sources in lake sediment.
+20096358	Occupational exposure to PCBs reduces striatal dopamine transporter densities only in women: a beta-CIT imaging study.
+11097233	Breast cancer risk in relation to adipose concentrations of organochlorine pesticides and polychlorinated biphenyls in Long Island, New York.
+6775718	Levels and gas chromatographic patterns of polychlorinated biphenyls in the blood of patients after PCB poisoning in Taiwan.
+16969666	Quantitative structure-activity relationships for prediction of the toxicity of hydroxylated and quinoid PCB metabolites.
+19683226	Prenatal exposure to PCDDs/PCDFs and dioxin-like PCBs in relation to birth weight.
+6402483	Gas-liquid chromatographic determination of polychlorinated biphenyls and a selected number of chlorinated hydrocarbons in serum.
+10023801	Effects of postnatal exposure of monkeys to a PCB mixture on concurrent random interval-random interval and progressive ratio performance.
+16765350	Exposure to PCB 77 induces tissue-dependent changes in iodothyronine deiodinase activity patterns in the embryonic chicken.
+12694628	Decreased sex ratio following maternal exposure to polychlorinated biphenyls from contaminated Great Lakes sport-caught fish: a retrospective cohort study.
+812580	Polychlorinated biphenyl residues in maternal and cord blood in Tokyo metropolitan area.
+9828305	Concentrations of PCBs, PCDFs and PCDDs in the blood of Yusho patients and their toxic equivalent contribution.
+23336921	Concentration-dependent half-lives of polychlorinated biphenyl in sera from an occupational cohort.
+16244432	Distribution of PCDDs/PCDFs and Co-PCBs in human maternal blood, cord blood, placenta, milk, and adipose tissue: dioxins showing high toxic equivalency factor accumulate in the placenta.
+15516123	Measurement of selected polybrominated diphenyl ethers, polybrominated and polychlorinated biphenyls, and organochlorine pesticides in human serum and milk using comprehensive two-dimensional gas chromatography isotope dilution time-of-flight mass spectrometry.
+19815845	In vivo acute exposure to polychlorinated biphenyls: effects on free and total thyroxine in rats.
+14963712	Yucheng: health effects of prenatal exposure to polychlorinated biphenyls and dibenzofurans.
+21186023	Menstrual effects among women exposed to polychlorinated biphenyls and dibenzofurans.
+12690495	Fish intake, plasma omega-3 polyunsaturated fatty acids, and polychlorinated dibenzo-p-dioxins/polychlorinated dibenzo-furans and co-planar polychlorinated biphenyls in the blood of the Japanese population.
+19027927	Serum dioxins, polychlorinated biphenyls, and endometriosis: a case-control study in Atlanta.
+16242275	Reference values of coplanar and non-coplanar PCBs in serum samples from two Italian population groups.
+12691726	DNA adducts in cultures of polychlorinated biphenyl-treated human hepatocytes.
+17509640	Congener-specific approach to human PCB concentrations by serum analysis.
+19330584	No changes in lymphocyte muscarinic receptors and platelet monoamine oxidase-B examined as surrogate central nervous system biomarkers in a Faroese children cohort prenatally exposed to methylmercury and polychlorinated biphenyls.
+21696632	Temporal trends in serum concentrations of polychlorinated dioxins, furans, and PCBs among adult women living in Chapaevsk, Russia: a longitudinal study from 2000 to 2009.
+21616713	Pilot study on the exposure of the German general population to non-dioxin-like and dioxin-like PCBs.
+15371227	Specific non-coplanar PCB-mediated modulation of bottlenose dolphin and beluga whale phagocytosis upon in vitro exposure.
+22189045	Environmental exposure to polychlorinated biphenyls and p,p'-DDE and sperm sex-chromosome disomy.
+19070886	Concentrations of polychlorinated biphenyls in blood of Yusho patients over 35 years after the incident.
+9200862	Assessment of environmental pollution by PCBs, DDT and its metabolites using human milk of mothers in Zimbabwe.
+12389902	Metabolites of polychlorinated biphenyls in human liver and adipose tissue.
+12434227	Human exposure to polychlorinated biphenyls in a residential community.
+11372890	Background levels of non-ortho-substituted (coplanar) polychlorinated biphenyls in human serum of Missouri residents.
+15981037	Time- and tissue-dependent polychlorinated biphenyl residues in hairless mice after exposure to polychlorinated biphenyl-contaminated soil.
+17683999	Determination of hydroxy metabolites of polychlorinated biphenyls in plasma and tissue by gas chromatography/mass spectrometry.
+23452794	Determination of dioxin-like polychlorinated biphenyls in 1 mL whole blood using programmable temperature vaporization large volume injection coupled to gas chromatogram and high-resolution mass spectrometry.
+17217986	PCDD/F and dioxin-like PCB in human blood and milk from German mothers.
+12039686	Effects of gender, diet, exogenous melatonin and subchronic PCB exposure on plasma immunoglobulin G in mink.
+20132952	PCB exposure in sea otters and harlequin ducks in relation to history of contamination by the Exxon Valdez oil spill.
+9693840	GC/MS analysis of PCB congeners in blood of the harbor seal Phoca vitulina from San Francisco Bay.
+12747519	Dietary predictors of concentrations of polychlorinated biphenyls in breast adipose tissue of women living in Ontario, Canada.
+10856030	Comparison of chemical-activated luciferase gene expression bioassay and gas chromatography for PCB determination in human serum and follicular fluid.
+6278153	Effects of polychlorinated biphenyls on the development of intestinal and serum marker enzymes.
+10028686	Analysis of a mixture of polychlorinated biphenyls and chlorinated pesticides in human serum by column fractionation and dual-column capillary gas chromatography with electron capture detection.
+23036451	Prenatal exposure to polychlorinated biphenyls and dioxins from the maternal diet may be associated with immunosuppressive effects that persist into early childhood.
+8843553	Polychlorinated biphenyl (PCB) and dichlorodiphenyl dichloroethylene (DDE) exposure among Native American men from contaminated Great Lakes fish and wildlife.
+10903613	Analysis of hydroxylated metabolites of PCBs (OH-PCBs) and other chlorinated phenolic compounds in whole blood from Canadian inuit.
+18054906	High serum PCBs are associated with elevation of serum lipids and cardiovascular disease in a Native American population.
+21280203	Sex, BMI and age in addition to dietary intakes influence blood concentrations and congener profiles of dioxins and PCBs.
+22027556	Prenatal concentrations of polychlorinated biphenyls, DDE, and DDT and overweight in children: a prospective birth cohort study.
+12449328	Distribution of PCBs and organochlorine pesticides in umbilical cord and maternal serum.
+14645167	Lack of an association between environmental exposure to polychlorinated biphenyls and p,p'-DDE and DNA damage in human sperm measured using the neutral comet assay.
+11815763	Effects of prenatal PCB and dioxin background exposure on cognitive and motor abilities in Dutch children at school age.
+15289169	Fetal exposure to PCBs and their hydroxylated metabolites in a Dutch cohort.
+20064788	Polychlorinated biphenyls disrupt blood-brain barrier integrity and promote brain metastasis formation.
+12762077	Possible effects of polychlorinated biphenyls and organochlorinated pesticides on the thyroid after long-term exposure to heavy environmental pollution.
+15743718	Necessity to measure PCBs and organochlorine pesticide concentrations in human umbilical cords for fetal exposure assessment.
+21208638	Changes in serum concentrations of polychlorinated biphenyls (PCBs), hydroxylated PCB metabolites and pentachlorophenol during pregnancy.
+1907125	Human exposure to polychlorinated biphenyls in Greater New Bedford, Massachusetts: a prevalence study.
+3110384	Effect of dietary ascorbic acid, cholesterol and PCB on cholesterol concentrations in serum and liver in a rat mutant unable to synthesize ascorbic acid.
+21699966	Biological monitoring of indoor-exposure to dioxin-like and non-dioxin-like polychlorinated biphenyls (PCB) in a public building.
+15175172	Adipose tissue levels of organochlorine pesticides and polychlorinated biphenyls and risk of non-Hodgkin's lymphoma.
+9354175	Comparison of organochlorine pesticide and polychlorinated biphenyl residues in human breast adipose tissue and serum.
+19932013	Differential expression of androgen and estrogen receptors in PCB (Aroclor 1254)-exposed rat ventral prostate: impact of alpha-tocopherol.
+8711465	Uncertainty in estimated half-lives of PCBS in humans: impact on exposure assessment.
+18550560	Effects of exposure to polychlorinated biphenyls and organochlorine pesticides on thyroid function during pregnancy.
+16201671	Effect of socioeconomic status on exposures to polychlorinated biphenyls (PCBs) and dichlorodiphenyldichloroethylene (DDE) among pregnant African-American women.
+10999346	Routine analysis of 101 polychlorinated biphenyl congeners in human serum by parallel dual-column gas chromatography with electron capture detection.
+19389042	Oxidative stress alters creatine kinase system in serum and brain regions of polychlorinated biphenyl (Aroclor 1254)-exposed rats: protective role of melatonin.
+6807378	Effects of polychlorinated biphenyls and nutritional restriction on barbiturate-induced sleeping times and selected blood characteristics in raccoons (Procyon lotor).
+10334636	Serum organochlorine pesticides and PCBs and breast cancer risk: results from a prospective analysis (USA).
+16371417	Identification of markers for PCB exposure in plasma from Swedish construction workers removing old elastic sealants.
+12883090	Effects of postnatal exposure to mixtures of non-ortho-PCBs, PCDDs, and PCDFs in prepubertal female rats.
+9465259	Absence of DNA adduct formation by phenobarbital, polychlorinated biphenyls, and chlordane in mouse liver using the 32P-postlabeling assay.
+3921361	Association of blood pressure and PCB level in yusho patients.
+18569566	Lack of neurodevelopmental adversity by prenatal exposure of infants to current lowered PCB levels: comparison of two German birth cohort studies.
+20537684	Predicting PCDD/F and dioxin-like PCB contamination levels in bovine edible tissues from in vivo sampling.
+17805422	Maternal serum polychlorinated biphenyl concentrations across critical windows of human development.
+21968773	Dioxin and polychlorinated biphenyl concentrations in mother's serum and the timing of pubertal onset in sons.
+7818287	Determinants of polychlorinated biphenyls (PCBs) in the sera of mothers and children from Michigan farms with PCB-contaminated silos.
+22078547	Concentrations of organochlorine pesticides and polychlorinated biphenyls in human serum and adipose tissue from Bolivia.
+12002477	Detailed study on the levels of polychlorinated dibenzo-p-dioxins, polychlorinated dibenzofurans and polychlorinated biphenyls in Yusho rice oil.
+1906267	Accidental exposure of children to polychlorinated biphenyls.
+19233261	Oxidative DNA adducts after Cu(2+)-mediated activation of dihydroxy PCBs: role of reactive oxygen species.
+18197307	Prenatal PCB exposure and thymus size at birth in neonates in Eastern Slovakia.
+17267299	High throughput method for the determination of organochlorine pesticides and polychlorinated biphenyls in human serum.
+19439357	Hydroxylated PCB metabolites (OH-PCBs) in archived serum from 1950-60s California mothers: a pilot study.
+15315812	In utero exposure to polychlorinated biphenyls and sensorineural hearing loss in 8-year-old children.
+17365608	Effects of in ovo exposure to PCBs 126 and 77 on mortality, deformities and post-hatch immune function in chickens.
+17938741	Associations between prenatal exposure to polychlorinated biphenyls and neonatal thyroid-stimulating hormone levels in a Mexican-American population, Salinas Valley, California.
+21152889	Assessment of polychlorinated biphenyls and mercury levels in soil and biological samples from San Felipe, Nuevo Mercurio, Zacatecas, Mexico.
+15589248	Concentrations of polybrominated diphenyl ethers, polychlorinated dibenzo-p-dioxins and dibenzofurans, and polychlorinated biphenyls in human blood samples from Korea.
+12362388	A rapid screening method for routine congener-specific analysis of polychlorinated biphenyls in human serum by high-resolution gas chromatography with mass spectrometric detection.
+22334129	Polychlorinated biphenyl (PCB) exposure and diabetes: results from the Anniston Community Health Survey.
+16823400	Evaluation of PCDD/F and dioxin-like PCB serum concentration data from the 2001-2002 National Health and Nutrition Examination Survey of the United States population.
+22150420	Associations between congenital cryptorchidism in newborn boys and levels of dioxins and PCBs in placenta.
+12417482	Polychlorinated biphenyls alter extraneuronal but not tissue dopamine concentrations in adult rat striatum: an in vivo microdialysis study.
+20384379	Distribution of PCBs, their hydroxylated metabolites, and other phenolic contaminants in human serum from two European countries.
+7850376	PCB metabolism, persistence, and health effects after occupational exposure: implications for risk assessment.
+17023223	Automated solid-phase extraction for the determination of polybrominated diphenyl ethers and polychlorinated biphenyls in serum--application on archived Norwegian samples from 1977 to 2003.
+8433185	Polychlorinated biphenyl exposure and human disease.
+21684540	Determinants of serum concentrations of 1,1-dichloro-2,2-bis(p-chlorophenyl)ethylene and polychlorinated biphenyls among French women in the CECILE study.
+18288320	Polychlorinated biphenyl exposure and neuropsychological status among older residents of upper Hudson River communities.
+15289166	The relationship between levels of PCBs and pesticides in human hair and blood: preliminary result.
+8144231	Association between blood polychlorinated biphenyl concentration and serum triglyceride level in chronic "Yusho" (polychlorinated biphenyl poisoning) patients.
+20455569	Polychlorinated dibenzo-p-dioxins, dibenzofurans, biphenyls, and naphthalenes in plasma of workers deployed at the World Trade Center after the collapse.
+11543949	Perinatal exposure to polychlorinated biphenyls Aroclor 1016 or 1254 did not alter brain catecholamines nor delayed alternation performance in Long-Evans rats.
+18426515	Prenatal polychlorinated biphenyl exposures in eastern Slovakia modify effects of social factors on birthweight.
+20384378	Current exposure to persistent polychlorinated biphenyls (PCBs) and dichlorodiphenyldichloroethylene (p,p'-DDE) of Belgian students from food and dust.
+17537484	Thyroid ultrasound volume, structure and function after long-term high exposure of large population to polychlorinated biphenyls, pesticides and dioxin.
+12162858	Covalent binding of PCB metabolites to lipids: route of formation and characterization.
+22001220	Polychlorinated biphenyls and organochlorine pesticides in plasma of older Canadians.
+12204824	Hydroxylated PCB metabolites and PCBs in serum from pregnant Faroese women.
+18614165	Distribution of polychlorinated biphenyls and organochlorine pesticides in human breast milk from various locations in Tunisia: levels of contamination, influencing factors, and infant risk assessment.
+12012187	Determination of endocrine-disrupting pesticides and polychlorinated biphenyls in human serum by GC-ECD and GC-MS-MS and evaluation of contributions to the uncertainty of the results.
+16765419	Levels of dioxins, furans and PCBs in human serum and milk of people living in Greece.
+15006510	Levels of polychlorinated biphenyls and organochlorine pesticides in serum samples of Egyptian Vulture (Neophron percnopterus) from Spain.
+12661184	A mortality update of male and female capacitor workers exposed to polychlorinated biphenyls.
+23044514	Polychlorinated biphenyls in prospectively collected serum and Parkinson's disease risk.
+405063	PCT, PCB and pesticide residues in human fat and blood.
+19850319	Relationship between the concentrations of polychlorinated dibenzo-p-dioxins, polychlorinated dibenzofurans, and polychlorinated biphenyls in maternal blood and those in breast milk.
+20104234	Dioxins, polychlorinated biphenyls, methyl mercury and omega-3 polyunsaturated fatty acids as biomarkers of fish consumption.
+16942395	Reduced antibody responses to vaccinations in children exposed to polychlorinated biphenyls.
+7581897	Liquid-gel partitioning using Lipidex in the determination of polychlorinated biphenyls, naphthalenes, dibenzo-p-dioxins and dibenzofurans in blood plasma.
+12842782	Assessment of pre- and postnatal exposure to polychlorinated biphenyls: lessons from the Inuit Cohort Study.
+18831733	Association of clinical findings in Yusho patients with serum concentrations of polychlorinated biphenyls, polychlorinated quarterphenyls and 2,3,4,7,8-pentachlorodibenzofuran more than 30 years after the poisoning event.
+14527849	Prenatal PCB exposure, the corpus callosum, and response inhibition.
+16987543	Concentrations of polychlorinated dibenzo-p-dioxins, polychlorinated dibenzofurans, and non-ortho and mono-ortho polychlorinated biphenyls in blood of Yusho patients.
+7780723	Congener specific analysis of polychlorinated biphenyls (PCBs) in serum using GC/MSD.
+9399126	Standardization of a method for the routine analysis of polychlorinated biphenyl congeners and selected pesticides in human serum and milk.
+10972996	Quantitative determination of endocrine- disrupting polychlorinated biphenyls and organochlorinated pesticides in human serum using gas chromatography with electron-capture detection and tandem mass spectrometry.
+17207843	Levels of PCDDs, PCDFs, and PCBs in the blood of the non-occupationally exposed residents living in the vicinity of a chemical plant in the Czech Republic.
+12670000	Analysis of polychlorinated biphenyl residues in human plasma by gas chromatography-mass spectrometry.
+11013405	Induction of DNA adducts by several polychlorinated biphenyls.
+20952519	Chromosome fragility in dairy cows exposed to dioxins and dioxin-like PCBs.
+23828374	Is meconium useful to predict fetal exposure to organochlorines and hydroxylated PCBs?
+12842777	Distribution of methyl sulfone metabolites of polychlorinated biphenyls and p,p'-DDE in human tissues.
+19058852	Dioxin and dioxin-like PCB profiles in the serum of industrial and municipal waste incinerator workers in Korea.
+6270054	Temperature-programmed gas chromatographic determination of polychlorinated and polybrominated biphenyls in serum.
+19750116	Maternal pregnancy levels of polychlorinated biphenyls and risk of hypospadias and cryptorchidism in male offspring.
+11936688	Human blood and environmental media screening method for pesticides and polychlorinated biphenyl compounds using liquid extraction and gas chromatography-mass spectrometry analysis.
+17583774	Congener profiles of occupational PCB exposure versus PCB exposure from fish consumption.
+9241822	Coplanar PCBs and the relative contribution of coplanar PCBs, PCDDs, and PCDFs to the total 2,3,7,8-TCDD toxicity equivalents in human serum.
+17382313	Environmental exposures to polychlorinated biphenyls (PCBs) among older residents of upper Hudson River communities.
+3921971	Polychlorinated biphenyl uptake and transport by lymph and plasma components.
+18974082	Mortality after exposure to polychlorinated biphenyls and polychlorinated dibenzofurans: a 40-year follow-up study of Yusho patients.
+16780830	Preconception maternal polychlorinated biphenyl concentrations and the secondary sex ratio.
+15910784	Polychlorinated biphenyl (PCB) exposure assessment by multivariate statistical analysis of serum congener profiles in an adult Native American population.
+3097280	Assessment of clinical, metabolic, dietary, and occupational correlations with serum polychlorinated biphenyl levels among employees at an electrical capacitor manufacturing plant.
+20573785	Differential effects of polychlorinated biphenyl congeners on serum thyroid hormone levels in rats.
+11695625	Synthesis of hydroxylated PCB metabolites with the Suzuki-coupling.
+14587909	Developmental toxicity of in ovo exposure to polychlorinated biphenyls: II. Effects of maternal or paternal exposure on second-generation nestling american kestrels.
+3132898	Canine serum levels of polychlorinated biphenyls (PCBs): a pilot study to evaluate the use of animal sentinels in environmental health.
+6813209	Comparative rates of elimination of some individual polychlorinated biphenyls from the blood of PCB-poisoned patients in Taiwan.
+3021964	Effects of polychlorinated biphenyls and lipemia on serum analytes.
+21138777	Dietary patterns and blood levels of PCDDs, PCDFs, and dioxin-like PCBs in 1656 Japanese individuals.
+14718345	Worker exposure to polychlorinated biphenyls in elastic polysulphide sealant renovation.
+22406104	Measurements of polybrominated diphenyl ethers and polychlorinated biphenyls in a single drop of blood.
+8903761	Neurological condition in 18-month-old children perinatally exposed to polychlorinated biphenyls and dioxins.
+20542073	Estrogenic followed by anti-estrogenic effects of PCBs exposure in juvenil fish (Spaurus aurata).
+17574648	Maternal and cord serum exposure to PCB and DDE methyl sulfone metabolites in eastern Slovakia.
+21299357	Maternal and early postnatal polychlorinated biphenyl exposure in relation to total serum immunoglobulin concentrations in 6-month-old infants.
+16963131	Mobilization of PCBs from blubber to blood in northern elephant seals (Mirounga angustirostris) during the post-weaning fast.
+12151633	Comparative responsiveness of hypothyroxinemia and hepatic enzyme induction in Long-Evans rats versus C57BL/6J mice exposed to TCDD-like and phenobarbital-like polychlorinated biphenyl congeners.
+12842779	Human prenatal and postnatal exposure to polybrominated diphenyl ethers, polychlorinated biphenyls, polychlorobiphenylols, and pentachlorophenol.
+9681980	High breast milk levels of polychlorinated biphenyls (PCBs) among four women living adjacent to a PCB-contaminated waste site.
+3930756	Oral dosing of rats with polychlorinated biphenyls increases urinary homovanillic acid production.
+16223788	Exposure to PCB and p, p'-DDE in European and Inuit populations: impact on human sperm chromatin integrity.
+17204274	A simple and fast method for the simultaneous determination of polychlorinated biphenyls and polybrominated diphenyl ethers in small volumes of human serum.
+19328048	Analysis of polychlorinated biphenyls in human serum by gas chromatography-mass selective detection operating at high ion source temperature.
+20204343	Polybrominated diphenyl ethers (PBDEs), polychlorinated biphenyles (PCBs), hydroxylated and methoxylated-PBDEs, and methylsulfonyl-PCBs in bird serum from South China.
+9339742	Histology of ovaries and uteri and levels of plasma progesterone, oestradiol-17beta and oestrone sulphate during the implantation period in mated and gonadotrophin-releasing hormone-treated mink (Mustela vison) exposed to polychlorinated biphenyls.
+15608140	Comparative metabolism of polychlorinated biphenyls and tissue distribution of persistent metabolites in rats, hamsters, and Guinea pigs.
+15346180	Analysis of HO-PCBs and PCP in blood plasma from individuals with high PCB exposure living on the Chukotka Peninsula in the Russian Arctic.
+14587904	Hydroxylated and methylsulfone-containing metabolites of polychlorinated biphenyls in the plasma and blubber of bowhead whales (Balaena mysticetus).
+9773843	Effects of environmental exposure to polychlorinated biphenyls and dioxins on birth size and growth in Dutch children.
+16414171	Gene expression and estrogen sensitivity in rat uterus after developmental exposure to the polybrominated diphenylether PBDE 99 and PCB.
+10784239	Polychlorinated biphenyl (PCB) exposure in relation to thyroid hormone levels in neonates.
+8476311	Environmental exposure and lifestyle predictors of lead, cadmium, PCB, and DDT levels in Great Lakes fish eaters.
+6415871	Arsenic metabolites in urine and feces of hamsters pretreated with PCB.
+19054541	Hydroxylated polychlorinated biphenyls (OH-PCBs) in the blood of mammals and birds from Japan: lower chlorinated OH-PCBs and profiles.
+16009653	Physiologically based modeling of the accumulation in plasma and tissue lipids of a mixture of PCB congeners in female Sprague-Dawley rats.
+12888206	New high-resolution mass spectrometric approach for the measurement of polychlorinated biphenyls and organochlorine pesticides in human serum.
+18599107	Assessment of current serum levels of PCDD/Fs, dl-PCBs and PBDEs in a Dutch cohort with known perinatal PCDD/F exposure.
+12586743	Attenuated growth of breast-fed children exposed to increased concentrations of methylmercury and polychlorinated biphenyls.
+20047000	The role of african american ethnicity and metabolism in sentinel polychlorinated biphenyl congener serum levels.
+11212945	Effects of PCB 126 on thymocyte surface marker expression and immune organ development in chicken embryos.
+18093869	The Duisburg birth cohort study: influence of the prenatal exposure to PCDD/Fs and dioxin-like PCBs on thyroid hormone status in newborns and neurodevelopment of infants until the age of 24 months.
+12798172	Determination of polychlorinated biphenyls in serum using gas chromatography-mass spectrometry with negative chemical ionization for exposure estimation.
+9284533	Reproductive and thyroid hormone levels in rats following 90-day dietary exposure to PCB 28 (2,4,4'-trichlorobiphenyl) or PCB 77 (3,3'4,4'-tetrachlorobiphenyl).
+1398354	Effect of prototypic polychlorinated biphenyls on hepatic and renal vitamin contents and on drug-metabolizing enzymes in rats fed diets containing low or high levels of retinyl palmitate.
+22266287	Regulation of paraoxonase 1 (PON1) in PCB 126-exposed male Sprague Dawley rats.
+10023802	Effect of exposure to 3,3',4,4',5-pentachlorobiphenyl (PCB 126) throughout gestation and lactation on development and spatial delayed alternation performance in rats.
+7850380	Levels of PCBs and some organochlorine pesticides in the human population of selected areas of the Slovak Republic. I. Blood.
+12600866	Arachidonic acid status during pregnancy is associated with polychlorinated biphenyl exposure.
+11233749	Prenatal exposure to PCBs and infant performance on the fagan test of infant intelligence.
+14594106	Potential human cancer risks from exposure to PCBs: a tale of two evaluations.
+18547604	Serum concentrations of indicator PCB congeners in the Czech adult population.
+23500661	Association between exposure to dioxin-like polychlorinated biphenyls and miR-191 expression in human peripheral blood mononuclear cells.
+11006359	Reduced levels of 1,25-dihydroxyvitamin D(3) in rat dams and offspring after exposure to a reconstituted PCB mixture.
+12876689	Determination of coplanar and non-coplanar polychlorinated biphenyls in human serum by gas chromatography with mass spectrometric detection: electron impact or electron-capture negative ionization?
+3143397	Serum screening for oncogene proteins in workers exposed to PCBs.
+10667464	Breast adipose tissue concentrations of polychlorinated biphenyls and other organochlorines and breast cancer risk.
+16291567	Perinatal exposure to low doses of PCB 153 and PCB 126 affects maternal and neonatal immunity in goat kids.
+2109552	Use of reference pools to compare the qualitative and quantitative determination of polychlorinated biphenyls by packed and capillary gas chromatography with electron capture detection. Part 1. Serum.
+9210724	Middle-ear disease in children exposed prenatally to polychlorinated biphenyls and polychlorinated dibenzofurans.
+16596004	Colestimide reduces blood polychlorinated biphenyl (PCB) levels.
+15667840	Biomonitoring of persistent organochlorine pesticides, PCDD/PCDFs and dioxin-like PCBs in blood of children from South West Germany (Baden-Wuerttemberg) from 1993 to 2003.
+2560062	Plasma concentrations of 15-keto-13,14-dihydro-PGF-2 alpha, oestrone sulphate, oestradiol-17 beta and progesterone in pregnant guinea-pigs treated with polychlorinated biphenyls.
+14514954	Early developmental neurotoxicity of a PCB/organochlorine mixture in rodents after gestational and lactational exposure.
+22960060	Blood levels of PCDDs, PCDFs, and coplanar PCBs in Yusho mothers and their descendants: association with fetal Yusho disease.
+11245392	Antibody-mediated immunotoxicity in American kestrels (Falco sparverius) exposed to polychlorinated biphenyls.
+6403003	Ocular manifestation of polychlorinated biphenyl (PCB) intoxication. Its relationship to PCB blood concentration.
+20378148	Distribution of PCDD/Fs, PCBs, PBDEs and organochlorine residues in children's blood from Zhejiang, China.
+21903210	Blood-based biomarkers of selenium and thyroid status indicate possible adverse biological effects of mercury and polychlorinated biphenyls in Southern Beaufort Sea polar bears.
+9828301	Time course of PCDD/PCDF/PCB concentrations in breast-feeding mothers and their infants.
+23724965	Prenatal exposure to polychlorinated biphenyls (PCBs) and polybrominated diphenyl ethers (PBDEs) may influence birth weight among infants in a Swedish cohort with background exposure: a cross-sectional study.
+22974126	2,2',3,5',6-Pentachlorobiphenyl (PCB 95) and its hydroxylated metabolites are enantiomerically enriched in female mice.
+15935445	Serum PCB profiles in Native Americans from Wisconsin based on region, diet, age, and gender: Implications for epidemiology studies.
+19345979	PCB, PCDD and PCDF contamination of food of animal origin as the effect of soil pollution and the cause of human exposure in Brescia.
+15025504	Toxicity of hydroxylated and quinoid PCB metabolites: inhibition of gap junctional intercellular communication and activation of aryl hydrocarbon and estrogen receptors in hepatic and mammary cells.
+18087602	Determinants of prenatal exposure to polychlorinated biphenyls (PCBs) and polybrominated diphenyl ethers (PBDEs) in an urban population.
+17189629	Serum PCBs, p,p'-DDE and HCB predict thyroid hormone levels in men.
+6401943	Lake Michigan fish consumption as a source of polychlorinated biphenyls in human cord serum, maternal serum, and milk.
+21703328	Transcriptomics identifies differences between ultrapure non-dioxin-like polychlorinated biphenyls (PCBs) and dioxin-like PCB126 in cultured peripheral blood mononuclear cells.
+16583258	Polychlorinated biphenyl concentrations, congener profiles, and ratios in the fat tissue, eggs, and plasma of snapping turtles (Chelydra s. serpentina) from the Ohio Basin of Lake Erie, USA.
+21111447	Half-lives of serum PCB congener concentrations in environmentally exposed early adolescents.
+22841741	Reproductive hormone profile and pubertal development in 14-year-old boys prenatally exposed to polychlorinated biphenyls.
+9291496	Effects of postnatal exposure to a PCB mixture in monkeys on nonspatial discrimination reversal and delayed alternation performance.
+16830529	Levels of PCBs and their metabolites in the serum of residents of a highly contaminated area in eastern Slovakia.
+11445515	Impairments of memory and learning in older adults exposed to polychlorinated biphenyls via consumption of Great Lakes fish.
+23332876	Polychlorinated biphenyls in serum, liver and adipose tissue of subjects with hepatocellular carcinoma living in a highly polluted area.
+12919720	Relationship between PCBs in blood and D-glucaric acid in urine.
+3936176	Polychlorinated biphenyl concentrations in the blood plasma of a selected sample of non-occupationally exposed southern California working adults.
+22047017	The kinetics of cell surface receptor expression in children perinatally exposed to polychlorinated biphenyls.
+10047599	Yolk PCB and plasma retinol concentrations in shag (Phalacrocorax aristotelis) hatchlings.
+21979175	PCDD, PCDF, and PCB exposure in current and former firefighters from Eastern Siberia.
+17280705	Polychlorinated dibenzo-p-dioxins (PCDDs), polychlorinated dibenzofurans (PCDFs), and dioxin-like polychlorinated biphenyls (PCBs) in the serum of US Air Force veterans in 2002.
+1489385	Historical changes in serum PCB and DDT levels in an environmentally-exposed cohort.
+17710387	Certification of SRM 1589a PCBs, pesticides, PBDEs, and dioxins/furans in human serum.
+16882544	Effect of prenatal exposure to polychlorinated biphenyls on incidence of acute respiratory infections in preschool Inuit children.
+9096084	Monitoring of polychlorinated biphenyls in human blood plasma: methodological developments and influence of age, lactation, and fish consumption.
+11802470	Parental concentration of dichlorodiphenyl dichloroethene and polychlorinated biphenyls in Michigan fish eaters and sex ratio in offspring.
+7552046	Synthesis and characterization of hydroxylated polychlorinated biphenyls (PCBs) identified in human serum.
+8197591	Long-term effects of Aroclor 1254 (PCBs) on plasma lipid and carnitine concentrations in rhesus monkey.
+10504153	Exposure to polychlorinated biphenyls and levels of thyroid hormones in children.
+3099428	Influence of serum cholesterol and albumin on partitioning of PCB congeners between human serum and adipose tissue.
+21890171	Longitudinal increases in PCDD/F and dl-PCB concentrations in human milk in northern China.
+11134554	Serum levels of TCDD and dioxin-like chemicals in Rhesus monkeys chronically exposed to dioxin: correlation of increased serum PCB levels with endometriosis.
+6778977	Effect of dietary quality of protein on liver microsomal mixed function oxidase system, plasma cholesterol and urinary ascorbic acid in rats fed PCB.
+3921370	Health status and PCBs in blood of workers exposed to PCBs and of their children.
+11914190	Plasma concentrations of polychlorinated biphenyls and the risk of breast cancer: a congener-specific analysis.
+20609460	PCB and PBDE levels in wild common carp (Cyprinus carpio) from eastern Lake Erie.
+21565388	Mast cells in the intestine and gills of the sea bream, Sparus aurata, exposed to a polychlorinated biphenyl, PCB 126.
+3921365	PCB and PCDF congeners in the blood and tissues of yusho and yu-cheng patients.
+6419800	Distribution of polychlorinated biphenyl congeners in human milk and blood during lactation.
+6402484	Assessment of methods to determine PCB levels in blood serum: interlaboratory study.
+21362590	Blood pressure in relation to concentrations of PCB congeners and chlorinated pesticides.
+2127352	Distribution of toxaphene, DDT, and PCB among lipoprotein fractions in rat and human plasma.
+22906770	Lipopolysaccharide potentiates polychlorinated biphenyl-induced disruption of the blood-brain barrier via TLR4/IRF-3 signaling.
+11478695	Further studies of blood levels of some tumor markers in the area polluted by polychlorinated biphenyls and control population.
+10908103	Correlations among human plasma levels of dioxin-like compounds and polychlorinated biphenyls (PCBs) and implications for epidemiologic studies.
+22464436	Investigation of the applicability of highly ordered TiO₂ nanotube array for enrichment and determination of polychlorinated biphenyls at trace level in environmental water samples.
+10637135	Catechol metabolites of polychlorinated biphenyls inhibit the catechol-O-methyltransferase-mediated metabolism of catechol estrogens.
+20971493	Confirmation of polychlorinated biphenyl (PCB) distribution in the blood and verification of simple quantitative method for PCBs based on specific congeners.
+10481248	Methods for the analysis of PCBs in human food, faeces and serum.
+22578811	Factors influencing combined exposure to three indicator polychlorinated biphenyls in an adult cohort from Bolivia.
+15042164	High-throughput analysis of human serum for selected polychlorinated biphenyls (PCBs) by gas chromatography-isotope dilution time-of-flight mass spectrometry (GC-IDTOFMS).
+15277017	Pharmacokinetics of two major hydroxylated polychlorinated biphenyl metabolites with specific retention in rat blood.
+11459154	PCBs, TEQs and plasma retinol in grey heron (Ardea cinerea) hatchlings from two rookeries in Norway.
+23500779	Dietary exposure of juvenile female mice to polyhalogenated seafood contaminants (HBCD, BDE-47, PCB-153, TCDD): comparative assessment of effects in potential target tissues.
+16356791	A simple and fast extraction method for organochlorine pesticides and polychlorinated biphenyls in small volumes of avian serum.
+2551196	Determinants of polychlorinated biphenyls (PCBs), polybrominated biphenyls (PBBs), and dichlorodiphenyl trichloroethane (DDT) levels in the sera of young children.
+15091378	Low hepatic 7-ethoxyresorufin-O-deethylase (EROD) activity and minor alterations in retinoid and thyroid hormone levels in flounder (Platichthys flesus) exposed to the polychlorinated biphenyl (PCB) mixture, Clophen A50.
+2165198	Potential compounds for monitoring method performance in the determination of selected organochlorine pesticides and polychlorinated biphenyls in human serum.
+15961582	In utero exposure to background levels of polychlorinated biphenyls and cognitive functioning among school-age children.
+8619235	Alterations in rat brain thyroid hormone status following pre- and postnatal exposure to polychlorinated biphenyls (Aroclor 1254).
+15254343	A possible mechanism for decrease in serum thyroxine level by polychlorinated biphenyls in Wistar and Gunn rats.
+12055053	Environmental exposure to polychlorinated biphenyls and placental CYP1A1 activity in Inuit women from northern Québec.
+22051344	Assessment of exposure to PCB 153 from breast feeding and normal food intake in individual children using a system approach model.
+20123616	Maternal serum preconception polychlorinated biphenyl concentrations and infant birth weight.
+17988715	Distribution of PCDDs, PCDFs and dioxin-like PCBs in the blood, testis and adipose tissue of suckling beef calves.
+7624895	Effects of gestational and lactational exposure to coplanar polychlorinated biphenyl (PCB) congeners or 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) on thyroid hormone concentrations in weanling rats.
+14754569	Potential exposure to PCBs, DDT, and PBDEs from sport-caught fish consumption in relation to breast cancer risk in Wisconsin.
+10581696	The relation between levels of selected PCB congeners in human serum and follicular fluid.
+11991632	Circulating lysozyme and hepatic CYP1A activities during a chronic dietary exposure to tributyltin (TBT) and 3,3',4,4',5-pentachlorobiphenyl (PCB-126) mixtures in channel catfish, Ictalurus punctatus.
+22430883	Accumulation of polychlorinated biphenyls (PCBs) and evaluation of hematological and immunological effects of PCB exposure on turtles.
+11815761	Childhood growth and exposure to dichlorodiphenyl dichloroethene and polychlorinated biphenyls.
+9405123	Interrenal stress responsiveness of tilapia (Oreochromis mossambicus) is impaired by dietary exposure to PCB 126.
+15471095	Evidence for increased internal exposure to lower chlorinated polychlorinated biphenyls (PCB) in pupils attending a contaminated school.
+8841762	PCDDs, PCDFs, and PCBs in human blood in relation to consumption of crabs from a contaminated Fjord area in Norway.
+8516785	Effects of perinatal exposure to specific PCB congeners on thyroid hormone concentrations and thyroid histology in the rat.
+23500409	Levels of polychlorinated dibenzo-p-dioxins, polychlorinated dibenzofurans and polychlorinated biphenyls in human milk from different regions of France.
+21698361	Polychlorinated biphenyls and their hydroxylated metabolites in placenta from Madrid mothers.
+12361940	Effects of perinatal exposure to PCBs and dioxins on play behavior in Dutch children at school age.
+11485834	Neurobehavioral deficits associated with PCB in 7-year-old children prenatally exposed to seafood neurotoxicants.
+20673887	Neurobehavioral effects of prenatal exposure to methylmercury and PCBs, and seafood intake: neonatal behavioral assessment scale results of Tohoku study of child development.
+22345314	Developmental coexposure to polychlorinated biphenyls and polybrominated diphenyl ethers has additive effects on circulating thyroxine levels in rats.
+18626891	Increased levels of urinary nitrite and nitrotyrosine in Yusho victims 40 years after accidental poisoning with polychlorinated biphenyls in Nagasaki, Japan.
+17280759	Effects of vitamins C and E on steroidogenic enzymes mRNA expression in polychlorinated biphenyl (Aroclor 1254) exposed adult rat Leydig cells.
+22564984	Serum concentrations of p, p'-DDE, HCB, PCBs and reproductive hormones among men of reproductive age.
+20718467	Physiologically based pharmacokinetic (PBPK) models for lifetime exposure to PCB 153 in male and female harbor porpoises (Phocoena phocoena): model development and evaluation.
+3138502	Do residue levels of polychlorinated biphenyls (PCBs) in human blood produce mild hypothyroidism?
+22686300	Plasma polychlorinated biphenyls (PCB) levels of workers in a transformer recycling company, their family members, and employees of surrounding companies.
+15513976	Environmental PCB exposure and risk of endometriosis.
+21106193	Background levels of polychlorinated biphenyls in the population of the Canary Islands (Spain).
+8277528	Musculoskeletal changes in children prenatally exposed to polychlorinated biphenyls and related compounds (Yu-Cheng children).
+811460	Effects of a polychlorinated biphenyl (PCB) on sleeping times, plasma corticosteroids, and testicular activity of white-footed mice.
+11315225	Effect of prenatal exposure to polychlorinated biphenyls on cognitive development in children: a longitudinal study in Taiwan.
+6797980	Dietary selenium and levels of L-ascorbic acid in the plasma, livers, and lungs of polychlorinated biphenyls-treated rats.
+3926478	Polychlorinated biphenyl poisoning: correlation of sensory and motor nerve conduction, neurologic symptoms, and blood levels of polychlorinated biphenyls, quaterphenyls, and dibenzofurans.
+9726780	Lack of suppressive effects of mixtures containing low levels of methylmercury (MeHg), polychlorinated dibenzo-p-dioxins (PCDDS), polychlorinated dibenzofurans (PCDFS), and aroclor biphenyls (PCBS) on mixed lymphocyte reaction, phagocytic, and natural killer cell activities of rat leukocytes in vitro.
+15533331	Maternal exposure to Great Lakes sport-caught fish and dichlorodiphenyl dichloroethylene, but not polychlorinated biphenyls, is associated with reduced birth weight.
+18795157	Bone mineral density changes in relation to environmental PCB exposure.
+23466097	Estimation of age- and sex-specific background human serum concentrations of PCDDs, PCDFs, and PCBs in the UMDES and NHANES populations.
+16169054	Serum polychlorinated biphenyl and organochlorine insecticide concentrations in a Faroese birth cohort.
+17874768	Exposure of electronics dismantling workers to polybrominated diphenyl ethers, polychlorinated biphenyls, and organochlorine pesticides in South China.
+16650462	Distribution of polychlorinated biphenyls, organochlorine pesticides and polybrominated diphenyl ethers in human umbilical cord serum, maternal serum and milk from Wielkopolska region, Poland.
+23446973	Pansteatitis associated with high levels of polychlorinated biphenyls in a wild loggerhead sea turtle Caretta caretta.
+19339036	PCBs and DDE, but not PBDEs, increase with trophic level and marine input in nestling bald eagles.
+10656858	PCB congener profile in the serum of humans consuming Great Lakes fish.
+8934301	An improved analysis for chlorinated pesticides and polychlorinated biphenyls (PCBs) in human and bovine sera using solid-phase extraction.
+18291442	Determination of dioxins and polychlorinated biphenyls in breast milk, maternal blood and cord blood from residents of Tohoku, Japan.
+17051771	Polychlorinated biphenyls and hydroxylated polychlorinated biphenyls in plasma of bottlenose dolphins (Tursiops truncatus) from the Western Atlantic and the Gulf of Mexico.
+3093216	Gas chromatographic and mass spectrometric analysis of polychlorinated biphenyls in human placenta and cord blood.
+20049255	An exploratory study of diabetes in a First Nation community with respect to serum concentrations of p,p'-DDE and PCBs and fish consumption.
+18407315	Serum levels of PCDDs, PCDFs and PCBs in non-occupationally exposed population groups living near two incineration plants in Tuscany, Italy.
+17110171	Thyroid hormone status of Atlantic croaker exposed to Aroclor 1254 and selected PCB congeners.
+22104335	Polychlorinated biphenyls in vacuum dust and blood of residents in 20 Wisconsin households.
+21873374	Effects of developmental exposure to polychlorinated biphenyls and/or polybrominated diphenyl ethers on cochlear function.
+15687046	Exposure to PCBs and p,p'-DDE and human sperm chromatin integrity.
+23830433	Rapid and simultaneous determination of polychlorinated biphenyls and their main metabolites (hydroxylated and methyl sulfonyl) by gas chromatography coupled to mass spectrometry: comparison of different ionisation modes.
+9828310	Partitioning of dioxins, dibenzofurans, and coplanar PCBS in blood, milk, adipose tissue, placenta and cord blood from five American women.
+1960759	Estimating serum polychlorinated biphenyl levels in highly exposed workers: an empirical model.
+8579383	The role of DDE and polychlorinated biphenyl levels in preterm birth.
+20446689	Levels of polychlorinated biphenyls in human adipose tissue samples from southeast China.
+17660003	Environmental exposure to dioxins and polychlorinated biphenyls reduce levels of gonadal hormones in newborns: results from the Duisburg cohort study.
+16053069	Environmental and human impact of an old-timer incinerator in terms of dioxin and PCB level: a case study.
+15556543	Evaluation of four capillary columns for the analysis of organochlorine pesticides, polychlorinated biphenyls, and polybrominated diphenyl ethers in human serum for epidemiologic studies.
+9548032	Neurological condition in 42-month-old children in relation to pre- and postnatal exposure to polychlorinated biphenyls and dioxins.
+12100385	Polychlorinated biphenyls and organochlorine pesticides are eliminated from therapeutic Factor VIII and immunoglobulin concentrates and reduced in albumin by plasma fractionation.
+19046769	Fish ingestion and congener specific polychlorinated biphenyl and p,p'-dichlorodiphenyldichloroethylene serum concentrations in a great lakes cohort of pregnant African American women.
+2547752	Gas chromatographic determination of polychlorinated biphenyls (as Aroclor 1254) in serum: collaborative study.
+3104024	Evaluation of potential health effects associated with serum polychlorinated biphenyl levels.
+18534201	Accumulation of M1dG DNA adducts after chronic exposure to PCBs, but not from acute exposure to polychlorinated aromatic hydrocarbons.
+23027467	Polychlorinated biphenyls and their hydroxylated metabolites in wild fish from Wheatley Harbour Area of Concern, Ontario, Canada.
+11673127	Determinants of polychlorinated biphenyls and methylmercury exposure in inuit women of childbearing age.
+21855147	Differential gene expression and a functional analysis of PCB-exposed children: understanding disease and disorder development.
+10092427	Blood PCB, p,p'-DDE, and mirex levels in Great Lakes fish and waterfowl consumers in two Ontario communities.
+17089110	Caffeine N3-demethylation (CYP1A2) in a population with an increased exposure to polychlorinated biphenyls.
+23524270	Systematic analysis of the relationship between standardized prenatal exposure to polychlorinated biphenyls and mental and motor development during follow-up of nine children cohorts.
+16036770	Effects of postnatal exposure to a mixture of polychlorinated biphenyls, p,p'-dichlorodiphenyltrichloroethane, and p-p'-dichlorodiphenyldichloroethene in prepubertal and adult female Sprague-Dawley rats.
+9204542	Decreased blood level of beta 2-microglobulin in the employees of a factory which produced polychlorinated biphenyls.
+7601016	Perinatal exposure to polychlorinated biphenyls and dioxins and its effect on neonatal neurological development.
+15539224	Effects of two prototypic polychlorinated biphenyls (PCBs) on lipid composition of rat liver and serum.
+21543048	Characterization and expression of cytochrome P4501A in Atlantic sturgeon and shortnose sturgeon experimentally exposed to coplanar PCB 126 and TCDD.
+18285840	Serum PCB concentrations in relation to locally produced food items in eastern Slovakia.
+22931295	Polychlorinated biphenyl exposure, diabetes and endogenous hormones: a cross-sectional study in men previously employed at a capacitor manufacturing plant.
+12202931	Thyroid hormone suppression and cell-mediated immunomodulation in American kestrels (Falco sparverius) exposed to PCBs.
+9134679	PCBs and dioxin-like compounds in plasma of adult Inuit living in Nunavik (Arctic Quebec).
+18514762	PCDD/F and PCB in human serum of differently exposed population groups of an Italian city.
+15743714	PCB exposure and in vivo CYP1A2 activity among Native Americans.
+12633733	Cognitive development in preschool children prenatally exposed to PCBs and MeHg.
+15885742	The endocrine and reproductive function of the female Yucheng adolescents prenatally exposed to PCBs/PCDFs.
+1686676	Cytogenetic analysis of peripheral blood lymphocytes in workers occupationally exposed to polychlorinated biphenyls.
+11217063	Effects of exposure of lactating female rats to polychlorinated biphenyls (Pcbs) on testis weight, sperm production and sertoli cell numbers in the adult male offspring.
+21724230	Polychlorinated biphenyls (PCBs) in indoor air and in serum among older residents of upper Hudson River communities.
+21739933	Polybrominated diphenyl ethers, polychlorinated biphenyls and organochlorine pesticides in human milk as markers of environmental exposure to these compounds.
+17764717	Placental transfer of polychlorinated biphenyls, their hydroxylated metabolites and pentachlorophenol in pregnant women from eastern Slovakia.
+6772747	Effect of dietary level of protein on liver microsomal drug-metabolizing enzymes, urinary ascorbic acid and lipid metabolism in rats fed PCB-containing diets.
+21888873	Levels and patterns of hydroxylated polychlorinated biphenyls (OH-PCBs) and their associations with thyroid hormones in hooded seal (Cystophora cristata) mother-pup pairs.
+9404319	Cancer mortality among electric utility workers exposed to polychlorinated biphenyls.
+12865050	Negative relationship between PCBs and plasma retinol in low-contaminated free-ranging gray seal pups (Halichoerus grypus).
+15325879	Polychlorinated biphenyls in serum and time to pregnancy.
+18560538	Relationship of thyroid hormone levels to levels of polychlorinated biphenyls, lead, p,p'- DDE, and other toxicants in Akwesasne Mohawk youth.
+18396099	Subjective complaints in persons under chronic low-dose exposure to lower polychlorinated biphenyls (PCBs).
+17764566	Serum PCB levels and congener profiles among US construction workers.
+10092423	Local fish consumption and serum PCB concentrations among Mohawk men at Akwesasne.
+9194421	Hydroxylated polychlorinated biphenyl metabolites are anti-estrogenic in a stably transfected human breast adenocarcinoma (MCF7) cell line.
+18941581	Birth delivery mode modifies the associations between prenatal polychlorinated biphenyl (PCB) and polybrominated diphenyl ether (PBDE) and neonatal thyroid hormone levels.
+15688132	Congener-specific analysis of polychlorinated biphenyl in human blood from Japanese.
+2508803	Polychlorinated biphenyls in human blood samples of Bombay.
+16675436	Effects of prenatal exposure to polychlorinated biphenyls and dioxins on mental and motor development in Japanese children at 6 months of age.
+12558174	Environmental exposure to polychlorinated biphenyls among raccoons (Procyon lotor) at the paducah gaseous diffusion plant, Western Kentucky, USA.
+8507107	Elimination of polychlorinated dibenzofurans (PCDFs) and polychlorinated biphenyls (PCBs) from human blood in the Yusho and Yu-Cheng rice oil poisonings.
+18077114	Gene expression profiling in rat cerebellum following in utero and lactational exposure to mixtures of methylmercury, polychlorinated biphenyls and organochlorine pesticides.
+16808919	High-throughput biomonitoring of dioxins and polychlorinated biphenyls at the sub-picogram level in human serum.
+20378105	A cohort study of developmental polychlorinated biphenyl (PCB) exposure in relation to post-vaccination antibody response at 6-months of age.
+22880488	Plasma levels of dioxins, furans, non-ortho-PCBs, and TEQs in the Seveso population 17 years after the accident.
+17665679	Plasma to egg conversion factor for evaluating polychlorinated biphenyl and DDT exposures in great horned owls and bald eagles.
+21270998	PBDEs and PCBs in the liver of the St Lawrence Estuary beluga (Delphinapterus leucas): a comparison of levels and temporal trends with the blubber.
+15222406	Autoantibodies and levels of polychlorinated biphenyls in persons living near a hazardous waste treatment facility.
+10092422	Assessment of prenatal exposure to PCBs from maternal consumption of Great Lakes fish: an analysis of PCB pattern and concentration.
+20019912	Exposure to hydroxylated polychlorinated biphenyls (OH-PCBs) in the prenatal period and subsequent neurodevelopment in eastern Slovakia.
+10220852	Effects of acute exposure to PCBs 126 and 153 on anterior pituitary and thyroid hormones and FSH isoforms in adult Sprague Dawley male rats.
+17882474	Effect of In Ovo exposure to an organochlorine mixture extracted from double crested cormorant eggs (Phalacrocorax auritus) and PCB 126 on immune function of juvenile chickens.
+15946634	Effects of 2,2'4,4'5,5'-hexachlorobiphenyl (PCB 153) on plasma sex steroids and vitellogenin in rockfish (Sebastes schlegeli).
+21783863	DNA damage associated with PCBs in the whole blood cells of Inuit.
+17045555	Determination of organochlorine pesticides and polychlorinated biphenyls in human serum using headspace solid-phase microextraction and gas chromatography-electron capture detection.
+3093646	Effects of dietary methionine, cystine and potassium sulfate on serum cholesterol and urinary ascorbic acid in rats fed PCB.
+22099537	Levels of organochlorine pesticides and polychlorinated biphenyls in the critically endangered Iberian lynx and other sympatric carnivores in Spain.
+15610856	Hydroxylated polychlorinated biphenyls selectively bind transthyretin in blood and inhibit amyloidogenesis: rationalizing rodent PCB toxicity.
+11381865	Levels of polychlorinated biphenyls (PCBs) in fish: the influence on local decision making about fish consumption.
+22994577	Prenatal and early life exposure to polychlorinated dibenzo-p-dioxins, dibenzofurans and biphenyls may influence dehydroepiandrosterone sulfate levels at prepubertal age: results from the Duisburg birth cohort study.
+19482333	Serum levels of polychlorinated dibenzodioxins and dibenzofurans and PCBs in the general population living near an urban waste treatment plant in Biscay, Basque Country.
+14753783	Application of liquid-phase microextraction and gas chromatography-mass spectrometry for the determination of polychlorinated biphenyls in blood plasma.
+2496968	PCB and other organochlorine compounds in blood of women with or without miscarriage: a hypothesis of correlation.
+20644494	Blood pressure and hypertension in relation to levels of serum polychlorinated biphenyls in residents of Anniston, Alabama.
+16475322	Concentrations of polybrominated diphenyl ethers, polychlonnated biphenyls, and polychlorobiphenylols in serum from pregnant Faroese women and their children 7 years later.
+22326254	Association of serum levels of polychlorinated biphenyls with IL-8 mRNA expression in blood samples from asthmatic and non-asthmatic Japanese children.
+21495631	High postnatal exposures to polybrominated diphenyl ethers (PBDEs) and polychlorinated biphenyls (PCBs) via breast milk in California: does BDE-209 transfer to breast milk?
+15053652	Semiautomated high-throughput extraction and cleanup method for the measurement of polybrominated diphenyl ethers, polybrominated biphenyls, and polychlorinated biphenyls in human serum.
+16209723	Effects of infection with Anguillicola crassus and simultaneous exposure with Cd and 3,3',4,4',5-pentachlorobiphenyl (PCB 126) on the levels of cortisol and glucose in European eel ( Anguilla anguilla ).
+6781529	Occupational exposure to polychlorinated biphenyls in electrical workers. I. Environmental and blood polychlorinated biphenyls concentrations.
+10813583	Parental smoking and neonatal serum levels of polychlorinated biphenyls and hexachlorobenzene.
+11574490	The risk of endometriosis and exposure to dioxins and polychlorinated biphenyls: a case-control study of infertile women.
+19842105	Role of dietary patterns for dioxin and PCB exposure.
+11491552	Effects of pre- and postnatal polychlorinated biphenyl exposure on metabolic rate and thyroid hormones of white-footed mice.
+18439655	PBBs, PBDEs, and PCBs levels in hair of residents around e-waste disassembly sites in Zhejiang Province, China, and their potential sources.
+17665678	Risk assessment of great horned owls (Bubo virginianus) exposed to polychlorinated biphenyls and DDT along the Kalamazoo River, Michigan, USA.
+9601931	Determinants of polychlorinated biphenyl levels in plasma from 42-month-old children.
+20384381	Determination and characterization of hydroxylated polychlorinated biphenyls (OH-PCBs) in serum and adipose tissue of Japanese women diagnosed with breast cancer.
+23155198	Polychlorinated biphenyls impair blood-brain barrier integrity via disruption of tight junction proteins in cerebrum, cerebellum and hippocampus of female Wistar rats: neuropotential role of quercetin.
+9880446	Effects of environmental exposure to polychlorinated biphenyls and dioxins on cognitive abilities in Dutch children at 42 months of age.
+16979807	Role of alpha-tocopherol on antioxidant status in liver, lung and kidney of PCB exposed male albino rats.
+23708622	Simultaneous determination of polybrominated diphenyl ethers and polychlorinated biphenyls by gas chromatography-tandem mass spectrometry in human serum and plasma.
+18470317	Exposure to a mixture of polychlorinated biphenyls and polychlorinated dibenzofurans resulted in a prolonged time to pregnancy in women.
+20945409	Maternal plasma polychlorinated biphenyl levels in cynomolgus monkeys (Macaca fascicularis) affect infant social skills in mother-infant interaction.
+23598430	Field confirmation of modified pressurized solvent extraction vessels for the analysis of polychlorinated biphenyl congeners in blood samples from Great Lakes Mallards (Anas platyrhynchos).
+22264925	PCBs and OH-PCBs in polar bear mother-cub pairs: a comparative study based on plasma levels in 1998 and 2008.
+14659948	Infant exposure to polychlorinated dibenzo-p-dioxins, dibenzofurans and biphenyls (PCDD/Fs, PCBs)--correlation between prenatal and postnatal exposure.
+8628610	Effects of polychlorinated biphenyl/dioxin exposure and feeding type on infants' mental and psychomotor development.
+18589988	Elevated levels of urinary 8-hydroxy-2'-deoxyguanosine in male electrical and electronic equipment dismantling workers exposed to high concentrations of polychlorinated dibenzo-p-dioxins and dibenzofurans, polybrominated diphenyl ethers, and polychlorinated biphenyls.
+10092447	Comparison of PCB congeners and pesticide levels between serum and milk from lactating women.
+6403348	Serum levels of polychlorinated biphenyls and some organochlorine insecticides in women with recent and former missed abortions.
+16135940	Maternal levels of polychlorinated biphenyls in relation to preterm and small-for-gestational-age birth.
+14639129	Environmental exposure to polychlorinated biphenyls (PCBs) and breast cancer: a systematic review of the epidemiological evidence.
+805608	Residue levels of polychlorinated terphenyls, polychlorinated biphynyls and DDT in human blood.
+3097319	A theoretical study of the binding of polychlorinated biphenyls (PCBs), dibenzodioxins, and dibenzofuran to human plasma prealbumin.
+21448704	Fluorescence enhancement effect for the determination of polychlorinated biphenyls with bovine serum albumin.
+18627595	A cohort study of in utero polychlorinated biphenyl (PCB) exposures in relation to secondary sex ratio.
+17275933	Effects of aqueous exposure to polychlorinated biphenyls (Aroclor 1254) on physiology and behavior of smolt development of Atlantic salmon.
+11266329	Associations of blood levels of PCB, HCHS, and HCB with numbers of lymphocyte subpopulations, in vitro lymphocyte response, plasma cytokine levels, and immunoglobulin autoantibodies.
+21187307	Serum dioxins and polychlorinated biphenyls are associated with growth among Russian boys.
+9366902	Induction of germline-length mutations at the minisatellites PC-1 and PC-2 in male mice exposed to polychlorinated biphenyls and diesel exhaust emissions.
+1917803	Evidence of an unusual pattern of polychlorinated biphenyls in the serum of some residents and canines in Paoli, Pennsylvania.
+9397600	The impact of age, lactation and dietary habits on PCB in plasma in Swedish women.
+19479026	The University of Michigan Dioxin Exposure Study: population survey results and serum concentrations for polychlorinated dioxins, furans, and biphenyls.
+18503055	Cryptorchidism at birth in Nice area (France) is associated with higher prenatal exposure to PCBs and DDE, as assessed by colostrum concentrations.
+19735942	Protective effects of selenium against DNA adduct formation in Inuit environmentally exposed to PCBs.
+21359368	Concentrations and accumulation profiles of PCDDs, PCDFs and dioxin-like PCBs in adipose fat tissues of Korean women.
+17250867	Developmental dental defects in children exposed to PCBs in eastern Slovakia.
+6790389	Relationship between the consumption of toxic rice oil and the long-term concentration of polychlorinated biphenyls in the blood of yusho patients.
+22790946	Effect of chitosan intake on fecal excretion of dioxins and polychlorinated biphenyls in healthy men.
+3922318	Comparability and precision of serum PCB measurements.
+23330224	IL-22 mRNA expression in blood samples as a useful biomarker for assessing the adverse health effects of PCBs on allergic children.
+15091651	Levels of selected individual polychlorinated biphenyls in different tissues of harbour seals (phoca vitulina) from the Southern coast of Norway.
+18474391	Concentrations of polychlorinated dibenzo-p-dioxins, polychlorinated dibenzofurans, and dioxin-like polychlorinated biphenyls in blood and breast milk collected from 60 mothers in Sapporo City, Japan.
+15331262	PCDD/F and non-ortho PCB concentrations in adipose tissue of individuals living in the vicinity of a hazardous waste incinerator.
+9599454	Organochlorine pesticides and polychlorinated biphenyls in human milk of mothers living in northern Germany: current extent of contamination, time trend from 1986 to 1997 and factors that influence the levels of contamination.
+18834980	Polychlorinated biphenyls and thyroid hormone serum concentrations among people living in a highly polluted area: a cross-sectional population-based study.
+19773016	Background levels of polychlorinated biphenyls in the U.S. population.
+15205043	Effects of perinatal exposure to low doses of PCB 153 and PCB 126 on lymphocyte proliferation and hematology in goat kids.
+6785463	Association of blood pressure and polychlorinated biphenyl levels.
+9451808	Blood levels of polychlorinated dibenzodioxins, polychlorinated dibenzofurans and polychlorinated biphenyls in the general population of a Spanish Mediterranean city.
+9828309	Decrease in levels and body burden of dioxins, dibenzofurans, PCBS, DDE, and HCB in blood and milk in a mother nursing twins over a thirty-eight month period.
+20533551	Plasma levels of polychlorinated biphenyls and risk of cutaneous malignant melanoma: a preliminary study.
+10642111	Prenatal PCB exposure and neonatal behavioral assessment scale (NBAS) performance.
+20559629	Chronic exposure and decontamination of a marine sculpin (Myoxocephalus scorpius) to polychlorinated biphenyls using selected body indices, blood values, histopathology, and parasites as bioindicators.
+19184731	Altered stress-induced cortisol levels in goats exposed to polychlorinated biphenyls (PCB 126 and PCB 153) during fetal and postnatal development.
+22546635	Very high correlations between fresh weight and lipid-adjusted PCB-153 serum concentrations: irrespective of fasting status, age, body mass index, gender, or exposure distributions.
+11732699	Polychlorinated biphenyls in blood plasma among Swedish female fish consumers in relation to time to pregnancy.
+23555630	Prenatal exposure to a polychlorinated biphenyl (PCB) congener influences fixation duration on biological motion at 4-months-old: a preliminary study.
+1433761	Cognitive development of Yu-Cheng ("oil disease") children prenatally exposed to heat-degraded PCBs.
+3105611	Urinary levels of estrone sulfate and 11-ketotetranor prostaglandin F metabolite in pregnant guinea pigs given Clophen A50 (polychlorinated biphenyls).
+6804611	Effect of dietary level of sulfur-containing amino acids on liver drug-metabolizing enzymes, serum cholesterol and urinary ascorbic acid in rats fed PCB.
+17365584	Impact of iron and steel industry and waste incinerators on human exposure to dioxins, PCBs, and heavy metals: results of a cross-sectional study in Belgium.
+9358917	Correlations among human blood levels of specific PCB congeners and implications for epidemiologic studies.
+12519720	Comparison of dioxin and PCB concentrations in human breast milk samples from Hong Kong and the Netherlands.
+20019911	Predictors of serum dioxins and PCBs among peripubertal Russian boys.
+23134768	Levels of polychlorinated dibenzo-p-dioxins, dibenzofurans and dioxin-like polychlorinated biphenyls in placentas from the Spanish INMA birth cohort study.
+10912246	Health risks to infants from exposure to PCBs, PCDDs and PCDFs.
+18718897	Linking exposure to polychlorinated biphenyls with fatty fish consumption and reduced fetal growth among Danish pregnant women: a cause for concern?
+10092417	Serum PCB and DDE levels of frequent Great Lakes sport fish consumers-a first look. The Great Lakes Consortium.
+20176133	Biotransformation of PCBs in Arctic seabirds: characterization of phase I and II pathways at transcriptional, translational and activity levels.
+19560797	Method for the determination of selected organochlorine pesticides and polychlorinated biphenyls in human serum based on a gel permeation chromatographic clean-up.
+19590698	Residential exposure to polychlorinated biphenyls and organochlorine pesticides and risk of childhood leukemia.
+10699571	The induction of hepatic microsomal UDP-glucuronosyltransferase by the methylsulfonyl metabolites of polychlorinated biphenyl congeners in rats.
+10048153	Induction of hepatic cytochromes P450 in dogs exposed to a chronic low dose of polychlorinated biphenyls.
+7992230	Comparison of DNA adduct levels in human placenta from polychlorinated biphenyl exposed women and smokers in which CYP 1A1 levels are similarly elevated.
+12727597	A longitudinal examination of factors related to changes in serum polychlorinated biphenyl levels.
+15907660	Comparison of the concentrations of polychlorinated dibenzo-p-dioxins, dibenzofurans, and dioxin-like polychlorinated biphenyls in maternal and fetal blood, amniotic and allantoic fluids in cattle.
+22817616	Prenatal polychlorinated biphenyl exposure is associated with decreased gestational length but not birth weight: archived samples from the Child Health and Development Studies pregnancy cohort.
+9870983	Method for the determination of PCB congeners and chlorinated pesticides in human blood serum.
+11065080	Environmental exposure to polychlorinated biphenyls (PCBs) and dioxins. Consequences for longterm neurological and cognitive development of the child lactation.
+7973610	Abnormally high polychlorinated biphenyl levels in striped dolphins (Stenella coeruleoalba) affected by the 1990-1992 Mediterranean epizootic.
+6799414	Radioimmunoassay of PCBs in milk and blood.
+17208274	PCDD/F levels in plasma of a belgian population before and after the 1999 belgian PCB/DIOXIN incident.
+12948891	The relationship between human semen parameters and environmental exposure to polychlorinated biphenyls and p,p'-DDE.
+18569567	Polychlorinated dibenzo-p-dioxins/polychlorinated dibenzofurans (PCDD/Fs), polychlorinated biphenyls (PCBs), and organochlorine pesticides in human blood of pregnant women from Germany.
+12055051	Immunologic biomarkers in relation to exposure markers of PCBs and dioxins in Flemish adolescents (Belgium).
+17617441	Maternal exposure to polybrominated and polychlorinated biphenyls: infant birth weight and gestational age.
+16406051	Exposure to polychlorinated biphenyls in residents near a chemical factory in Italy: the food chain as main source of contamination.
+9860495	Hydroxylation and methylthiolation of mono-ortho-substituted polychlorinated biphenyls in rats: identification of metabolites with tissue affinity.
+15336716	Effects of gestational and lactational exposure to low doses of PCBs 126 and 153 on anterior pituitary and gonadal hormones and on puberty in female goats.
+107126	Levels of polychlorinated biphenyls (PCBs) and organochlorine pesticides in human milk and blood collected in Osaka Prefecture from 1972 to 1977.
+15697172	Serum antioxidant levels in Yusho victims over 30 years after the accidental poisoning of polychlorinated biphenyls in Nagasaki, Japan.
+19750113	Lower serum testosterone associated with elevated polychlorinated biphenyl concentrations in Native American men.
+21141999	Predictors of polychlorinated biphenyl concentrations in adipose tissue in a general Danish population.
+11814327	Effects of maternal exposure to a reconstituted mixture of polychlorinated biphenyls on sex-dependent behaviors and steroid hormone concentrations in rats: dose-response relationship.
+18722600	Reduced expression of von Hippel-Lindau gene in subjects exposed to polychlorinated biphenyls and dibenzofurans.
+3122671	Organochlorine pesticides and polychlorinated biphenyls in maternal adipose tissue, blood, milk, and cord blood from mothers and their infants living in Norway.
+3921366	Polychlorinated biphenyls, dibenzofurans and quaterphenyls in toxic rice-bran oil and in the blood and tissues of patients with PCB poisoning (Yu-Cheng) in Taiwan.
+19150735	Polychlorinated biphenyls (PCBs) and their hydroxylated metabolites (OH-PCBs) in livers of harbor seals (Phoca vitulina) from San Francisco Bay, California and Gulf of Maine.
+20578718	Predictors of serum dioxin, furan, and PCB concentrations among women from Chapaevsk, Russia.
+10698477	Risk of female breast cancer associated with serum polychlorinated biphenyls and 1,1-dichloro-2,2'-bis(p-chlorophenyl)ethylene.
+21345762	Serum concentrations of polychlorinated biphenyls in relation to in vitro fertilization outcomes.
+12395836	Evaluation of mitogen-induced responses in marine mammal and human lymphocytes by in-vitro exposure of butyltins and non-ortho coplanar PCBs.
+1759848	Time course reversibility of liver and blood changes induced in weanling rats after polychlorinated biphenyl exposure during lactation.
+17459649	Oxidative stress modulates membrane bound ATPases in brain regions of PCB (Aroclor 1254) exposed rats: protective role of alpha-tocopherol.
+12222776	Persistent organochlorine pollutants in human serum of 50-65 years old women in the Flanders Environmental and Health Study (FLEHS). Part 2: Correlations among PCBs, PCDD/PCDFs and the use of predictive markers.
+8318765	Comparison of DDE and PCB residues in the general diet and in human blood--Ontario 1986-87.
+10910120	PCB exposure in utero and via breast milk. A review.
+18678409	Evaluation of background persistent organic pollutant levels in human from Taiwan: polychlorinated dibenzo-p-dioxins, dibenzofurans, and biphenyls.
+15975248	Determination of hydroxylated polychlorinated biphenyls (HO-PCBs) in blood plasma by high-performance liquid chromatography-electrospray ionization-tandem quadrupole mass spectrometry.
+10473799	Distribution of PCB congeners, DDE, hexachlorobenzene, and methylsulfonyl metabolites of PCB and DDE among various fractions of human blood plasma.
+18829066	Distribution of organochlorine pesticides (OCPs) and polychlorinated biphenyls (PCBs) in human serum from urban areas in Korea.
+413598	Influence of polychlorinated dibenzofurans (PCDFs) and polychlorinated biphenyls (PCBs) to serum protein components in rats.
+9765071	Reduction of thyroid hormone levels by methylsulfonyl metabolites of polychlorinated biphenyl congeners in rats.
+17237730	Prenatal pesticide and PCB exposures and birth outcomes.
+17545638	Polychlorinated biphenyl levels in peripheral blood and non-Hodgkin's lymphoma: a report from three cohorts.
+21298441	Correlations of fish intake and plasma docosahexaenoic acid levels with each congener of PCDDs/PCDFs/dioxin-like PCBs in blood from the Japanese population.
+7818291	Polychlorinated biphenyls, 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane (p,p'-DDT) and 1,1-dichloro-2,2-bis(p-chlorophenyl)-ethylene (p,p'-DDE) in human plasma related to fish consumption.
+12558169	Associations between regional differences in polychlorinated biphenyls and dichlorodiphenyldichloroethylene in blood of nestling bald eagles and reproductive productivity.
+21296657	Polychlorinated biphenyl (PCB) exposure in mothers and time to pregnancy in daughters.
+19059321	Contribution of methylmercury, polychlorinated biphenyls and organochlorine pesticides to the toxicity of a contaminant mixture based on Canadian Arctic population blood profiles.
+11952335	Sulfhydryl binding and topoisomerase inhibition by PCB metabolites.
+16053925	Assessment of human exposure to polychlorinated biphenyls and polybrominated diphenyl ethers in Japan using archived samples from the early 1980s and mid-1990s.
+16466768	Intra-individual variations and time trends 1991-2001 in human serum levels of PCB, DDE and hexachlorobenzene.
+10739046	PCB-blood levels in teachers, working in PCB-contaminated schools.
+17051818	Induced CYP1A2 activity as a phenotypic biomarker in humans highly exposed to certain PCBs/PCDFs.
+18950754	Temporal changes in PCB and DDE levels among a cohort of frequent and infrequent consumers of Great Lakes sportfish.
+11824816	Determination of polychlorinated biphenyls in small-size serum samples by solid-phase extraction followed by gas chromatography with micro-electron-capture detection.
+11437459	Changes in serum PBB and PCB levels over time among women of varying ages at exposure.
+16835064	Does living near a Superfund site contribute to higher polychlorinated biphenyl (PCB) exposure?
+10092416	Body burden levels of dioxin, furans, and PCBs among frequent consumers of Great Lakes sport fish. The Great Lakes Consortium.
+12963397	Neonatal and childhood teeth in relation to perinatal exposure to polychlorinated biphenyls and dibenzofurans: observations of the Yucheng children in Taiwan.
+12660360	Effects of polychlorinated biphenyls, kanechlor-500, on serum thyroid hormone levels in rats and mice.
+8924587	Detection of PCB adducts by the 32P-postlabeling technique.
+21030064	Exposure patterns of UV filters, fragrances, parabens, phthalates, organochlor pesticides, PBDEs, and PCBs in human milk: correlation of UV filters with use of cosmetics.
+9204098	Concentrations of blood and hair mercury and serum PCBs in an Ojibwa population that consumes Great Lakes region fish.
+22750179	Prenatal exposure to polychlorinated biphenyls and child neuropsychological development in 4-year-olds: an analysis per congener and specific cognitive domain.
+21376977	Optimized determination of polybrominated diphenyl ethers and polychlorinated biphenyls in sheep serum by solid-phase extraction-gas chromatography-mass spectrometry.
+11375377	Polychlorinated biphenyl serum levels in pregnant subjects with diabetes.
+8907234	First data on background levels of non-ortho and mono-ortho PCBs in blood of residents from southern Germany.
+14555402	Dioxin, dibenzofuran, and coplanar PCB levels in Laotian blood and milk from agent orange-sprayed and nonsprayed areas, 2001.
+20654485	Rapid assay for oestrogen receptor binding to PCB metabolites.
+16736058	Environmental and occupational exposures and serum PCB concentrations and patterns among Mohawk men at Akwesasne.
+17125836	Experimental evaluation of the usefulness of feathers as a non-destructive biomonitor for polychlorinated biphenyls (PCBs) using silastic implants as a novel method of exposure.
+15979066	Relationship of serum levels of individual PCB, dioxin, and furan congeners and DDE with Great Lakes sport-caught fish consumption.
+2494094	Polychlorinated biphenyl congeners in adipose tissue lipid and serum of past and present transformer repair workers and a comparison group.
+1904915	Alteration of serum lipoprotein metabolism by polychlorinated biphenyls and methionine in rats fed a soybean protein diet.
+22275729	Pre- and postnatal polychlorinated biphenyl concentrations and longitudinal measures of thymus volume in infants.
+22704218	PCDD/PCDF, dl-PCB and PBDE serum levels of Slovak general population.
+14620819	Space-use strategy is an important determinant of PCB concentrations in female polar bears in the Barents Sea.
+11748036	The effects of PCB exposure and fish consumption on endogenous hormones.
+10713469	Use of a combined human liver microsome-estrogen receptor binding assay to assess potential estrogen modulating activity of PCB metabolites.
+18991912	PCB levels in humans in an area of PCB transformer recycling.
+10560775	Effects of exposure to 3,3',4,4',5-pentachlorobiphenyl (PCB 126) throughout gestation and lactation on behavior (concurrent random interval-random interval and progressive ratio performance) in rats.
+21783857	Exposure to polychlorinated biphenyls and hearing impairment in children.
+16309888	Purkinje cell and cerebellar effects following developmental exposure to PCBs and/or MeHg.
+11138670	Utilization of umbilical cords to assess in utero exposure to persistent pesticides and polychlorinated biphenyls.
+11192460	Concentrations and frequencies of polychlorinated biphenyl congeners in a Native American population that consumes Great Lakes fish.
+15583370	Serum polychlorinated biphenyls, cytochrome P-450 1A1 polymorphisms, and risk of breast cancer in Connecticut women.
+17222440	Immunologic effects of perinatal exposure to dioxins, PCBs and organochlorine pesticides in Japanese infants.
+19819326	Prenatal and postnatal exposure to polychlorinated biphenyls and child size at 24 months of age.
+21684538	Associations of polychlorinated biphenyl exposure and endogenous hormones with diabetes in post-menopausal women previously employed at a capacitor manufacturing plant.
+11514106	Comparison of CALUX-TEQ values with PCB and PCDD/F measurements in human serum of the Flanders Environmental and Health Study (FLEHS).
+17234238	A study on PCB, PCDD/PCDF industrial contamination in a mixed urban-agricultural area significantly affecting the food chain and the human exposure. Part I: soil and feed.
+18768207	Congener-specific analysis of non-dioxin-like polychlorinated biphenyls in blood collected from 127 elderly residents in Nakagawa Town, Fukuoka Prefecture, Japan.
+19682390	A cohort study of the association between secondary sex ratio and parental exposure to polybrominated biphenyl (PBB) and polychlorinated biphenyl (PCB).
+22901373	Occupational exposure to PCDDs, PCDFs, and PCBs of metallurgical workers in some industrial plants of the Brescia area, northern Italy.
+16823523	Polychlorinated biphenyls and organochlorine pesticides in plasma and the embryonic development in Lake Erie water snakes (Nerodia sipedon insularum) from Pelee Island, Ontario, Canada (1999).
+1783595	Determination of Mirex in human blood serum containing polychlorinated biphenyls by using packed column gas chromatography.
+16620993	Alterations of visual evoked potentials in preschool Inuit children exposed to methylmercury and polychlorinated biphenyls from a marine diet.
+18958450	Comparison of five extraction methods for measuring PCBs, PBDEs, organochlorine pesticides, and lipid content in serum.
+8843560	Dose-response in perinatal exposure to polychlorinated biphenyls (PCBs): the Michigan and North Carolina cohort studies.
+6430248	Rate of decrease and half-life of polychlorinated biphenyls (PCBs) in the blood of mothers and their children occupationally exposed to PCBs.
+7494667	Immunologic effects of background prenatal and postnatal exposure to dioxins and polychlorinated biphenyls in Dutch infants.
+20384380	Serum PCB concentrations and cochlear function in 12-year-old children.
+12117636	Determinants of serum polychlorinated biphenyls and organochlorine pesticides measured in women from the child health and development study cohort, 1963-1967.
+20698547	Time course of congener uptake and elimination in rats after short-term inhalation exposure to an airborne polychlorinated biphenyl (PCB) mixture.
+14559265	Levels of PCDDs, PCDFs and Co-PCBs in human milk in Saitama, Japan, and epidemiological research.
+8209226	Determination of polychlorinated biphenyl levels in the serum of residents and in the homogenates of seafood from the New Bedford, Massachusetts, area: a comparison of exposure sources through pattern recognition techniques.
+12515680	Comparison of polychlorinated biphenyl levels across studies of human neurodevelopment.
+20040582	Polychlorinated biphenyl-mediated decrease in serum thyroxine level in rodents.
+17366814	Polychlorinated biphenyls and their hydroxylated metabolites (OH-PCBS) in pregnant women from eastern Slovakia.
+18313660	Relationship between insulin sensitivity and exposure to dioxins and polychlorinated biphenyls in pregnant women.
+11381748	PCB concentrations and metabolism patterns in common terns (Sterna hirundo) from different breeding colonies in The Netherlands.
+17185286	Response inhibition during Differential Reinforcement of Low Rates (DRL) schedules may be sensitive to low-level polychlorinated biphenyl, methylmercury, and lead exposure in children.
+11351711	Time trends in sport-caught Great Lakes fish consumption and serum polychlorinated biphenyl levels among Michigan Anglers, 1973-1993.
+18718631	Congener-specific analysis of non-dioxin-like polychlorinated biphenyls in blood collected from 195 pregnant women in Sapporo City, Japan.
+17120554	Hydroxy-PCBs, PBDEs, and HBCDDs in serum from an elderly population of Swedish fishermen's wives and associations with bone density.
+20605211	Multivariate models to predict human adipose tissue PCB concentrations in Southern Spain.
+11823002	DNA adduction by polychlorinated biphenyls: adducts derived from hepatic microsomal activation and from synthetic metabolites.
+16882522	Levels and concentration ratios of polychlorinated biphenyls and polybrominated diphenyl ethers in serum and breast milk in Japanese mothers.
+15178094	Development of two novel CYP-antibodies and their use in a PCB exposure experiment with Mytilus edulis.
+12191885	Analysis of pesticides and PCB congeners in serum by GC/MS with SPE sample cleanup.
+22846166	Subchronic inhalation exposure study of an airborne polychlorinated biphenyl mixture resembling the Chicago ambient air congener profile.
+21340456	Polychlorinated biphenyl and organochlorine pesticide levels in human breast milk from the Mediterranean city Antalya, Turkey.
+17938733	Diabetes in relation to serum levels of polychlorinated biphenyls and chlorinated pesticides in adult Native Americans.
+15581934	Sorbent-assisted liquid-liquid extraction (Chem-Elut) of polychlorinated biphenyls, dibenzo-p-dioxins and dibenzofurans in the lipid fraction of human blood plasma.
+7589917	Toxicity of PCB 77 (3,3',4,4'-tetrachlorobiphenyl) and PCB 118 (2,3',4,4'5-pentachlorobiphenyl) in the rat following subchronic dietary exposure.
+16093292	Maternal serum levels of polychlorinated biphenyls and 1,1-dichloro-2,2-bis(p-chlorophenyl)ethylene (DDE) and time to pregnancy.
+21544918	Fetal adrenal development: comparing effects of combined exposures to PCB 118 and PCB 153 in a sheep model.
+818399	Acute, subacute, and residual effects of polychlorinated biphenyl (pcb) in rats. II. Pathology and electron microscopy of liver and serum enzyme study.
+20723988	Polychlorinated biphenyls (PCB-153) and (PCB-77) absorption in human liver (HepG2) and kidney (HK2) cells in vitro: PCB levels and cell death.
+21737118	Incidence of thyroid disease following exposure to polybrominated biphenyls and polychlorinated biphenyls, Michigan, 1974-2006.
+15788176	PCB contamination from polysulphide sealants in residential areas-exposure and risk assessment.
+10966519	PCBs, thyroid hormones, and ototoxicity in rats: cross-fostering experiments demonstrate the impact of postnatal lactation exposure.
+7878673	Fetal, neonatal, and long-term alterations in hepatic retinoid levels following maternal polychlorinated biphenyl exposure in rats.
+20691776	Developmental PCB exposure induces hypothyroxinemia and sex-specific effects on cerebellum glial protein levels in rats.
+22298765	Determination of polychlorinated biphenyls and organochlorine pesticides in human serum by gas chromatography with micro-electron capture detector.
+15006515	Levels of PCB 126 and PCB 153 in plasma and tissues in goats exposed during gestation and lactation.
+8593850	Selective retention of hydroxylated PCB metabolites in blood.
+9624420	Expression of the insulin-like growth factor II gene in polychlorinated biphenyl exposed female mink (Mustela vison) and their fetuses.
+11734345	Residue levels of DDE and PCBs in the blood serum of women in the Port Said region of Egypt.
+8603654	Occupational and environmental lead and PCB exposure at a scrap metal dealer.
+20850584	Novel pressurized solvent extraction vessels for the analysis of polychlorinated biphenyl congeners in avian whole blood.
+20345174	In vitro assay shows that PCB metabolites completely saturate thyroid hormone transport capacity in blood of wild polar bears (Ursus maritimus).
+21997443	Birth weight and prenatal exposure to polychlorinated biphenyls (PCBs) and dichlorodiphenyldichloroethylene (DDE): a meta-analysis within 12 European Birth Cohorts.
+9681525	Organochlorine compounds (DDE and PCB) in plasma and breast cyst fluid of women with benign breast disease.
+1899992	Polychlorinated biphenyl congeners in blood of Wisconsin sport fish consumers.
+11133402	Immunologic effects of background exposure to polychlorinated biphenyls and dioxins in Dutch preschool children.
+14757379	Fish consumption and other environmental exposures and their associations with serum PCB concentrations among Mohawk women at Akwesasne.
+18201376	PCB-containing wood floor finish is a likely source of elevated PCBs in residents' blood, household air and dust: a case study of exposure.
+22569275	The effect of prenatal and postnatal exposure to polychlorinated biphenyls and child neurodevelopment at age twenty four months.
+22735367	Relationship between prenatal exposure to polychlorinated biphenyls and birth weight: a systematic analysis of published epidemiological studies through a standardization of biomonitoring data.
+16530805	Serum PCBs and organochlorine pesticides in Slovakia: age, gender, and residence as determinants of organochlorine concentrations.
+10092425	Behavioral impairment produced by low-level postnatal PCB exposure in monkeys.
+16042274	Hydroxylated PCB metabolites in nonhatched fulmar eggs from the Faroe Islands.
+3106647	Pilot survey of urinary porphyrins from persons transiently exposed to a PCB transformer fire.
+18940895	Polychlorinated biphenyl serum concentrations, lifestyle and time-to-pregnancy.
+15121506	Retrospective time-trend study of polybrominated diphenyl ether and polybrominated and polychlorinated biphenyl levels in human serum from the United States.
+11888842	Spermaturia and serum hormone concentrations at the age of puberty in boys prenatally exposed to polychlorinated biphenyls.
+22187485	Polychlorinated biphenyl congeners that increase the glucuronidation and biliary excretion of thyroxine are distinct from the congeners that enhance the serum disappearance of thyroxine.
+3930667	Polychlorinated biphenyls in the blood of personnel from an electric utility.
+100158	Effect of polychlorinated biphenyls on the elimination rate of antipyrine from plasma of rats and man.

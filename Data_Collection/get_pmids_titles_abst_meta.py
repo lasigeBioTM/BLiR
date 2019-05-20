@@ -97,18 +97,18 @@ def main_pmids(files):
 
 ###################################### OPTION 1 ######################################
 # Uncomment one of the next lines if you have a .bib file in the Raw_data folder
-#main_bib(ALL)          # run for file1 and file2
+#main_bib(ALL)          # run for all files
 #OR
-#main_bib(FILE_1)       # single run for file1
-#main_bib(FILE_2)       # single run for file2
+#main_bib(DIET)       # single run for file1
+main_bib(PAH)       # single run for file2
 
 
 ###################################### OPTION 2 ######################################
 # Uncomment one of the next lines if you have a _pmids.txt file in the
 #Processed_data folder
-#main_pmids(ALL)          # run for file1 and file2
+#main_pmids(ALL)          # run for all files
 #OR
-#main_pmids(FILE_1)       # single run for file1
-#main_pmids(FILE_2)       # single run for file2
+main_pmids(PAH)       # single run for file1
+#main_pmids(DBPS)       # single run for file2
 
 

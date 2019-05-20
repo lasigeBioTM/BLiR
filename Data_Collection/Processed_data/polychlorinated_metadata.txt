@@ -1,0 +1,144 @@
+23500409	2013	FocantJF FréryN BidondoML EppeG SchollG SaoudiA OlekoA Vandentorren	1	The Science of the total environment
+12530594	2002	KellyKJ ConnellyE ReinholdGA ByrneM PrezantD	6	Archives of environmental health
+11993631	2002	SchecterA PiskacAL GroshevaEI MatorovaNI RyanJJ FürstP Päpke AdibiJ PavukM SilverA Ghaffar	2	Chemosphere
+7583025	1995	RosenbergC KontsasH TornaeusJ MutanenP JäppinenP VainioH PattersonDGJr NeedhamL	0	Chemosphere
+18470317	2008	YangCY WangYJ ChenPC TsaiSJ GuoY	3	Environmental health perspectives
+23134768	2012	FernandezMF PareraJ ArrebolaJP MarinaLS VrijheidM LlopS AbalosM TardonA CastañoA AbadE Olea	1	The Science of the total environment
+10214714	1999	IidaT HirakawaH MatsuedaT NagayamaJ Nagata	1	Chemosphere
+17280705	2007	PavukM PattersonDGJr TurnerWE NeedhamLL KetchumN	1	Chemosphere
+12002477	2002	YaoY TakasugaT MasunagaS Nakanishi	3	Chemosphere
+23627713	2013	NadalM FàbregaF SchuhmacherM DomingoJ	0	Environmental science & technology
+11372892	2001	KimY YangSH KimM ShinD	0	Chemosphere
+23062831	2013	ParkH KimJ ChangY	0	Chemosphere
+16356533	2006	ChenHL ShihTS HuangPC HsiehCY LeeC	1	Chemosphere
+20299071	2010	XiaoK ZhaoX LiuZ ZhangB FangL LiuW Zheng	2	Chemosphere
+22994577	2012	RennertA WittsiepeJ KasperSonnenbergM BinderG FürstP CramerC KrämerU Wilhelm	3	Journal of toxicology and environmental health. Part A
+21186023	2011	YangCY HuangTS LinKC KuoP TsaiPC GuoY	1	Environmental research
+23676268	2013	ChangJW OuHY ChenHL SuHJ LeeC	3	Epidemiology (Cambridge, Mass.)
+18669171	2007	LeungHW KergerBD PaustenbachDJ RyanJJ Masuda	5	Toxicology and industrial health
+3921366	1985	ChenPH WongCK RappeC Nygren	7	Environmental health perspectives
+17215018	2007	ReisMF SampaioC AguiarP MaurícioMelimJ PereiraMiguelJ Päpke	1	Chemosphere
+8600289	1996	FleschJanysD BecherH GurnP JungD KonietzkoJ ManzA Päpke	33	Journal of toxicology and environmental health
+20872699	2010	CoefieldSJ FredricksTB SestonRM NadeauMW TazelaarDL KayDP NewstedJ GiesyJP ZwiernikM	0	Environmental toxicology and chemistry
+20891013	2010	ChenHL HuangHY HuangPC LeeC	0	Environmental toxicology and chemistry
+21458022	2011	HsuJF GuoHR WangHW LiaoCK LiaoP	1	Chemosphere
+18602159	2009	BilauM DeHenauwS SchroijenC BruckersL HondED KoppenG MatthysC VanDeMieroopE KeuneH BaeyensW NelenV VanLarebekeN WillemsJL Schoeters	1	Environment international
+20564999	2010	ChenYM LinYC WuTY ChangChienGP MaW	0	Journal of the Air & Waste Management Association (1995)
+10365432	1999	IidaT HirakawaH MatsuedaT TakenakaS Nagayama	1	Chemosphere
+15626377	2005	ChenHL LiaoPC SuHJ GuoYL ChenCH LeeC	7	The Science of the total environment
+15331262	2004	SchuhmacherM DomingoJL HagbergJ Lindström	0	Chemosphere
+10028656	1999	SchuhmacherM DomingoJL LlobetJM KivirantaH Vartiainen	1	Chemosphere
+16987543	2007	TodakaT HirakawaH HoriT TobiishiK IidaT Furue	5	Chemosphere
+10583118	1999	CoenraadsPJ OlieK TangN	1	The British journal of dermatology
+12690495	2003	ArisawaK MatsumuraT TohyamaC SaitoH SatohH NagaiM MoritaM Suzuki	3	International archives of occupational and environmental health
+18969545	2004	VanWouweN WindalI VanderperrenH EppeG XhrouetC MassartAC DebackerN SasseA BaeyensW DePauwE SartorF VanOyenH Goeyens	9	Talanta
+9776780	1998	ElliottJE MachmerMM HennyCJ WilsonLK NorstromR	1	Archives of environmental contamination and toxicology
+19850319	2010	TodakaT HirakawaH KajiwaraJ HoriT TobiishiK YasutakeD OnozukaD SasakiS MiyashitaC YoshiokaE YuasaM KishiR IidaT Furue	5	Chemosphere
+17761285	2008	ShihTS LeeWJ ShihM ChenYC HuangSL WangLC ChangChienGP TsaiP	0	Environment international
+3926478	1985	ChenRC TangSY MiyataH KashimotoT ChangYC ChangKJ TungT	5	Environmental research
+8815746	1996	SirimanneSR BarrJR PattersonDGJr Ma	4	Analytical chemistry
+9508735	1997	FleschJanys	0	Teratogenesis, carcinogenesis, and mutagenesis
+22579452	2012	ChangJW ChenHL SuHJ LiaoPC LeeC	0	Chemosphere
+11372879	2001	ThorpeS KellyM StartinJ HarrisonN Rose	2	Chemosphere
+3343772	1988	KahnPC GochfeldM NygrenM HanssonM RappeC VelezH GhentGuentherT WilsonW	13	JAMA
+11417873	2001	HuweJK ShelverWL StankerL PattersonDGJr TurnerW	0	Journal of chromatography. B, Biomedical sciences and applications
+10620519	2000	GoldmanLR HarnlyM FlatteryJ PattersonDGJr NeedhamL	6	Environmental health perspectives
+10390849	1999	RohdeS MoserGA PäpkeO McLachlanM	5	Chemosphere
+20850865	2010	ChangJW OuHY ChenHL GuoHR LiaoPC LeeC	5	Chemosphere
+16407087	2006	ChenHL SuHJ WangYJ GuoYL LiaoPC LeeC	0	Journal of toxicology and environmental health. Part A
+10845781	2000	WittsiepeJ SchreyP EwersU WilhelmM Selenka	0	Environmental research
+18093869	2008	WilhelmM WittsiepeJ LemmF RanftU KrämerU FürstP RöselerSC GreshakeM ImöhlM EberweinG RauchfussK KraftM Winneke	18	Mutation research
+16497357	2006	ShihTS ChenHL WuYL LinYC LeeC	2	Chemosphere
+16076757	2005	HsuPC LaiTJ GuoNW LambertGH GuoY	8	Journal of toxicology and environmental health. Part A
+16823400	2007	FerribyLL KnutsenJS HarrisM UniceKM ScottP NonyP HawsLC Paustenbach	6	Journal of exposure science & environmental epidemiology
+15876389	2005	LeeCC ChenHL SuHJ GuoYL LiaoP	0	Chemosphere
+22750796	2012	RawnDF RyanJJ SadlerAR SunWF HainesD MaceyK VanOostdam	3	Environment international
+10810104	2000	KumagaiS KodaS MiyakitaT YamaguchiH KatagiK Yasuda	4	Occupational and environmental medicine
+20455569	2010	HoriiY JiangQ HanariN LamPK YamashitaN JansingR AldousKM MauerMP EadonGA Kannan	6	Environmental science & technology
+9134690	1997	TepperA BurtS PiacitelliL PattersonDGJ	3	Chemosphere
+15006514	2004	HuSW ChangChienGP ChanC	0	Chemosphere
+7581897	1995	WeistrandC JakobssonE Norén	2	Journal of chromatography. B, Biomedical applications
+21979175	2012	ChernyakYI ShelepchikovAA BrodskyES GrassmanJ	0	Toxicology letters
+18722600	2008	TsaiPC WangYJ TsaiJH GuoYL UengTH LiuHS Huang	3	Environmental research
+22004731	2011	TodakaT HirakawaH KajiwaraJ OnozukaD SasakiS MiyashitaC YoshiokaE YuasaM KishiR IidaT UchiH Furue	3	Chemosphere
+17234238	2007	TurrioBaldassarriL AbateV AliverniniS BattistelliCL CarasiS CasellaM IacovellaN IamiceliAL IndelicatoA ScarcellaC LaRocca	6	Chemosphere
+9451808	1998	GonzalezCA KogevinasM HuiciA GadeaE LadonaM BoschA BledaM	3	Chemosphere
+15764532	2005	KumagaiS Koda	2	Journal of occupational and environmental hygiene
+9577932	1998	KontsasH RosenbergC TornaeusJ MutanenP Jäppinen	1	Archives of environmental health
+18368012	2008	ScottLL UniceKM ScottP NguyenLM HawsLC HarrisM Paustenbach	2	Journal of exposure science & environmental epidemiology
+17208274	2007	DebackerN SasseA vanWouweN GoeyensL SartorF vanOyen	1	Chemosphere
+18514762	2008	TurrioBaldassarriL AbateV BattistelliCL CarasiS CasellaM IacovellaN IndelicatoA LaRoccaC ScarcellaC Alivernini	3	Chemosphere
+15893794	2005	HsuJF GuoYL YangSY LiaoP	2	Chemosphere
+12040109	2002	KumagaiS KodaS MiyakitaT Ueno	5	Occupational and environmental medicine
+8910931	1996	AbrahamK KnollA EndeM PäpkeO Helge	18	Pediatric research
+18678409	2009	HsuJF LeeCC SuHJ ChenHL YangSY LiaoP	1	Environment international
+9599713	1998	FleschJanysD SteindorfK GurnP Becher	19	Environmental health perspectives
+7983676	1994	WeberTJ OuX MerchantM WangX SafeSH RamosK	0	Journal of biochemical toxicology
+15907660	2005	HirakoM AokiM KimuraK HanafusaY IshizakiH Kariya	2	Reproductive toxicology (Elmsford, N.Y.)
+1898530	1991	SvenssonBG NilssonA HanssonM RappeC AkessonB Skerfving	17	The New England journal of medicine
+413598	1977	Oishi	0	Bulletin of environmental contamination and toxicology
+22806962	2012	ToweyTP BarabásN DemondA FranzblauA GarabrantDH GillespieBW LepkowskiJ Adriaens	1	Environmental toxicology and chemistry
+17631943	2007	TodakaT HirakawaH KajiwaraJ HoriT TobiishiK OnozukaD KatoS SasakiS NakajimaS SaijoY SataF KishiR IidaT Furue	4	Chemosphere
+14659948	2004	WangSL LinCY GuoYL LinLY ChouWL ChangL	16	Chemosphere
+11345736	2000	SweetmanAJ AlcockRE WittsiepeJ JonesK	0	Environment international
+9828310	1998	SchecterA KassisI Päpke	13	Chemosphere
+19717228	2009	LeeCC ShihTS ChenH	0	Journal of hazardous materials
+19345979	2009	TurrioBaldassarriL AliverniniS CarasiS CasellaM FuselliS IacovellaN IamiceliAL LaRoccaC ScarcellaC BattistelliC	7	Chemosphere
+19150731	2009	NadalM DomingoJL GarcíaF Schuhmacher	0	Chemosphere
+16529794	2006	LeeCC GuoYL KueiCH ChangHY HsuJF WangST LiaoP	3	Chemosphere
+17217986	2007	WittsiepeJ FürstP SchreyP LemmF KraftM EberweinG WinnekeG Wilhelm	25	Chemosphere
+20378148	2010	ShenH DingG HanG WangX XuX HanJ LouX XuC CaiD SongY Lu	2	Chemosphere
+18715608	2008	NadalM PerellóG SchuhmacherM CidJ DomingoJ	1	Chemosphere
+8187706	1994	BeckH DrossA Mathar	14	Environmental health perspectives
+9726780	1998	OmaraFO FlipoD BrochuC DenizeauF BrousseauP PotworowskiEF Fournier	3	Journal of toxicology and environmental health. Part A
+8563846	1995	HanssonM GrimstadT Rappe	1	Occupational and environmental medicine
+18474391	2008	TodakaT HirakawaH KajiwaraJ HoriT TobiishiK OnozukaD KatoS SasakiS NakajimaS SaijoY SataF KishiR IidaT Furue	2	Chemosphere
+22704218	2012	ChovancováJ ConkaK FabišikováA SejákováZS DömötörováM DrobnáB Wimmerová	5	Chemosphere
+16412497	2006	ChenHL SuHJ GuoYL LiaoPC HungCF LeeC	4	The Science of the total environment
+11116349	2001	WrbitzkyR BeyerB ThomaH FlatauB HennigM WeberA AngererJ Lehnert	1	Archives of environmental contamination and toxicology
+18974082	2009	OnozukaD YoshimuraT KanekoS Furue	9	American journal of epidemiology
+12222776	2002	CovaciA KoppenG VanCleuvenbergenR SchepensP WinnekeG vanLarebekeN NelenV VlietinckR Schoeters	5	Chemosphere
+8920756	1996	EwersU WittsiepeJ SchreyP Selenka	0	Toxicology letters
+3921365	1985	MasudaY KurokiH HaraguchiK Nagayama	8	Environmental health perspectives
+17113646	2007	ChenHL SuHJ LeeC	0	Environment international
+8930103	1996	DemlE MangelsdorfI Greim	4	Chemosphere
+12963397	2003	WangSL ChenTT HsuJF HsuCC ChangLW RyanJJ GuoYL LambertG	3	Environmental research
+20537684	2010	MarchandP CariouR VénisseauA BrosseaudA AntignacJP LeBizec	1	Chemosphere
+9258707	1997	HanssonM BarregårdL SällstenG SvenssonBG Rappe	1	International archives of occupational and environmental health
+17426737	2007	CollinsJJ BodnerKM WilkenM HaidarS BurnsCJ BudinskyRA MartinGD CarsonML RowlandsJ	4	Journal of exposure science & environmental epidemiology
+16616371	2006	ChenHL SuHJ LeeC	1	Environment international
+12648480	2003	ChenHL LeeCC LiaoPC GuoYL ChenCH SuH	1	Environmental research
+9828301	1998	AbrahamK PäpkeO GrossA KordonouriO WiegandS WahnU Helge	17	Chemosphere
+8507107	1993	RyanJJ LevesqueD PanopioLG SunWF MasudaY Kuroki	12	Archives of environmental contamination and toxicology
+20886642	2010	SestonRM FredricksTB TazelaarDL CoefieldSJ BradleyPW NewstedJL KayDP FitzgeraldSD GiesyJP ZwiernikM	0	Environmental toxicology and chemistry
+19535140	2009	TsangHL WuSC WongCK LeungCK TaoS WongM	1	Environment international
+10739052	2000	WittsiepeJ SchreyP EwersU SelenkaF Wilhelm	4	Chemosphere
+17084884	2006	ChenHL HsuCY HungDZ HuM	2	The Science of the total environment
+14963712	2004	GuoYL LambertGH HsuCC HsuM	27	International archives of occupational and environmental health
+18442847	2008	CollinsJJ BodnerK HaidarS WilkenM BurnsCJ LamparskiLL BudinskyRA MartinGD CarsonM	2	Chemosphere
+19559461	2009	CollinsJJ WilkenM McBrideD HumphryNF HerbisonP BurnsCJ Bodner	1	Chemosphere
+9828309	1998	SchecterA RyanJJ Päpke	8	Chemosphere
+16455615	2006	LeeCC YaoYJ ChenHL GuoYL SuH	7	Journal of toxicology and environmental health. Part A
+21890171	2011	SunSJ KayamaF ZhaoJH GeJ YangYX FukatsuH IidaT TeradaM LiuD	2	Chemosphere
+15298188	2004	ParkS KimSJ KimKS LeeDS KimJ	0	Environmental science & technology
+18589988	2008	WenS YangFX GongY ZhangXL HuiY LiJG LiuAL WuYN LuWQ Xu	5	Environmental science & technology
+16213641	2006	LeeCC LinWT LiaoPC SuHJ ChenH	4	Environmental pollution (Barking, Essex : 1987)
+22686301	2012	WittsiepeJ WilhelmM Kraus	1	Journal of toxicology and environmental health. Part A
+19641944	2010	AbergA TysklindM NilssonT MacLeodM HanbergA AnderssonR BergekS LindbergR Wiberg	0	Environmental science and pollution research international
+19482333	2009	ZuberoMB IbarluzeaJM AurrekoetxeaJJ RiveraJ PareraJ AbadE GoñiF LópezR EtxeandiaA RodríguezC SáenzJ	4	Chemosphere
+9210724	1997	ChaoWY HsuCC GuoY	9	Archives of environmental health
+15581934	2005	WingforsH HanssonM PäpkeO BergekS NilssonCA Haglund	1	Chemosphere
+21962672	2011	CroesK VanLangenhoveK DenHondE BruckersL CollesA KoppenG LootsI NelenV SchoetersG NawrotT VanLarebekeN DenisonMS VandermarkenT ElskensM Baeyens	1	Talanta
+15589248	2005	KimBH IkonomouMG LeeSJ KimHS ChangY	5	The Science of the total environment
+10028655	1999	IidaT HirakawaH MatsuedaT TakenakaS YuML GuoY	9	Chemosphere
+18569567	2008	WittsiepeJ SchreyP LemmF EberweinG Wilhelm	5	Journal of toxicology and environmental health. Part A
+14659944	2004	ChenHL SuHJ LiaoPC ChenCH LeeC	5	Chemosphere
+8255162	1993	NeubertR MaskowL WebbJ JacobMüllerU NogueiraAC DelgadoI HelgeH Neubert	5	Life sciences
+10834297	2000	NeubertR MaskowL TriebigG BrodingHC JacobMüllerU HelgeH Neubert	2	Life sciences
+15667840	2005	LinkB GabrioT ZoellnerI PiechotowskiI PaepkeO HerrmannT FelderKennelA MaisnerV SchickKH SchrimpfM SchwenkM Wuthe	14	Chemosphere
+9599721	1998	vonManikowskyS SagunskiH PäpkeO FabigKR NeusH SchümannM SpannhakeK KarmausW OsiusN Zier	1	Environmental health perspectives
+10739072	2000	GolkaK KiesswetterE KieperH BlaszkewiczM HallierE ThierR SietmannB BoltHM Seeber	1	Chemosphere
+19455360	2010	ChenYC TsaiPJ WangLC ShihM LeeW	1	Environmental science and pollution research international
+11514106	2001	KoppenG CovaciA VanCleuvenbergenR SchepensP WinnekeG NelenV Schoeters	11	Toxicology letters
+19118865	2009	ShihTS ShihM LeeWJ HuangSL WangLC ChenYC TsaiP	1	Chemosphere
+18599107	2008	LeijsMM vanTeunenbroekT OlieK KoppeJG tenTusscherGW vanAalderenWM deVoogt	4	Chemosphere

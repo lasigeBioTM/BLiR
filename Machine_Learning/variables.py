@@ -8,8 +8,15 @@ from pathlib import Path
 ###########################################################################
                                                                      ######
 # Individual file names                                              ######
-FILE_1 = 'sample_file_1'     # Do not write sample_file_1.bib        ######
-FILE_2 = 'sample_file_2'                                             ######
+DIET = 'diet'      # Do not write diet.bib                           ######
+DBPS = 'dbps'                                                        ######
+HCA = 'hca'                                                          ######
+PAH = 'pah'                                                          ######
+PCB = 'pcb'                                                          ######
+PHTHALATES = 'phthalates'                                            ######
+POLYBROMINATED = 'polybrominated'                                    ######
+POLYCHLORINATED = 'polychlorinated'                                  ######
+REPRODUCIBILITY = 'reproducibility'                                  ######
                                                                      ######
 ###########################################################################
 ###########################################################################

@@ -1,0 +1,122 @@
+10737708	Association between acetylator genotype and 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) DNA adduct formation in colon and prostate of inbred Fischer 344 and Wistar Kyoto rats.
+16202642	Age at exposure and Apc status influence the levels of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP)-DNA adducts in mouse intestine and liver.
+10503894	Biomonitoring of heterocyclic aromatic amine metabolites in human urine.
+15138037	Impact of environmental exposures on the mutagenicity/carcinogenicity of heterocyclic amines.
+9766658	Immunohistochemical demonstration of carcinogen-DNA adducts in tissues of rats given 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP): detection in paraffin-embedded sections and tissue distribution.
+9202762	Human exposure to mutagenic/carcinogenic heterocyclic amines and comutagenic beta-carbolines.
+11578808	Concentration of 2-amino-1-methyl-6-phenylimidazo(4,5-b)pyridine (PhIP) in urine and alkali-hydrolyzed urine after consumption of charbroiled beef.
+7959450	Biological significance of trace levels of mutagenic heterocyclic aromatic amines in human diet: a critical review.
+18692111	Biomonitoring of urinary metabolites of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) following human consumption of cooked chicken.
+8565143	DNA adduct formation, cell proliferation and aberrant crypt focus formation induced by PhIP in male and female rat colon with relevance to carcinogenesis.
+8407549	The rat urinary bladder as a new target of heterocyclic amine carcinogenicity: tumor induction by 3-amino-1-methyl-5H-pyrido[4,3-b]indole acetate.
+14690798	Effect of dietary constituents with chemopreventive potential on adduct formation of a low dose of the heterocyclic amines PhIP and IQ and phase II hepatic enzymes.
+8526350	Inhibition of DNA adduct formation of 2-amino-1-methyl-6- phenylimidazo[4,5-b]pyridine (PhIP) by dietary indole-3-carbinol (I3C) in the mammary gland, colon, and liver of the female F-344 rat.
+12489111	Generation of free radicals and induction of DNA adducts by activation of heterocyclic aromatic amines via different metabolic pathways in vitro.
+14742322	Urinary N2-(2'-deoxyguanosin-8-yl)PhIP as a biomarker for PhIP exposure.
+11535243	The role of human glutathione S-transferases (hGSTs) in the detoxification of the food-derived carcinogen metabolite N-acetoxy-PhIP, and the effect of a polymorphism in hGSTA1 on colorectal cancer risk.
+15764290	DNA adduct formation of 14 heterocyclic aromatic amines in mouse tissue after oral administration and characterization of the DNA adduct formed by 2-amino-9H-pyrido[2,3-b]indole (AalphaC), analysed by 32P_HPLC.
+15036007	Formation and analysis of heterocyclic aromatic amine-DNA adducts in vitro and in vivo.
+10050262	Inhibition of DNA adduct formation of PhIP in female F344 rats by dietary conjugated linoleic acid.
+1815071	Synthesis and antineoplastic activity of some cyano-, carboxy-, carbomethoxy-, and carbamoylborane adducts of heterocyclic amines.
+8055653	Effect of glutathione depletion and inhibition of glucuronidation and sulfation on 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) metabolism, PhIP-DNA adduct formation and unscheduled DNA synthesis in primary rat hepatocytes.
+15110095	CYP1A2 and NAT2 genotype/phenotype relations and urinary excretion of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in a human dietary intervention study.
+8070736	Transfer of the food mutagen PhIP to foetuses and newborn mice following maternal exposure.
+10744044	Immunohistochemical detection of carcinogen-DNA adducts in normal human prostate tissues transplanted into the subcutis of athymic nude mice: results with 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) and 3,2'-dimethyl-4-aminobiphenyl (DMAB) and relation to cytochrome P450s and N-acetyltransferase activity.
+1483260	Formation of DNA adducts of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in male Fischer-344 rats.
+10685010	Indole-3-carbinol as a chemopreventive agent in 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) carcinogenesis: inhibition of PhIP-DNA adduct formation, acceleration of PhIP metabolism, and induction of cytochrome P450 in female F344 rats.
+23400709	2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP)-DNA adducts in benign prostate and subsequent risk for prostate cancer.
+15155558	Identification of metabolites in urine and feces from rats dosed with the heterocyclic amine, 2-amino-3-methyl-9H-pyrido[2,3-b]indole (MeA alpha C).
+15036006	PhIP metabolites in human urine after consumption of well-cooked chicken.
+2013135	32P Postlabelling analysis of urinary mutagens from smokers of black tobacco implicates 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) as a major DNA-damaging agent.
+17952757	Exposure to heterocyclic aromatic amines from the consumption of cooked red meat and its effect on human cancer risk: a review.
+20708442	Development and validation of a liquid chromatography-tandem mass spectrometry assay for the analysis of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) and its metabolite 2-hydroxyamino-1-methyl-6-phenylimidazo[4,5-b]pyridine (N-OH-PhIP) in plasma, urine, bile, intestinal contents, faeces and eight selected tissues from mice.
+10755388	Delay of DNA-adduct repair and severe toxicity in xeroderma pigmentosum group A gene (XPA) deficient mice treated with 2-amino-1-methyl-6-phenyl-imidazo [4,5-b] pyridine (PhIP).
+21298592	Exposure to isothiocyanates suppresses urinary mutagenicity in rats treated with heterocyclic amine IQ: lack of association with CYP1 activity.
+10190547	DNA adducts of heterocyclic amine food mutagens: implications for mutagenesis and carcinogenesis.
+18980957	Dietary intake of meat and meat-derived heterocyclic aromatic amines and their correlation with DNA adducts in female breast tissue.
+11921178	Human exposure to heterocyclic amine food mutagens/carcinogens: relevance to breast cancer.
+8319619	Low-level biological dosimetry of heterocyclic amine carcinogens isolated from cooked food.
+8603466	Protection by chlorophyllin and indole-3-carbinol against 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP)-induced DNA adducts and colonic aberrant crypts in the F344 rat.
+20396988	Determination of heterocyclic amines in urine samples by capillary liquid chromatography with evaporated light-scattering detection.
+9202755	DNA adducts of heterocyclic amines: formation, removal and inhibition by dietary components.
+17416774	Grilled meat consumption and PhIP-DNA adducts in prostate carcinogenesis.
+15059926	Syntheses of DNA adducts of two heterocyclic amines, 2-amino-3-methyl-9H-pyrido[2,3-b]indole (MeAalphaC) and 2-amino-9H-pyrido[2,3-b]indole (AalphaC) and identification of DNA adducts in organs from rats dosed with MeAalphaC.
+10798216	Tea as a potential chemopreventive agent in PhIP carcinogenesis: effects of green tea and black tea on PhIP-DNA adduct formation in female F-344 rats.
+12067575	Biomarkers of exposure to heterocyclic amines: approaches to improve the exposure assessment.
+15065796	Optimization of a clean-up procedure for the determination of heterocyclic aromatic amines in urine by field-amplified sample injection-capillary electrophoresis-mass spectrometry.
+12949046	Sulforaphane and quercetin modulate PhIP-DNA adduct formation in human HepG2 cells and hepatocytes.
+15686438	Inhibitory effects of heterocyclic amine-induced DNA adduct formation in mouse liver and lungs by beer.
+12214671	Heterocyclic aromatic amine metabolism, DNA adduct formation, mutagenesis, and carcinogenesis.
+10418945	Dietary omega-3 fatty acids as potential inhibitors of carcinogenesis: effect on DNA adduct formation of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in mice and rats.
+9463528	Heterocyclic aromatic amines in human urine following a fried meat meal.
+17936011	New insights in the formation of deoxynucleoside adducts with the heterocyclic aromatic amines PhIP and IQ by means of ion trap MSn and accurate mass measurement of fragment ions.
+15310244	Rapid biomonitoring of heterocyclic aromatic amines in human urine by tandem solvent solid phase extraction liquid chromatography electrospray ionization mass spectrometry.
+15777097	Formation of a mutagenic heterocyclic aromatic amine from creatinine in urine of meat eaters and vegetarians.
+1944385	The formation of heart DNA adducts in F344 rat following dietary administration of heterocyclic amines.
+8055652	Metabolic activation pathway for the formation of DNA adducts of the carcinogen 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in rat extrahepatic tissues.
+8565139	Validation in rats of two biomarkers of exposure to the food-borne carcinogen 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP): PhIP-DNA adducts and urinary PhIP.
+7881341	Rapid metabolic phenotypes for acetyltransferase and cytochrome P4501A2 and putative exposure to food-borne heterocyclic amines increase the risk for colorectal cancer or polyps.
+7586192	Possible mechanisms for PhIP-DNA adduct formation in the mammary gland of female Sprague-Dawley rats.
+9631495	Absence of PhIP adducts, p53 and Apc mutations, in rats fed a cooked beef diet containing a high level of heterocyclic amines.
+11477514	U.S. dietary exposures to heterocyclic amines.
+10050263	Effects of dietary conjugated linoleic acid on DNA adduct formation of PhIP and IQ after bolus administration to female F344 rats.
+16394512	Inhibitory effects of beer on mutation in the Ames test and DNA adduct formation in mouse organs induced by 2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP).
+9772093	Localization of cytochrome P4501A1 and covalent binding of a mutagenic heterocyclic amine in blood vessel endothelia of rodents.
+16780350	Synthesis of the PhIP adduct of 2'-deoxyguanosine and its incorporation into oligomeric DNA.
+12903983	Inhibitory effects of (-)-epigallocatechin gallate on the mutation, DNA strand cleavage, and DNA adduct formation by heterocyclic amines.
+16889804	Human sensitivity to PhIP: a novel marker for prostate cancer risk.
+9250630	Heterocyclic amines, cytochrome P4501A2, and N-acetyltransferase: issues involved in incorporating putative genetic susceptibility markers into epidemiological studies.
+12628517	Direct reduction of N-acetoxy-PhIP by tea polyphenols: a possible mechanism for chemoprevention against PhIP-DNA adduct formation.
+15207388	Characterization of a peptide adduct formed by N-acetoxy-2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP), a reactive intermediate of the food carcinogen PhIP.
+19441775	Biomonitoring of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) and its carcinogenic metabolites in urine.
+8199311	Mutation and repair induced by the carcinogen 2-(hydroxyamino)-1-methyl-6-phenylimidazo[4,5-b]pyridine (N-OH-PhIP) in the dihydrofolate reductase gene of Chinese hamster ovary cells and conformational modeling of the dG-C8-PhIP adduct in DNA.
+23276304	Biomonitoring of dietary heterocyclic amines and metabolites in urine by liquid phase microextraction: 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP), a possible biomarker of exposure to dietary PhIP.
+7671244	Increased risk of mammary carcinoma development following transplacental and trans-breast milk exposure to a food-derived carcinogen, 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP), in Sprague-Dawley rats.
+2710268	Significant increase of IQ-type heterocyclic amines, dietary carcinogens in the plasma of patients with uremia just before induction of hemodialysis treatment.
+8625507	Uptake of the food-derived heterocyclic amine carcinogen 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine and its N-hydroxy metabolite into rat pancreatic acini and hepatocytes in vitro.
+10503895	Macromolecular adduct formation and metabolism of heterocyclic amines in humans and rodents at low doses.
+8781372	Human exposure to carcinogenic heterocyclic amines and their mutational fingerprints in experimental animals.
+7955104	In vitro formation and degradation of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) protein adducts.
+19628463	Translesional DNA synthesis through a C8-guanyl adduct of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in Vitro: REV1 inserts dC opposite the lesion, and DNA polymerase kappa potentially catalyzes extension reaction from the 3'-dC terminus.
+15224350	Effects of polyunsaturated fatty acids on prostaglandin synthesis and cyclooxygenase-mediated DNA adduct formation by heterocyclic aromatic amines in human adenocarcinoma colon cells.
+18599369	Determination of heterocyclic aromatic amines in human urine by using hollow-fibre supported liquid membrane extraction and liquid chromatography-ultraviolet detection system.
+9202746	Chemoprotection against the formation of colon DNA adducts from the food-borne carcinogen 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in the rat.
+16780355	Chemical synthesis of 2'-deoxyguanosine-C8 adducts with heterocyclic amines: an application to synthesis of oligonucleotides site-specifically adducted with 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine.
+16962602	On-line capillary based quantitative analysis of a heterocyclic amine in human urine.
+9591192	Chemopreventive properties of indole-3-carbinol (I3C): inhibition of DNA adduct formation of the dietary carcinogen, 2-amino-1-methyl-6-phenylimidazo [4,5-b]pyridine (PhIP), in female F344 rats.
+7955116	Removal of DNA adducts of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in the male Fischer-344 rat.
+17487839	Racial differences in clinical and pathological associations with PhIP-DNA adducts in prostate.
+19122802	METHODS FOR AROMATIC AND HETEROCYCLIC AMINE CARCINOGEN-DNA ADDUCT ANALYSIS BY LIQUID CHROMATOGRAPHY-TANDEM MASS SPECTROMETRY.
+11467522	Quantification of the heterocyclic aromatic amine DNA adduct N-(deoxyguanosin-8-yl)-2-amino-3-methylimidazo[4,5-f]quinoline in livers of rats using capillary liquid chromatography/microelectrospray mass spectrometry: a dose-response study.
+16908439	Detection of 2-amino-1-methyl-6-phenylimidazo [4,5-b]-pyridine (PhIP)-DNA adducts in human pancreatic tissues.
+17985119	A simplified hollow-fibre supported liquid membrane extraction method for quantification of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in urine and plasma samples.
+20113859	Application of the Margin of Exposure (MOE) approach to substances in food that are genotoxic and carcinogenic: example: CAS No: 105650-23-5 PhIP (2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine).
+15184267	Relationship between content and activity of cytochrome P450 and induction of heterocyclic amine DNA adducts in human liver samples in vivo and in vitro.
+1544148	Chemical analysis, prevention, and low-level dosimetry of heterocyclic amines from cooked food.
+19810020	Hollow fibre-supported liquid membrane extraction and LC-MS/MS detection for the analysis of heterocyclic amines in urine samples.
+21238752	Screening of non-polar heterocyclic amines in urine by microextraction in packed sorbent-fluorimetric detection and confirmation by capillary liquid chromatography.
+12387319	Effect of CYP1A2 deficiency on heterocyclic amine DNA adduct levels in mice.
+10962432	Effect of diet on serum albumin and hemoglobin adducts of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in humans.
+22173956	Impact of aqueous doash extract on urinary mutagenicity in rats exposed to heterocyclic amines.
+21688801	Metabolism and biomarkers of heterocyclic aromatic amines in molecular epidemiology studies: lessons learned from aromatic amines.
+18792919	Mass spectrometric investigation of the sequence selectivity for adduction of heterocyclic aromatic amines on single-strand oligonucleotides.
+15036004	Estimates of heterocyclic amine intake in the US population.
+19838915	Well-done meat intake, heterocyclic amine exposure, and cancer risk.
+8822495	Exposure to and activation of dietary heterocyclic amines in humans.
+7889858	Species differences in metabolism of heterocyclic aromatic amines, human exposure, and biomonitoring.
+1499093	Dose-dependent formation of preneoplastic foci and DNA adducts in rat liver with 2-amino-3-methyl-9H-pyrido[2,3-b]indole (MeA alpha C) and 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP).
+15036002	Determination of heterocyclic aromatic amines in beef extract, cooked meat and rat urine by liquid chromatography with coulometric electrode array detection.
+1473240	Substances in human urine that strongly inhibit bacterial mutagenicity of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) and related heterocyclic amines.
+21456541	DNA adduct formation of 4-aminobiphenyl and heterocyclic aromatic amines in human hepatocytes.
+1722281	Mutagenicity of some heterocyclic amines in Salmonella typhimurium with metabolic activation by human red blood cell cytosol.
+10719041	Pathways of heterocyclic amine activation in the breast: DNA adducts of 2-amino-3-methylimidazo[4,5-f]quinoline (IQ) formed by peroxidases and in human mammary epithelial cells and fibroblasts.
+8149474	Adduction of the heterocyclic amine food mutagens IQ and PhIP to mitochondrial and nuclear DNA in the liver of Fischer-344 rats.
+15704238	Two food-borne heterocyclic amines: metabolism and DNA adduct formation of amino-alpha-carbolines.
+11323401	Mrp2-deficiency in the rat impairs biliary and intestinal excretion and influences metabolism and disposition of the food-derived carcinogen 2-amino-1-methyl-6-phenylimidazo.
+17184892	Deconjugation of N-glucuronide conjugated metabolites with hydrazine hydrate--biomarkers for exposure to the food-borne carcinogen 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP).
+12016160	Oxidation of 5'-site guanine at GG and GGG sequences induced by a metabolite of carcinogenic heterocyclic amine PhIP in the presence of Cu(II) and NADH.
+12753428	Incorporation of the food mutagen 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) into fur and correlation with intestinal tumourigenesis in Min/+ mice.
+14601045	Genetic polymorphisms and modulation of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP)-DNA adducts in human lymphocytes.
+12351157	Analysis of total meat intake and exposure to individual heterocyclic amines in a case-control study of colorectal cancer: contribution of metabolic variation to risk.
+9920831	HCA, an immunoglobulin-like adhesion molecule present on the earliest human hematopoietic precursor cells, is also expressed by stromal cells in blood-forming tissues.
+15110096	Excretion of metabolites in urine and faeces from rats dosed with the heterocyclic amine, 2-amino-9H-pyrido[2,3-b]indole (AalphaC).

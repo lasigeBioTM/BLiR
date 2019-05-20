@@ -1,0 +1,136 @@
+17243927	Strong interference of hemoglobin concentration on CSF total protein measurement using the trichloroacetic acid precipitation method.
+10910985	The disinfection by-products dichloro-, dibromo-, and bromochloroacetic acid impact intestinal microflora and metabolism in Fischer 344 rats upon exposure in drinking water.
+20153349	Evaluation of two different metabolic hypotheses for dichloromethane toxicity using physiologically based pharmacokinetic modeling for in vivo inhalation gas uptake data exposure in female B6C3F1 mice.
+19071340	Total internal reflected resonance light scattering determination of protein in human blood serum at water/tetrachloromethane interface with Arsenazo-TB and Cetyltrimethylammonium bromide.
+10473651	Induction of genetic damage in human lymphocytes and mutations in Salmonella by trihalomethanes: role of red blood cells and GSTT1-1 polymorphism.
+7966442	Potentiation of oxidative damage to rat red blood cells by the concurrent presence of t-butyl hydroperoxide and bromotrichloromethane.
+11459142	Blood:air partition coefficients of individual and mixtures of trihalomethanes.
+2363490	Development of a trichloroacetic acid precipitation assay for covalent adducts of thymidylate synthase.
+24214427	Tandem mass spectrometry study of C-phenyl-N-tert-butyl nitrone spin adducts from in vitro rat liver microsomal metabolism of bromotrichloromethane and carbon tetrachloride.
+15119527	Therapeutic effects of glucose infusion on monochloroacetic acid exposure in rats.
+1900959	Physiologically based pharmacokinetic modeling with dichloromethane, its metabolite, carbon monoxide, and blood carboxyhemoglobin in rats and humans.
+22829048	The influence of physicochemical properties on the internal dose of trihalomethanes in humans following a controlled showering exposure.
+17656487	Disposition of bromodichloromethane in humans following oral and dermal exposure.
+19491488	Validation of urinary trichloroacetic acid as a biomarker of exposure to drinking water disinfection by-products.
+11836015	Alterations in ovarian follicular progesterone secretion by elevated exposures to the drinking water disinfection by-product dibromoacetic acid: examination of the potential site(s) of impact along the steroidogenic pathway.
+17907789	Analysis of DNA adducts formed in vivo in rats and mice from 1,2-dibromoethane, 1,2-dichloroethane, dibromomethane, and dichloromethane using HPLC/accelerator mass spectrometry and relevance to risk estimates.
+9288498	Alveolar breath sampling and analysis to assess trihalomethane exposures during competitive swimming training.
+18032532	Maternal exposure to water disinfection by-products during gestation and risk of hypospadias.
+14657523	Serum hormone characterization and exogeneous hormone rescue of bromodichloromethane-induced pregnancy loss in the F344 rat.
+7891366	The contribution of electrophilic and radicalic intermediates to phospholipid adducts formed by halomethanes in vivo.
+7190985	The influence of tetrachloromethane on subcellular structures of rat hepatocyte lysosomal and cytoplasmic enzymes of the liver, lungs and blood serum of rats during continuous and intermittent action of tetrachloromethane.
+16961003	Changes in blood trihalomethane concentrations resulting from differences in water quality and water use activities.
+11241565	Urinary concentrations of trichloroacetic acid in Danish workers exposed to trichloroethylene, 1947-1985.
+24010	Antigens from human seminal plasma. Part III: studies on two new antigens from the tricholoracetic acid soluble fraction.
+16002374	Influence of tap water quality and household water use activities on indoor air and internal dose levels of trihalomethanes.
+1433433	Fatal systemic poisoning after skin exposure to monochloroacetic acid.
+17060096	Development of physiologically based toxicokinetic models for improving the human indoor exposure assessment to water contaminants: trichloroethylene and trihalomethanes.
+17437090	A comparison of three solvent-free techniques coupled with gas chromatography for determining trihalomethanes in urine samples.
+21501533	Individual exposures to drinking water trihalomethanes, low birth weight and small for gestational age risk: a prospective Kaunas cohort study.
+11140442	Uptake of chlorination disinfection by-products; a review and a discussion of its implications for exposure assessment in epidemiological studies.
+14632119	Simultaneous determination of trace levels of nine haloacetic acids in biological samples as their pentafluorobenzyl derivatives by gas chromatography/tandem mass spectrometry in electron capture negative ion chemical ionization mode.
+12560046	LC-MS and NMR determination of a dichloromethane artifact adduct, cyproheptadine chloromethochloride.
+22225821	Decreased birth weight in relation to maternal urinary trichloroacetic acid levels.
+10632141	Hepatocarcinogenicity in the male B6C3F1 mouse following a lifetime exposure to dichloroacetic acid in the drinking water: dose-response determination and modes of action.
+9465273	Regenerative hyperplasia is not required for liver tumor induction in female B6C3F1 mice exposed to trihalomethanes.
+7655606	Analysis of trichloroacetic acid in the urine of workers occupationally exposed to trichloroethylene by capillary gas chromatography.
+484852	Determination of trihalomethanes in drinking water by gas chromatography with a microwave plasma emission detector.
+15747777	Systemic effects and skin injury after experimental dermal exposure to monochloroacetic acid.
+22277885	Oral administration of potassium bromate, a major water disinfection by-product, induces oxidative stress and impairs the antioxidant power of rat blood.
+18000836	Simple and sensitive quantification of bioactive peptides in biological matrices using liquid chromatography/selected reaction monitoring mass spectrometry coupled with trichloroacetic acid clean-up.
+12573897	Urinary levels of trichloroacetic acid, a disinfection by-product in chlorinated drinking water, in a human reference population.
+20414643	Trichloroacetic acid in urine as biological exposure equivalent for low exposure concentrations of trichloroethene.
+11368561	Characterization of nucleoside and DNA adducts formed by S-(1-acetoxymethyl)glutathione and implications for dihalomethane-glutathione conjugates.
+3592563	Automated trichloroacetic acid precipitation method for urine total protein.
+6489295	Personal exposure to volatile organic compounds. I. Direct measurements in breathing-zone air, drinking water, food, and exhaled breath.
+19550438	Public health interpretation of trihalomethane blood levels in the United States: NHANES 1999-2004.
+23222181	Exposure to drinking water trihalomethanes and their association with low birth weight and small for gestational age in genetically susceptible women.
+15258281	Urinary excretion half life of trichloroacetic acid as a biomarker of exposure to chlorinated drinking water disinfection by-products.
+18197300	Exogenous and endogenous determinants of blood trihalomethane levels after showering.
+9436291	Evaluation of 99mtechnetium-radiopharmaceutical binding to blood elements using different trichloroacetic acid concentrations.
+8674165	Comparison of ethanol plasma-protein precipitation with plasma ultrafiltration and trichloroacetic acid protein precipitation for the measurement of unbound platinum concentrations.
+15141106	Chronic exposure to dibromoacetic acid, a water disinfection byproduct, diminishes primordial follicle populations in the rabbit.
+11489877	Dehalogenation of dichloromethane by dichloromethane dehalogenase/glutathione S-transferase leads to formation of DNA adducts.
+21238955	Urinary trichloroacetic acid levels and semen quality: a hospital-based cross-sectional study in Wuhan, China.
+17622976	Elevation protective role of Camellia sinensis and Urtica dioica infusion against trichloroacetic acid-exposed in rats.
+11603954	Weight of evidence for an association between adverse reproductive and developmental effects and exposure to disinfection by-products: a critical review.
+8844978	Effects of four trihalomethanes on DNA strand breaks, renal hyaline droplet formation and serum testosterone in male F-344 rats.
+11270847	Solid-phase extraction as an alternative to dichloromethane in analysis of urine free cortisol.
+18296665	Relationships between the concentrations of trichloroacetic acid-soluble copper and caeruloplasmin in the serum of cattle from areas with different soil concentrations of molybdenum.
+8625942	In vivo genotoxicity of dichloroacetic acid: evaluation with the mouse peripheral blood micronucleus assay and the single cell gel assay.
+17161896	Lack of formic acid production in rat hepatocytes and human renal proximal tubule cells exposed to chloral hydrate or trichloroacetic acid.
+19583459	Reliability of using urinary and blood trichloroacetic acid as a biomarker of exposure to chlorinated drinking water disinfection byproducts.
+19476964	Impact of water stagnation in residential cold and hot water plumbing on concentrations of trihalomethanes and haloacetic acids.
+20833606	Genotoxic effects in swimmers exposed to disinfection by-products in indoor swimming pools.
+17506350	Analysis of the effect of the polyprenol preparation ropren and the choline alphoscerate preparation gliatilin on the membrane-bound and soluble forms of cholinesterases and monoamine oxidase of rat brain and serum in the tetrachloromethane model system of hepatic encephalopathy.
+16581538	Changes in breath trihalomethane levels resulting from household water-use activities.
+20541479	Determination of haloacetic acids in human urine by headspace gas chromatography-mass spectrometry.
+8100433	Effect of methanol or modifications of the hepatic glutathione concentration on the metabolism of dichloromethane to carbon monoxide in rats.
+18518807	Evaluation of associations between lifetime exposure to drinking water disinfection by-products and bladder cancer in dogs.
+9875296	Biotransformation of perchloroethene: dose-dependent excretion of trichloroacetic acid, dichloroacetic acid, and N-acetyl-S-(trichlorovinyl)-L-cysteine in rats and humans after inhalation.
+8378332	Expression of mammalian glutathione S-transferase 5-5 in Salmonella typhimurium TA1535 leads to base-pair mutations upon exposure to dihalomethanes.
+28060640	Nonthermal Plasma Chemical Processing of Bromomethane.
+11834463	Assessing exposure in epidemiologic studies to disinfection by-products in drinking water: report from an international workshop.
+22156019	Environmental and urinary markers of prenatal exposure to drinking water disinfection by-products, fetal growth, and duration of gestation in the PELAGIE birth cohort (Brittany, France, 2002-2006).
+11213196	Occupational exposure to trihalomethanes in indoor swimming pools.
+21648437	Haloacetic acids in swimming pools: swimmer and worker exposure.
+11934951	Distribution and determinants of trihalomethane concentrations in indoor swimming pools.
+12644186	Altered gene expression in mouse livers after dichloroacetic acid exposure.
+234201	Solubility fo fibrin clots in monochloroacetic acid. A reflection of serum pepsinogen levels.
+598932	Alveolar air and blood dichloromethane concentration in shoe sole factory workers.
+3692006	Monochloroacetic acid toxicity in the mouse associated with blood-brain barrier damage.
+11707141	Binding of chlorohydrocarbons to metal centers: quantitative evaluation of relative binding constants and structural characterization of the first isolable transition metal-chloromethane adduct.
+12033307	Quantitative detection of trichloroacetic acid in human urine using isotope dilution high-performance liquid chromatography-electrospray ionization tandem mass spectrometry.
+11445514	Assessing exposure to disinfection by-products in women of reproductive age living in Corpus Christi, Texas, and Cobb county, Georgia: descriptive results and methods.
+10877027	Monitoring of occupational exposure to tetrachloroethene by analysis for unmetabolized tetrachloroethene in blood and urine in comparison with urinalysis for trichloroacetic acid.
+16331909	NOx formation in the plasma treatment of halomethanes.
+9152590	Enterohepatic recirculation of trichloroethanol glucuronide as a significant source of trichloroacetic acid. Metabolites of trichloroethylene.
+11158713	Physiologically based pharmacokinetic modeling of inhalation exposure of humans to dichloromethane during moderate to heavy exercise.
+19464572	Contribution of trichloroacetic acid to liver tumors observed in perchloroethylene (perc)-exposed mice.
+17999340	Determination of chemopreventive role of Foeniculum vulgare and Salvia officinalis infusion on trichloroacetic acid-induced increased serum marker enzymes lipid peroxidation and antioxidative defense systems in rats.
+15921841	Tribromomethane exposure and dietary folate deficiency in the formation of aberrant crypt foci in the colons of F344/N rats.
+15141287	Formic acid excretion in rats and mice exposed to bromodichloromethane: a possible link to renal tubule cell proliferation in long-term studies.
+12975328	Plasma binding of trichloroacetic acid in mice, rats, and humans under cancer bioassay and environmental exposure conditions.
+10378450	Influence of oral administration of a quaternary mixture of trihalomethanes on their blood kinetics in the rat.
+9924004	Exposure estimates to disinfection by-products of chlorinated drinking water.
+15902975	Measurement of trihalomethanes and methyl tert-butyl ether in whole blood using gas chromatography with high-resolution mass spectrometry.
+7268197	Effects of intermittent dichloromethane inhalation on blood carboxyhemoglobin concentration and drug metabolizing enzymes in rat.
+12598663	Effect of trihalomethane exposure on fetal development.
+8494496	Polymorphism of glutathione conjugation of methyl bromide, ethylene oxide and dichloromethane in human blood: influence on the induction of sister chromatid exchanges (SCE) in lymphocytes.
+8421320	Tissue distribution, excretion, and urinary metabolites of dichloroacetic acid in the male Fischer 344 rat.
+6347856	The actions of dichloroacetic acid on blood glucose, liver glycogen and fatty acid synthesis in obese-hyperglycaemic (ob/ob) and lean mice.
+12117645	Trichloroacetic acid as a biomarker of exposure to disinfection by-products in drinking water: a human exposure trial in Adelaide, Australia.
+23454109	Baseline blood trihalomethanes, semen parameters and serum total testosterone: a cross-sectional study in China.
+18171646	Case-control study of the effects of trihalomethanes on urinary bladder cancer risk.
+15776496	Analysis of dichloroacetic acid in rat blood and tissues by hydrophilic interaction liquid chromatography with tandem mass spectrometry.
+907181	Rapid determination of trichloroethanol and trichloroacetic acid in urine.
+19022327	Hepatoprotective role and antioxidant capacity of pomegranate (Punica granatum) flowers infusion against trichloroacetic acid-exposed in rats.
+17092785	Sensitive headspace gas chromatography-mass spectrometry determination of trihalomethanes in urine.
+9853003	A human physiologically based pharmacokinetic model for trichloroethylene and its metabolites, trichloroacetic acid and free trichloroethanol.
+18678040	Alveolar air and urine analyses as biomarkers of exposure to trihalomethanes in an indoor swimming pool.
+22281753	Comparison of trihalomethanes in tap water and blood: a case study in the United States.
+9695179	Blood and breath analyses as biological indicators of exposure to trihalomethanes in indoor swimming pools.
+16610561	Green chemistry in urinalysis for trichloroethanol and trichloroacetic acid as markers of exposure to chlorinated hydrocarbon solvents.
+11993865	Comparison of trihalomethanes in tap water and blood.
+10410952	Sensitive high-performance liquid chromatography method for the simultaneous determination of low levels of dichloroacetic acid and its metabolites in blood and urine.
+10092412	Evaluation of biomarkers of environmental exposures: urinary haloacetic acids associated with ingestion of chlorinated drinking water.
+17377142	Chronic exposure to low levels of dibromoacetic acid, a water disinfection by-product, adversely affects reproductive function in male rabbits.
+12696585	Induction of transitional cell hyperplasia in the urinary bladder and aberrant crypt foci in the colon of rats treated with individual and a mixture of drinking water disinfection by-products.
+22572118	Trihalomethanes in chlorine and bromine disinfected swimming pools: air-water distributions and human exposure.
+15250408	Determination of trace-level haloacetic acids in drinking water by ion chromatography-inductively coupled plasma mass spectrometry.
+11846168	Partition coefficients for the trihalomethanes among blood, urine, water, milk and air.
+9348725	Changes in plasma lipoproteins as toxicity markers for carbon tetrachloride, chloroform, and dichloromethane.
+10595718	Quantitative determination of thalidomide in human serum with high-performance liquid chromatography using protein precipitation with trichloroacetic acid and ultraviolet detection.
+22968351	Accounting for the impact of short-term variations in the levels of trihalomethane in drinking water on exposure assessment for epidemiological purposes. Part II: biological aspects.
+7717770	Trihalomethane concentrations in swimmers' and bath attendants' blood and urine after swimming or working in indoor swimming pools.
+15808788	Twenty-week exposures to the drinking water disinfection by-product dibromoacetic acid: reproductive cyclicity and steroid concentrations in the female Sprague-Dawley rat.
+7523909	Measurement of frequencies of HPRT mutants, chromosomal aberrations, micronuclei, sister-chromatid exchanges and cells with high frequencies of SCEs in styrene/dichloromethane-exposed workers.
+10981726	Household exposures to drinking water disinfection by-products: whole blood trihalomethane levels.
+12234467	Direct quantification of human serum albumin in human blood serum without separation of gamma-globulin by the total internal reflected resonance light scattering of thorium-sodium dodecylbenzene sulfonate at water/tetrachloromethane interface.
+9766913	Monitoring of occupational exposure to dichloromethane by diffuse vapor sampling and urinalysis.
+12376132	Biological monitoring of workers exposed to dichloromethane, using head-space gas chromatography.
+15828053	A review of analytical methods for the determination of trichloroethylene and its major metabolites chloral hydrate, trichloroacetic acid and dichloroacetic acid.
+14727918	Formation and mass spectrometric analysis of DNA and nucleoside adducts by S-(1-acetoxymethyl)glutathione and by glutathione S-transferase-mediated activation of dihalomethanes.
+15866497	Determination of dichloromethane, trichloroethylene and perchloroethylene in urine samples by headspace solid phase microextraction gas chromatography-mass spectrometry.
+14569179	Trihalomethane levels in home tap water and semen quality.
+1438041	The effect of chloral hydrate and its metabolites, trichloroethanol and trichloroacetic acid, on bilirubin-albumin binding.

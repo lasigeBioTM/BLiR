@@ -1,0 +1,122 @@
+10737708	2000	PurewalM FretlandAJ SchutHA HeinDW WargovichM	5	Cancer letters
+16202642	2005	SteffensenIL SchutHA Alexander	0	Mutation research
+10503894	1999	StillwellWG TureskyRJ SinhaR SkipperPL TannenbaumS	7	Cancer letters
+15138037	2004	FeltonJS KnizeMG BennettLM MalfattiMA ColvinME KulpK	7	Toxicology
+9766658	1998	TakahashiS TamanoS HiroseM KimotoN IkedaY SakakibaraM TadaM KadlubarFF ItoN Shirai	11	Cancer research
+9202762	1997	WakabayashiK TotsukaY FukutomeK OguriA UshiyamaH Sugimura	5	Mutation research
+11578808	2001	FriesenMD RothmanN StricklandP	3	Cancer letters
+7959450	1994	Stavric	8	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+18692111	2008	Frandsen	6	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+8565143	1996	OchiaiM WatanabeM KushidaH WakabayashiK SugimuraT Nagao	9	Carcinogenesis
+8407549	1993	TakahashiM ToyodaK AzeY FurutaK MitsumoriK Hayashi	5	Japanese journal of cancer research : Gann
+14690798	2003	DingleyKH UbickEA ChiarappaZuccaML NowellS AbelS EbelerSE MitchellAE BurnsSA SteinbergFM CliffordA	16	Nutrition and cancer
+8526350	1995	SchutHA DashwoodR	0	Annals of the New York Academy of Sciences
+12489111	2002	MoonenHJ BriedéJJ vanMaanenJM KleinjansJC deKokT	6	Molecular carcinogenesis
+14742322	2004	FangM EdwardsRJ BartletJonesM TaylorGW MurrayS BoobisA	1	Carcinogenesis
+11535243	2001	ColesB NowellSA MacLeodSL SweeneyC LangNP KadlubarF	14	Mutation research
+15764290	2004	BaranczewskiP GustafssonJA Moller	2	Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals
+15036007	2004	TureskyRJ Vouros	26	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+10050262	1998	JosyulaS HeYH RuchRJ SchutH	1	Nutrition and cancer
+1815071	1991	SoodCK SoodA SpielvogelBF YousefJA BurnhamB HallI	4	Journal of pharmaceutical sciences
+8055653	1994	KaderlikKR MulderGJ ShaddockJG CascianoDA TeitelCH KadlubarF	4	Carcinogenesis
+15110095	2004	MoonenHJ MoonenEJ MaasL DallingaJW KleinjansJC deKokT	2	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+8070736	1994	BritteboEB KarlssonAA SkogKI JägerstadI	2	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+10744044	2000	CuiL TakahashiS TadaM KatoK YamadaY KohriK Shirai	5	Japanese journal of cancer research : Gann
+1483260	1992	SchutHA HerzogC	6	Cancer letters
+10685010	2000	HeYH FriesenMD RuchRJ SchutH	8	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+23400709	2013	TangD KryvenkoON WangY TrudeauS RundleA TakahashiS ShiraiT RybickiB	4	International journal of cancer
+15155558	2004	FrederiksenH Frandsen	1	Drug metabolism and disposition: the biological fate of chemicals
+15036006	2004	KulpKS KnizeMG FowlerND SalmonCP FeltonJ	9	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+2013135	1991	PelusoM CastegnaroM MalaveilleC FriesenM GarrenL HautefeuilleA VineisP KadlubarF Bartsch	10	Carcinogenesis
+17952757	2008	AlaejosMS GonzálezV AfonsoA	9	Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment
+20708442	2010	TeunissenSF VlamingML RosingH SchellensJH SchinkelAH BeijnenJ	4	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+10755388	2000	ImaidaK OgawaK TakahashiS ItoT YamaguchiT TotsukaY WakabayashiK TanakaK ItoN Shirai	2	Cancer letters
+21298592	2011	HanlonN KonsueN ColdhamN SauerMJ Ioannides	0	Nutrition and cancer
+10190547	1999	SchutHA SnyderwineE	56	Carcinogenesis
+18980957	2009	RohrmannS LukasJungSU LinseisenJ Pfau	5	Mutagenesis
+11921178	2002	FeltonJS KnizeMG SalmonCP MalfattiMA KulpK	16	Environmental and molecular mutagenesis
+8319619	1993	TurteltaubKW VogelJS FrantzC BuonaratiMH FeltonJ	2	Environmental health perspectives
+8603466	1995	GuoD SchutHA DavisCD SnyderwineEG BaileyGS DashwoodR	12	Carcinogenesis
+20396988	2010	DeAndrésF ZougaghM CastañedaG Ríos	1	Analytical and bioanalytical chemistry
+9202755	1997	SchutHA CummingsDA SmaleMH JosyulaS FriesenM	3	Mutation research
+17416774	2007	TangD LiuJJ RundleA NeslundDudasC SaveraAT BockCH NockNL YangJJ RybickiB	25	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+15059926	2004	FrederiksenH FrandsenH Pfau	8	Carcinogenesis
+10798216	2000	SchutHA Yao	2	Nutrition and cancer
+12067575	2002	AlexanderJ ReistadR HegstadS FrandsenH IngebrigtsenK PaulsenJE Becher	11	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+15065796	2004	SentellasS MoyanoE PuignouL GalceranM	0	Journal of chromatography. A
+12949046	2003	BaconJR WilliamsonG GarnerRC LappinG LangouëtS Bao	16	Carcinogenesis
+15686438	2005	ArimotoKobayashiS TakataJ NakandakariN FujiokaR OkamotoK Konuma	1	Journal of agricultural and food chemistry
+12214671	2002	TureskyR	26	Drug metabolism reviews
+10418945	1999	JosyulaS SchutH	1	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+9463528	1997	ReistadR RosslandOJ LatvaKalaKJ RasmussenT VikseR BecherG Alexander	7	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+17936011	2007	JaminEL ArquierD CanletC RathahaoE TulliezJ Debrauwer	4	Journal of the American Society for Mass Spectrometry
+15310244	2004	HollandRD TaylorJ SchoenbachlerL JonesRC FreemanJP MillerDW LakeBG GooderhamNJ TureskyR	12	Chemical research in toxicology
+15777097	2005	HollandRD GehringT TaylorJ LakeBG GooderhamNJ TureskyR	2	Chemical research in toxicology
+1944385	1991	OvervikE OchiaiM HiroseM SugimuraT Nagao	0	Mutation research
+8055652	1994	KaderlikKR MinchinRF MulderGJ IlettKF DaugaardJensonM TeitelCH KadlubarF	18	Carcinogenesis
+8565139	1996	FriesenMD CummingsDA GarrenL ButlerR BartschH SchutH	2	Carcinogenesis
+7881341	1994	LangNP ButlerMA MassengillJ LawsonM StottsRC HauerJensenM KadlubarF	41	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+7586192	1995	GhoshalA DavisCD SchutHA SnyderwineE	5	Carcinogenesis
+9631495	1998	ShenCL PurewalM SanFranciscoS PenceB	3	Nutrition and cancer
+11477514	2001	BogenKT KeatingG	21	Journal of exposure analysis and environmental epidemiology
+10050263	1998	JosyulaS SchutH	3	Nutrition and cancer
+16394512	2006	ArimotoKobayashiS IshidaR NakaiY IdeiC TakataJ TakahashiE OkamotoK NegishiT Konuma	1	Biological & pharmaceutical bulletin
+9772093	1998	AnnasA BritteboE	1	Toxicology
+16780350	2006	BonalaR TorresMC IdenCR Johnson	8	Chemical research in toxicology
+12903983	2003	ArimotoKobayashiS InadaN SatoY SugiyamaC OkamotoK HayatsuH Negishi	0	Journal of agricultural and food chemistry
+16889804	2006	ElZeinR EtzelCJ LopezMS GuY SpitzMR StromS	5	Mutation research
+9250630	1997	SinhaR Caporaso	0	Annals of epidemiology
+12628517	2003	LinDX ThompsonPA TeitelC ChenJS KadlubarF	1	Mutation research
+15207388	2004	ChepanoskeCL BrownK TurteltaubKW DingleyK	7	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+19441775	2009	FedeJM ThakurAP GooderhamNJ TureskyR	11	Chemical research in toxicology
+8199311	1994	CarothersAM YuanW HingertyBE BroydeS GrunbergerD SnyderwineE	5	Chemical research in toxicology
+23276304	2013	BusquetsR FrandsenH JönssonJÅ PuignouL GalceranMT Skog	1	Chemical research in toxicology
+7671244	1995	HasegawaR KimuraJ YaonoM TakahashiS KatoT FutakuchiM FukutakeM FukutomeK WakabayashiK Sugimura	5	Cancer research
+2710268	1989	YanagisawaH Wada	2	Nephron
+8625507	1996	ButcherNJ MinchinRF KadlubarFF IlettK	1	Carcinogenesis
+10503895	1999	TurteltaubKW DingleyKH CurtisKD MalfattiMA TureskyRJ GarnerRC FeltonJS LangN	21	Cancer letters
+8781372	1996	NagaoM WakabayashiK UshijimaT ToyotaM TotsukaY Sugimura	6	Environmental health perspectives
+7955104	1994	ReistadR FrandsenH GrivasS Alexander	9	Carcinogenesis
+19628463	2009	FukudaH TakamuraEnyaT MasudaY NohmiT SekiC KamiyaK SugimuraT MasutaniC HanaokaF Nakagama	3	The Journal of biological chemistry
+15224350	2004	MoonenHJ DommelsYE vanZwamM vanHerwijnenMH KleinjansJC AlinkGM deKokT	8	Molecular carcinogenesis
+18599369	2008	ShahFU BarriT JönssonJA Skog	1	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+9202746	1997	HuberWW McDanielLP KaderlikKR TeitelCH LangNP KadlubarF	7	Mutation research
+16780355	2006	TakamuraEnyaT IshikawaS MochizukiM Wakabayashi	5	Chemical research in toxicology
+16962602	2006	VibergP WahlundKG Skog	0	Journal of chromatography. A
+9591192	1997	HeYH SmaleMH SchutH	0	Journal of cellular biochemistry. Supplement
+7955116	1994	CummingsDA SchutH	2	Carcinogenesis
+17487839	2007	TangD LiuJJ BockCH NeslundDudasC RundleA SaveraAT YangJJ NockNL RybickiB	9	International journal of cancer
+19122802	2008	NealeJR SmithNB PierceWM HeinD	8	Polycyclic aromatic compounds
+11467522	2001	SogliaJR TureskyRJ PaehlerA Vouros	13	Analytical chemistry
+16908439	2006	ZhuJ RashidA ClearyK AbbruzzeseJL FriessH TakahashiS ShiraiT Li	13	Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals
+17985119	2008	LezamizJ BarriT JönssonJA Skog	0	Analytical and bioanalytical chemistry
+20113859	2010	CarthewP DiNoviM SetzerR	1	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+15184267	2004	BaranczewskiP Möller	3	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+1544148	1992	FeltonJS KnizeMG RoperM FultzE ShenNH TurteltaubK	4	Cancer research
+19810020	2009	BusquetsR JönssonJA FrandsenH PuignouL GalceranMT Skog	0	Molecular nutrition & food research
+21238752	2011	DeAndrésF ZougaghM CastañedaG SánchezRojasJL Ríos	2	Talanta
+12387319	2002	SnyderwineEG YuM SchutHA KnightJonesL Kimura	6	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+10962432	2000	MagagnottiC OrsiF BagnatiR CelliN RotilioD FanelliR Airoldi	16	International journal of cancer
+22173956	2013	KhanJA JalalJA IoanndesC MoselhyS	2	Toxicology and industrial health
+21688801	2011	TureskyRJ LeMarchand	67	Chemical research in toxicology
+18792919	2008	JaminEL ArquierD TulliezJ Debrauwer	2	Rapid communications in mass spectrometry : RCM
+15036004	2004	KeatingGA BogenK	29	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+19838915	2009	ZhengW LeeS	54	Nutrition and cancer
+8822495	1995	LynchAM MurrayS GooderhamNJ BoobisA	0	Critical reviews in oncology/hematology
+7889858	1994	TureskyRJ GrossGA StillwellWG SkipperPL TannenbaumS	2	Environmental health perspectives
+1499093	1992	HasegawaR TakahashiS ShiraiT IwasakiS KimDJ OchiaiM NagaoM SugimuraT Ito	2	Carcinogenesis
+15036002	2004	GerblU CichnaM ZsivkovitsM KnasmüllerS Sontag	0	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+1473240	1992	MalaveilleC HautefeuilleA BrunG VineisP Bartsch	0	Carcinogenesis
+21456541	2011	NauwelaersG BessetteEE GuD TangY RageulJ FessardV YuanJM YuMC LangouëtS TureskyR	29	Chemical research in toxicology
+1722281	1991	DuvergervanBogaertM CrutzenFaytMC Stecca	0	Mutation research
+10719041	2000	WilliamsJA StoneEM MillarBC HewerA PhillipsD	4	Mutagenesis
+8149474	1994	DavisCD SchutHA SnyderwineE	0	Carcinogenesis
+15704238	2005	Frederiksen	4	Molecular nutrition & food research
+11323401	2001	DietrichCG deWaartDR OttenhoffR BootsmaAH vanGennipAH ElferinkR	8	Carcinogenesis
+17184892	2007	Frandsen	4	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+12016160	2002	MurataM Kawanishi	1	Carcinogenesis
+12753428	2003	SteffensenIL JanakK HegstadS AndreassenA PaulsenJE ReistadR Alexander	0	Pharmacology & toxicology
+14601045	2003	MagagnottiC PastorelliR PozziS AndreoniB FanelliR Airoldi	16	International journal of cancer
+12351157	2002	NowellS ColesB SinhaR MacLeodS LukeRatnasingheD StottsC KadlubarFF AmbrosoneCB LangN	35	Mutation research
+9920831	1999	CortésF DeschaseauxF UchidaN LabastieMC FrieraAM HeD CharbordP Péault	20	Blood
+15110096	2004	FrederiksenH Frandsen	5	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association

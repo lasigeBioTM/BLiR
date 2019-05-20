@@ -105,7 +105,7 @@ def single_run_NB(file, ngram, df, tfidf, class_type):
     CrossVal_NaiveBayes(X_matrix, y_labels)
 
 # Uncomment next line to create only one classifier
-#single_run_NB(file, ngram = 3, df = 23, tfidf = False, class_type = 'A')
+#single_run_NB(DIET, ngram = 3, df = 23, tfidf = False, class_type = 'A')
 
 
 
@@ -117,7 +117,7 @@ def run_grid(file, ngram, df, tfidf, class_type):
     grid_search(X_matrix, y_labels)  
 
 # Uncomment next line to run a grid search
-#run_grid(file, ngram = 1, df = 1, tfidf = True, class_type = 'T')
+#run_grid(DIET, ngram = 1, df = 1, tfidf = True, class_type = 'T')
 
 
 
@@ -147,5 +147,5 @@ def multiple_runs_write_files(file):
 
 
 # Uncomment next line to get the files in the Results/NaiveBayes folder
-#multiple_runs_write_files(file)
+#multiple_runs_write_files(DIET)
 

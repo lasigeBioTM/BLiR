@@ -1,0 +1,392 @@
+21527603	2011	KambiaN DineT GressierB FrimatB CazinJL LuyckxM BrunetC MichaudL Gottrand	3	JPEN. Journal of parenteral and enteral nutrition
+23430180	2013	WangHX WangB ZhouY JiangQ	4	Analytical and bioanalytical chemistry
+21696718	2011	SvenssonK HernándezRamírezRU BurgueteGarcíaA CebriánME CalafatAM NeedhamLL ClaudioL LópezCarrillo	34	Environmental research
+22421452	2012	OlsénL LindL LindP	18	Ecotoxicology and environmental safety
+17637918	2007	MeekerJD CalafatAM Hauser	58	Environmental health perspectives
+22986106	2012	LiN LiuT ZhouL HeJ Ye	12	Environmental toxicology and pharmacology
+23168567	2013	ParlettLE CalafatAM SwanS	33	Journal of exposure science & environmental epidemiology
+15322794	2004	ColónI DimandjaJ	0	Analytical and bioanalytical chemistry
+22923660	2012	JustAC WhyattRM MillerRL RundleAG ChenQ CalafatAM DivjanA RosaMJ ZhangH PereraFP GoldsteinIF PerzanowskiM	18	American journal of respiratory and critical care medicine
+17589594	2007	StahlhutRW vanWijngaardenE DyeTD CookS SwanS	137	Environmental health perspectives
+17976571	2008	TeitelbaumSL BrittonJA CalafatAM YeX SilvaMJ ReidyJA GalvezMP BrennerBL WolffM	127	Environmental research
+15859620	2005	KatoK SilvaMJ NeedhamLL CalafatA	71	Analytical chemistry
+630703	1978	LusterMI AlbroPW ChaeK ClarkG McKinneyJ	3	Clinical chemistry
+19733116	2009	HerrC zurNiedenA KochHM SchuppeHC FieberC AngererJ EikmannT StilianakisN	7	International journal of hygiene and environmental health
+6132798	1983	FosterPM CookMW ThomasLV WaltersDG GangolliS	7	Drug metabolism and disposition: the biological fate of chemicals
+459718	1979	LagenteM delaFargeF Valdiguie	0	Lipids
+15081935	2004	TakatoriS KitagawaY KitagawaM NakazawaH Hori	8	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+22760436	2012	BuckleyJP PalmieriRT MatuszewskiJM HerringAH BairdDD HartmannKE HoppinJ	33	Journal of exposure science & environmental epidemiology
+20605637	2010	SuzukiY NiwaM YoshinagaJ MizumotoY SerizawaS Shiraishi	29	Environment international
+21477864	2011	GuoY WuQ Kannan	19	Environment international
+7394782	1980	LewandowskiM FernandesJ ChenT	6	Toxicology and applied pharmacology
+24349678	2013	BustamanteMontesLP HernándezValeroMA FloresPimentelD GarcíaFábilaM AmayaChávezA BarrDB BorjaAburtoV	13	Journal of developmental origins of health and disease
+15477743	2004	KichevaYI RichterH Popova	0	Journal of materials science. Materials in medicine
+21272909	2011	LinLC WangSL ChangYC HuangPC ChengJT SuPH LiaoP	26	Chemosphere
+22643239	2012	LiuL XiaT GuoL CaoL ZhaoB ZhangJ DongS Shen	0	Journal of exposure science & environmental epidemiology
+19165392	2009	HinesEP CalafatAM SilvaMJ MendolaP FentonS	35	Environmental health perspectives
+6880148	1983	IshikawaY HondaK SasakawaS HatadaK Kobayashi	0	Vox sanguinis
+8314612	1993	DirvenHA vandenBroekPH ArendsAM NordkampHH deLepperAJ HendersonPT JongeneelenF	9	International archives of occupational and environmental health
+21900077	2012	PhilippatC MortamaisM ChevrierC PetitC CalafatAM YeX SilvaMJ BrambillaC PinI CharlesMA CordierS Slama	88	Environmental health perspectives
+20600714	2010	vanRavenzwaayB CoelhoPalermoCunhaG StraussV WiemerJ LeiboldE KampH WalkT MellertW LooserR ProkoudineA FabianE KrennrichG Herold	7	Toxicology letters
+15995852	2005	SilvaMJ ReidyJA SamandarE HerbertAR NeedhamLL CalafatA	12	Archives of toxicology
+17107868	2006	CalafatAM McKeeR	23	Environmental health perspectives
+16970347	2006	KatoK SilvaMJ NeedhamLL CalafatA	7	Analytical chemistry
+22832070	2012	JoensenUN FrederiksenH BlombergJensenM LauritsenMP OlesenIA LassenTH AnderssonAM Jørgensen	27	Environmental health perspectives
+15664359	2005	PreussR KochHM Angerer	12	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+8333024	1993	PlonaitSL NauH MaierRF WittfohtW Obladen	8	Transfusion
+20701950	2010	IrvinEA CalafatAM SilvaMJ AguilarVillalobosM NeedhamLL HallDB CassidyB NaeherL	19	Chemosphere
+23087593	2011	ClarkKE DavidRM GuinnR KramarzKW LampiMA StaplesC	6	Human and ecological risk assessment : HERA
+22596068	2012	SuPH ChangYZ ChangHP WangSL HaungHI HuangPC ChenJ	4	Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies
+11017896	2000	ColónI CaroD BourdonyCJ Rosario	59	Environmental health perspectives
+23429708	2013	BraunJM SathyanarayanaS Hauser	50	Current opinion in pediatrics
+12596868	2002	FukuwatariT SuzukiY SugimotoE Shibata	2	Bioscience, biotechnology, and biochemistry
+12003755	2002	HoppinJA BrockJW DavisBJ BairdD	82	Environmental health perspectives
+11761117	2001	AndersonWA CastleL ScotterMJ MasseyRC Springall	42	Food additives and contaminants
+22273727	2012	LiuSB MaZ SunWL SunXW HongY MaL QinC StrattonHJ LiuQ JiangJ	1	Toxicology
+18067563	2008	Hauser	22	International journal of andrology
+11393717	2001	KambiaK DineT GressierB GermeAF LuyckxM BrunetC MichaudL Gottrand	4	Journal of chromatography. B, Biomedical sciences and applications
+18709157	2008	WolffMS EngelSM BerkowitzGS YeX SilvaMJ ZhuC WetmurJ CalafatA	160	Environmental health perspectives
+17610953	2007	FrommeH GruberL SchlummerM WolzG BöhmerS AngererJ MayerR LieblB Bolte	34	Environment international
+6695399	1984	Oishi	1	Toxicology letters
+19270786	2009	HernándezDíazS MitchellAA KelleyKE CalafatAM Hauser	34	Environmental health perspectives
+8925107	1996	EgestadB GreenG SjöbergP KlassonWehlerE Gustafsson	1	Journal of chromatography. B, Biomedical applications
+7140697	1982	KevySV JacobsonM	3	Environmental health perspectives
+19892364	2010	LomenickJP CalafatAM MelguizoCastroMS MierR StengerP FosterMB WintergerstK	11	The Journal of pediatrics
+6113930	1981	AlbroPW HassJR PeckCC OdamDG CorbettJT BaileyFJ BlattHE BarrettB	6	Drug metabolism and disposition: the biological fate of chemicals
+16466535	2006	KochHM PreussR Angerer	82	International journal of andrology
+19344077	2009	ChouYY HuangPC LeeCC WuMH LinS	10	Journal of pediatric endocrinology & metabolism : JPEM
+18322279	2008	CultyM ThuillierR LiW WangY MartinezArguellesDB BenjaminCG TriantafilouKM ZirkinBR Papadopoulos	35	Biology of reproduction
+15647598	2005	XuY CookTJ KnippG	12	Toxicological sciences : an official journal of the Society of Toxicology
+22252281	2012	SilvaMJ FurrJ PreauJLJr SamandarE GrayLE CalafatA	4	Journal of exposure science & environmental epidemiology
+17881770	2007	JohnsonKJ HensleyJB KelsoMD WallaceDG GaidoK	11	Biology of reproduction
+21440837	2011	LiS DaiJ ZhangL ZhangJ ZhangZ Chen	5	Biomedical and environmental sciences : BES
+7115078	1982	WalsethF ToftgårdR NilsenO	2	Archives of toxicology
+18829104	2008	XuY AgrawalS CookTJ KnippG	17	Placenta
+17107847	2006	PanG HanaokaT YoshimuraM ZhangS WangP TsukinoH InoueK NakazawaH TsuganeS Takahashi	50	Environmental health perspectives
+18194284	2008	JanjuaNR FrederiksenH SkakkebaekNE WulfHC AnderssonA	44	International journal of andrology
+11993803	2002	BrockJW CaudillSP SilvaMJ NeedhamLL HilbornE	14	Bulletin of environmental contamination and toxicology
+17536764	2007	SilvaMJ ReidyJA KatoK PreauJLJr NeedhamLL CalafatA	4	Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals
+21371937	2011	KochHM WittassekM BrüningT AngererJ Heudorf	14	International journal of hygiene and environmental health
+16332407	2006	SilvaMJ SamandarE PreauJLJr NeedhamLL CalafatA	20	Toxicology
+23041310	2012	DoRP StahlhutRW PonziD VomSaalFS TaylorJ	23	Reproductive toxicology (Elmsford, N.Y.)
+22348465	2012	SunY TakahashiK HosokawaT SaitoT Kurasaki	1	Basic & clinical pharmacology & toxicology
+15579421	2004	HauserR MeekerJD ParkS SilvaMJ CalafatA	143	Environmental health perspectives
+20600290	2010	CarboneS SzwarcfarbB PonzoO ReynosoR CardosoN DeguizL MoguilevskyJA Scacchi	4	Neurotoxicology
+17695894	2007	ItohH YoshidaK Masunaga	6	Environmental science & technology
+16763069	2006	MaM KondoT BanS UmemuraT KurahashiN TakedaM Kishi	15	Toxicological sciences : an official journal of the Society of Toxicology
+18044544	2007	SilvaMJ SamandarE ReidyJA HauserR NeedhamLL CalafatA	5	Environmental science & technology
+19748073	2009	KimBN ChoSC KimY ShinMS YooHJ KimJW YangYH KimHW BhangSY HongY	38	Biological psychiatry
+12742130	2003	SilvaMJ MalekNA HodgeCC ReidyJA KatoK BarrDB NeedhamLL BrockJ	33	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+22732598	2012	JustAC WhyattRM PerzanowskiMS CalafatAM PereraFP GoldsteinIF ChenQ RundleAG MillerR	16	Environmental health perspectives
+7492723	1995	KichevaYI KostovVD Chichovska	1	Biomaterials
+20352652	2010	GuoZY GaiPP DuanJ ZhaiJX ZhaoSS WangS WeiD	2	Biomedical chromatography : BMC
+18097680	2008	GaudinR MarsanP RobertA DucosP PruvostA LéviM Bouscaillou	1	International archives of occupational and environmental health
+16004980	2005	Latini	45	Clinica chimica acta; international journal of clinical chemistry
+20147336	2010	HuangPC TsaiEM LiWF LiaoPC ChungMC WangYH WangS	26	Human reproduction (Oxford, England)
+18949837	2008	SwanS	138	Environmental research
+11093005	2000	Latini	6	Biology of the neonate
+14998748	2004	KatoK SilvaMJ ReidyJA HurtzD3rd MalekNA NeedhamLL NakazawaH BarrDB CalafatA	36	Environmental health perspectives
+18774129	2008	YeX PierikFH HauserR DutyS AngererJ ParkMM BurdorfA HofmanA JaddoeVW MackenbachJP SteegersEA TiemeierH LongneckerM	73	Environmental research
+19694994	2010	MonfortN VenturaR LatorreA BelalcazarV LópezM Segura	1	Transfusion
+18335100	2008	HögbergJ HanbergA BerglundM SkerfvingS RembergerM CalafatAM FilipssonAF JanssonB JohanssonN AppelgrenM Håkansson	52	Environmental health perspectives
+19251754	2009	AdibiJJ HauserR WilliamsPL WhyattRM CalafatAM NelsonH HerrickR SwanS	40	American journal of epidemiology
+21983396	2012	KasperSonnenbergM KochHM WittsiepeJ Wilhelm	8	International journal of hygiene and environmental health
+19528058	2009	MeekerJD SathyanarayanaS SwanS	74	Philosophical transactions of the Royal Society of London. Series B, Biological sciences
+21575223	2011	ColacinoJA SolimanAS CalafatAM NaharMS VanZomerenDohmA HablasA SeifeldinIA RozekLS DolinoyD	7	Environmental health : a global access science source
+12842768	2003	DutySM SinghNP SilvaMJ BarrDB BrockJW RyanL HerrickRF ChristianiDC Hauser	53	Environmental health perspectives
+22054055	2012	KaoML RuoffB BowerN AokiT SmartC Mannens	0	Xenobiotica; the fate of foreign compounds in biological systems
+24862519	2002	MartensF Martens	0	Acta clinica Belgica
+21030064	2010	SchlumpfM KypkeK WittassekM AngererJ MascherH MascherD VöktC BirchlerM Lichtensteiger	22	Chemosphere
+19277068	2010	BairdDD SaldanaTM NepomnaschyPA HoppinJA LongneckerMP WeinbergCR WilcoxA	22	Journal of exposure science & environmental epidemiology
+723479	1978	BellFP PattCS GilliesP	3	Lipids
+18414628	2008	AdibiJJ WhyattRM WilliamsPL CalafatAM CamannD HerrickR NelsonH BhatHK PereraFP SilvaMJ Hauser	105	Environmental health perspectives
+21349512	2011	FergusonKK LochCarusoR MeekerJ	40	Environmental research
+12859026	2003	DutySM SilvaMJ BarrDB BrockJW RyanL ChenZ HerrickRF ChristianiDC Hauser	70	Epidemiology (Cambridge, Mass.)
+19615938	2009	HildenbrandS WodarzR GabrioT Volland	0	International journal of hygiene and environmental health
+8516795	1993	SnyderEL HedbergSL NapychankPA RobertsC KagenL AsterRA QuinlanK StrucalyA BuchholzD	0	Transfusion
+23270838	2013	TranfoG PapaleoB CaporossiL CapannaS DeRosaM PiginiD CorsettiF Paci	4	International journal of hygiene and environmental health
+15362453	2004	SilvaMJ ReidyJA HerbertAR PreauJLJr NeedhamLL CalafatA	45	Bulletin of environmental contamination and toxicology
+3220221	1988	LindströmP HarrisM RossM LambJC4th ChapinR	1	Fundamental and applied toxicology : official journal of the Society of Toxicology
+18602967	2008	BobergJ MetzdorffS WortzigerR AxelstadM BrokkenL VinggaardAM DalgaardM Nellemann	33	Toxicology
+15147118	2004	GayathriNS DhanyaCR InduAR KurupP	19	The Indian journal of medical research
+432924	1979	PeckCC OdomDG FriedmanHI AlbroPW HassJR BradyJT JessD	7	Transfusion
+18570050	2008	WirthJJ RossanoMG PotterR PuscheckE DalyDC PanethN KrawetzSA ProtasBM DiamondM	15	Systems biology in reproductive medicine
+19127283	2010	LorberM AngererJ KochH	13	Journal of exposure science & environmental epidemiology
+20368132	2010	LópezCarrilloL HernándezRamírezRU CalafatAM TorresSánchezL GalvánPortilloM NeedhamLL RuizRamosR CebriánM	43	Environmental health perspectives
+16041606	2005	VermeulenR JönssonBA LindhCH Kromhout	1	International archives of occupational and environmental health
+21999102	2011	HsuJF PengLW LiYJ LinLC LiaoP	2	Analytical chemistry
+22612475	2012	MieritzMG FrederiksenH SørensenK AksglaedeL MouritsenA HagenCP SkakkebaekNE AnderssonAM Juul	6	International journal of andrology
+22884473	2012	ChenM TaoL CollinsEM AustinC Lu	6	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+22206277	2012	ZhouXM LüWJ SuL ShanZJ ChenX	1	Journal of agricultural and food chemistry
+18245401	2008	SathyanarayanaS KarrCJ LozanoP BrownE CalafatAM LiuF SwanS	47	Pediatrics
+14713552	2004	BarlowNJ McIntyreBS FosterP	20	Toxicologic pathology
+14576974	2004	KochHM BoltHM Angerer	45	Archives of toxicology
+19549552	2009	ScaranoWR ToledoFC GuerraMT deCamposSG JúniorLA FelisbinoSL AnselmoFranciJA TabogaSR KempinasWde	8	Toxicology
+6520150	1984	PollackGM SlaughterRL BuchananJF ShenD	2	Journal of chromatography
+15121520	2004	HauserR DutyS GodfreyBaileyL CalafatA	45	Environmental health perspectives
+16637905	2006	SpjuthL LjungvallK SaraviaF LundeheimN MagnussonU HulténF RodríguezMartínez	0	International journal of andrology
+20797930	2010	PreauJLJr WongLY SilvaMJ NeedhamLL CalafatA	41	Environmental health perspectives
+16263692	2006	CalafatAM SilvaMJ ReidyJA EarlGrayL SamandarE PreauJL HerbertAR NeedhamL	16	Journal of toxicology and environmental health. Part A
+12963402	2003	KochHM RossbachB DrexlerH Angerer	28	Environmental research
+918985	1977	SternIJ MiripolJE IzzoRS LueckJ	0	Toxicology and applied pharmacology
+16603434	2006	LuisiS LatiniG deFeliceC SanseverinoF diPasqualeD MazzeoP Petraglia	6	Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology
+20308033	2010	WolffMS TeitelbaumSL PinneySM WindhamG LiaoL BiroF KushiLH ErdmannC HiattRA RybakME CalafatAM BreastCancerandEnvironmentResearchCenters	77	Environmental health perspectives
+17137629	2007	FrancoA PrevedourosK AlliR CousinsI	4	Environment international
+23510960	2013	RastkariN Ahmadkhaniha	2	Journal of chromatography. A
+21883262	2012	SheffieldWP BhaktaV MastronardiC RamirezArcosS HoweD Jenkins	4	Transfusion
+12610705	2003	InoueK KawaguchiM OkadaF YoshimuraY Nakazawa	1	Analytical and bioanalytical chemistry
+22262702	2012	BraunJM SmithKW WilliamsPL CalafatAM BerryK EhrlichS Hauser	112	Environmental health perspectives
+20633195	2011	MendiolaJ JørgensenN AnderssonAM CalafatAM SilvaMJ RedmonJB SparksA DrobnisEZ WangC LiuF SwanS	15	International journal of andrology
+16966100	2006	WeuveJ SánchezBN CalafatAM SchettlerT GreenRA HuH Hauser	28	Environmental health perspectives
+17182278	2007	FrommeH BolteG KochHM AngererJ BoehmerS DrexlerH MayerR Liebl	45	International journal of hygiene and environmental health
+19375452	2009	EngelSM ZhuC BerkowitzGS CalafatAM SilvaMJ MiodovnikA WolffM	48	Neurotoxicology
+2027336	1991	DirvenHA TheuwsJL JongeneelenFJ BosR	0	Mutation research
+19585553	2009	StruveMF GaidoKW HensleyJB LehmannKP RossSM SochaskiMA WillsonGA DormanD	8	Birth defects research. Part B, Developmental and reproductive toxicology
+23443238	2013	SathyanarayanaS AlcedoG SaelensBE ZhouC DillsRL YuJ Lanphear	23	Journal of exposure science & environmental epidemiology
+12908941	2003	KatoK SilvaMJ BrockJW ReidyJA MalekNA HodgeCC NakazawaH NeedhamLL BarrD	13	Journal of analytical toxicology
+23213291	2012	GenuisSJ BeesoonS LoboRA Birkholz	12	TheScientificWorldJournal
+21684541	2011	VandentorrenS ZemanF MorinL SarterH BidondoML OlekoA Leridon	20	Environmental research
+23959011	2013	ZhangLD DengQ WangZM GaoM WangL ChongT LiH	5	Biological research
+16171919	2006	CalafatAM BrockJW SilvaMJ GrayLEJr ReidyJA BarrDB NeedhamL	17	Toxicology
+10416263	1999	KeysDA WallaceDG KeplerTB ConollyR	4	Toxicological sciences : an official journal of the Society of Toxicology
+16325559	2005	KochHM AngererJ DrexlerH EcksteinR Weisbach	8	International journal of hygiene and environmental health
+12437285	2002	KimEJ KimJW LeeS	7	Environment international
+19394271	2009	YeX PierikFH AngererJ MeltzerHM JaddoeVW TiemeierH HoppinJA LongneckerM	36	International journal of hygiene and environmental health
+15954088	2005	CarruthersCM FosterP	26	Birth defects research. Part B, Developmental and reproductive toxicology
+20194078	2010	ChoSC BhangSY HongYC ShinMS KimBN KimJW YooHJ ChoIH KimH	35	Environmental health perspectives
+23078849	2013	ChangYJ LinKL ChangY	1	Clinica chimica acta; international journal of clinical chemistry
+22238399	2012	MitchellRT ChildsAJ AndersonRA vandenDriescheS SaundersPT McKinnellC WallaceWH KelnarCJ SharpeR	29	The Journal of clinical endocrinology and metabolism
+21538406	2012	ItoT InoueK NishimuraN Takano	1	Journal of applied toxicology : JAT
+23641808	2013	BradleyEL BurdenRA BentayebK DriffieldM HarmerN MortimerDN SpeckDR TichaJ Castle	3	Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment
+12832380	2003	CobellisL LatiniG DeFeliceC RazziS ParisI RuggieriF MazzeoP Petraglia	40	Human reproduction (Oxford, England)
+22498808	2012	LindPM ZetheliusB Lind	32	Diabetes care
+2274965	1990	DirvenHA vandenBroekPH JongeneelenF	3	Toxicology
+21673306	2011	LinY WeiJ LiY ChenJ ZhouZ SongL WeiZ LvZ ChenX XiaW Xu	27	American journal of physiology. Endocrinology and metabolism
+19919614	2010	SwanSH LiuF HinesM KruseRL WangC RedmonJB SparksA Weiss	59	International journal of andrology
+19272594	2009	SamandarE SilvaMJ ReidyJA NeedhamLL CalafatA	6	Environmental research
+10402764	1999	ManojkumarV DeepadeviKV ArunP NairKG LakshmiLR KurupP	0	The Indian journal of medical research
+23647612	2013	ServaesK VoorspoelsS LievensJ NotenB AllaertsK VanDeWegheH Vanermen	0	Journal of chromatography. A
+17889607	2007	HeudorfU MerschSundermannV Angerer	121	International journal of hygiene and environmental health
+23626820	2013	BeköG WeschlerCJ LangerS CallesenM ToftumJ Clausen	20	PloS one
+16882519	2006	SilvaMJ ReidyJA PreauJLJr NeedhamLL CalafatA	13	Environmental health perspectives
+21621774	2011	HuangLP LeeCC HsuPC ShihT	12	Fertility and sterility
+17366830	2007	WolffMS TeitelbaumSL WindhamG PinneySM BrittonJA ChelimoC GodboldJ BiroF KushiLH PfeifferCM CalafatA	62	Environmental health perspectives
+19874833	2010	GuptaRK SinghJM LeslieTC MeachumS FlawsJA YaoH	38	Toxicology and applied pharmacology
+15513902	2004	KimHS KimTS ShinJH MoonHJ KangIH KimIY OhJY HanS	7	Journal of toxicology and environmental health. Part A
+9784668	1998	ManojkumarV PadmakumaranNairKG SanthoshA DeepadeviKV ArunP LakshmiLR KurupP	4	Vox sanguinis
+17499416	2007	KatoK SilvaMJ WolfC GrayLE NeedhamLL CalafatA	7	Toxicology
+19746723	2009	BlairJD IkonomouMG KellyBC SurridgeB GobasF	3	Environmental science & technology
+23333816	2013	HernándezDíazS SuYC MitchellAA KelleyKE CalafatAM Hauser	15	Reproductive toxicology (Elmsford, N.Y.)
+14594621	2003	AdibiJJ PereraFP JedrychowskiW CamannDE BarrD JacekR WhyattR	51	Environmental health perspectives
+16020175	2005	LeeSK OwensGA VeeramachaneniD	3	Journal of toxicology and environmental health. Part A
+18715556	2008	SathyanarayanaS CalafatAM LiuF SwanS	9	Environmental research
+10696765	2000	KeysDA WallaceDG KeplerTB ConollyR	1	Toxicological sciences : an official journal of the Society of Toxicology
+14998749	2004	SilvaMJ BarrDB ReidyJA MalekNA HodgeCC CaudillSP BrockJW NeedhamLL CalafatA	217	Environmental health perspectives
+20354564	2010	JustAC AdibiJJ RundleAG CalafatAM CamannDE HauserR SilvaMJ WhyattR	40	Journal of exposure science & environmental epidemiology
+20951405	2011	SilvaMJ FurrJ SamandarE PreauJLJr GrayLE NeedhamLL CalafatA	4	Chemosphere
+22703192	2012	GuoY ZhangZ LiuL LiY RenN Kannan	16	Journal of agricultural and food chemistry
+21749963	2011	MeekerJD FergusonK	63	Environmental health perspectives
+15639459	2005	KatoK SilvaMJ NeedhamLL CalafatA	4	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+14594632	2003	LatiniG DeFeliceC PrestaG DelVecchioA ParisI RuggieriF Mazzeo	90	Environmental health perspectives
+21429484	2011	FrederiksenH AksglaedeL SorensenK SkakkebaekNE JuulA AnderssonA	16	Environmental research
+18070048	2008	WittassekM Angerer	46	International journal of andrology
+17361019	2007	GaidoKW HensleyJB LiuD WallaceDG BorghoffS JohnsonKJ HallSJ Boekelheide	28	Toxicological sciences : an official journal of the Society of Toxicology
+6548067	1984	AlbroPW CorbettJT MarburyD Parker	1	Xenobiotica; the fate of foreign compounds in biological systems
+12705982	2003	KatoK ShodaS TakahashiM DoiN YoshimuraY Nakazawa	4	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+21841806	2011	BaoAM ManXM GuoXJ DongHB WangFQ SunH WangYB ZhouZM ShaJ	9	Asian journal of andrology
+18602795	2008	KusuR OishiA KakizawaK KimuraT TodaC HashizumeK UedaK Kojima	2	Toxicology in vitro : an international journal published in association with BIBRA
+16140631	2005	GreenR HauserR CalafatAM WeuveJ SchettlerT RingerS HuttnerK Hu	36	Environmental health perspectives
+22796563	2012	JamesToddT StahlhutR MeekerJD PowellSG HauserR HuangT RichEdwards	42	Environmental health perspectives
+20822678	2010	FrederiksenH JørgensenN AnderssonA	25	Journal of analytical toxicology
+20077217	2009	KwackSJ KimKB KimHS LeeB	4	Journal of toxicology and environmental health. Part A
+22428786	2012	FrederiksenH SørensenK MouritsenA AksglaedeL HagenCP PetersenJH SkakkebaekNE AnderssonAM Juul	28	International journal of andrology
+16079079	2005	SwanSH MainKM LiuF StewartSL KruseRL CalafatAM MaoCS RedmonJB TernandCL SullivanS TeagueJL StudyforFutureFamiliesResearchTeam	277	Environmental health perspectives
+18640725	2009	HuangPC KuoPL ChouYY LinSJ LeeC	55	Environment international
+6485020	1984	Oishi	1	Toxicology letters
+11357523	2001	KesslerW PhokhaW CsanádyGA FilserJ	5	Archives of toxicology
+15848759	2005	NutiF HildenbrandS ChelliM WodarzR PapiniA	3	Bioorganic & medicinal chemistry
+12566679	2003	LatiniG DeFeliceC PrestaG DelVecchioA ParisI RuggieriF Mazzeo	28	Biology of the neonate
+22795704	2013	CasasM ChevrierC HondED FernandezMF PierikF PhilippatC SlamaR ToftG VandentorrenS WilhelmM Vrijheid	11	International journal of hygiene and environmental health
+21995786	2012	HsuNY LeeCC WangJY LiYC ChangHW ChenCY BornehagCG WuPC SundellJ SuH	17	Indoor air
+9142038	1997	KarleVA ShortBL MartinGR BulasDI GetsonPR LubanNL O'BrienAM RubinR	14	Critical care medicine
+3289468	1988	MyhreB	0	Annals of clinical and laboratory science
+18545098	2008	KwapniewskiR KozaczkaS HauserR SilvaMJ CalafatAM DutyS	6	Journal of occupational and environmental medicine
+17997365	2007	SilvaMJ SamandarE PreauJLJr ReidyJA NeedhamLL CalafatA	119	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+20920559	2010	XuC ChenJA QiuZ ZhaoQ LuoJ YangL ZengH HuangY ZhangL CaoJ Shu	10	Toxicology letters
+8666721	1995	FukuokaM KobayashiT Hayakawa	0	Journal of applied toxicology : JAT
+22245847	2012	ChristenV CrettazP OberliSchrämmliA Fent	7	Toxicology and applied pharmacology
+22472009	2012	KobroslyRW ParlettLE StahlhutRW BarrettES SwanS	23	Environmental research
+17400024	2007	WittassekM WiesmüllerGA KochHM EckardR DoblerL MüllerJ AngererJ Schlüter	45	International journal of hygiene and environmental health
+21820855	2012	SimmchenJ VenturaR Segura	6	Transfusion medicine reviews
+21440302	2011	CasasL FernándezMF LlopS GuxensM BallesterF OleaN IrurzunMB RodríguezLS RiañoI TardónA VrijheidM CalafatAM SunyerJ INMAProject	54	Environment international
+15022035	2004	LjungvallK TienpontB DavidF MagnussonU Törneke	2	Archives of toxicology
+15847671	2005	BuchtaC BittnerC HeinzlH HöckerP MacherM MayerhoferM SchmidR SegerC Dettke	2	Transfusion
+15951666	2005	JönssonBA RichthoffJ RylanderL GiwercmanA Hagmar	45	Epidemiology (Cambridge, Mass.)
+16697098	2006	SilvaMJ KatoK WolfC SamandarE SilvaSS GrayEL NeedhamLL CalafatA	6	Toxicology
+20621847	2010	BoasM FrederiksenH FeldtRasmussenU SkakkebækNE HegedüsL HilstedL JuulA MainK	63	Environmental health perspectives
+17185035	2007	WittassekM HegerW KochHM BeckerK AngererJ KolossaGehring	18	International journal of hygiene and environmental health
+19144960	2009	LinH LianQQ HuGX JinY ZhangY HardyDO ChenGR LuZQ SottasCM HardyMP GeR	9	Biology of reproduction
+17765308	2008	ChenML ChenJS TangCL MaoI	17	Environment international
+15371270	2005	ChandrasekaranY RichburgJ	6	Biology of reproduction
+16493179	2006	LeeHC YamanouchiK Nishihara	9	The Journal of reproduction and development
+16374941	2005	SilvaMJ SamandarE PreauJLJr ReidyJA NeedhamLL Calafat	3	Journal of analytical toxicology
+22963843	2012	KesslerW NumtipW VölkelW SeckinE CsanádyGA PützC KleinD FrommeH FilserJ	12	Toxicology and applied pharmacology
+21783775	2007	PereiraC MapuskarK RaoC	1	Environmental toxicology and pharmacology
+17090632	2007	HauserR MeekerJD SinghNP SilvaMJ RyanL DutyS CalafatA	60	Human reproduction (Oxford, England)
+21075419	2011	LinS KuHY SuPH ChenJW HuangPC AngererJ WangS	23	Chemosphere
+647906	1978	LewisLM FlechtnerTW KerkayJ PearsonKH Nakamoto	2	Clinical chemistry
+20227070	2010	JiK LimKhoY ParkY Choi	16	Environmental research
+14760016	2004	DutySM CalafatAM SilvaMJ BrockJW RyanL ChenZ OverstreetJ Hauser	24	Journal of andrology
+18790687	2008	SilvaMJ PreauJLJr NeedhamLL CalafatA	12	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+23399322	2013	CarboneS PonzoOJ GobettoN SamaniegoYA ReynosoR ScacchiP MoguilevskyJA Cutrera	16	Hormones and behavior
+21955883	2012	OlsénL LampaE BirkholzDA LindL LindP	12	Ecotoxicology and environmental safety
+21450549	2011	RudelRA GrayJM EngelCL RawsthorneTW DodsonRE AckermanJM RizzoJ NudelmanJL BrodyJ	101	Environmental health perspectives
+23040987	2012	GriesW EllrichD KüpperK LadermannB Leng	1	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+15280519	2004	WahlHG HongQ HildenbrandS RislerT LuftD Liebich	7	Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association
+9852407	1998	DeepaDeviKV ManojKumarV ArunP SanthoshA PadmakumaranNairKG LakshmiLR KurupP	1	Vox sanguinis
+17583543	2007	MazzeoP DiPasqualeD RuggieriF FanelliM D'ArchivioAA Carlucci	2	Biomedical chromatography : BMC
+21621210	2011	LindPM Lind	32	Atherosclerosis
+11486831	2001	WahlHG HongQ StübeD MaierME HäringHU LiebichH	0	Journal of chromatography. B, Biomedical sciences and applications
+16102138	2006	FosterP	102	International journal of andrology
+19423389	2009	WittassekM AngererJ KolossaGehringM SchäferSD KlockenbuschW DoblerL GünselAK MüllerA WiesmüllerG	24	International journal of hygiene and environmental health
+12504195	2003	KochHM GonzalezRecheLM Angerer	15	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+4071004	1985	LissGM AlbroPW HartleRW StringerW	3	Scandinavian journal of work, environment & health
+16979278	2006	StrohekerT RegnierJF LassurguereJ ChagnonM	7	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+18684505	2009	LatiniG WittassekM DelVecchioA PrestaG DeFeliceC Angerer	4	Environment international
+23142467	2013	MartinezArguellesDB McIntoshM RohlicekCV CultyM ZirkinBR Papadopoulos	7	Toxicology and applied pharmacology
+17822133	2007	JanjuaNR MortensenGK AnderssonAM KongshojB SkakkebaekNE WulfH	32	Environmental science & technology
+17462807	2007	LarsenST HansenJS HansenEW ClausenPA NielsenG	16	Toxicology
+21889907	2011	GöenT DoblerL KoschorreckJ MüllerJ WiesmüllerGA DrexlerH KolossaGehring	11	International journal of hygiene and environmental health
+21737372	2011	KimY HaEH KimEJ ParkH HaM KimJH HongYC ChangN KimB	38	Environmental health perspectives
+7222199	1981	PeckCC OdomDG AlbroPW JessDA BarrettB	3	Transfusion
+6498339	1984	EstepTN PedersenRA MillerTJ StuparK	7	Blood
+628318	1978	BellFP PattCS BrundageB GilliesPJ PhillipsW	4	Lipids
+23394847	2013	ZemanFA BoudetC TackK FlochBarneaudA BrochotC PéryAR OlekoA Vandentorren	6	International journal of hygiene and environmental health
+16059725	2005	KochHM BoltHM PreussR EcksteinR WeisbachV Angerer	8	Archives of toxicology
+19828186	2010	HerrerosMA GonzalezBulnesA IñigoNuñezS LetelierC ContrerasSolisI RosRodriguezJM Encinas	2	Theriogenology
+22085025	2012	FergusonKK LochCarusoR MeekerJ	29	Environmental science & technology
+21298484	2011	WangQ WangL ChenX RaoKM LuSY MaST JiangP ZhengD XuSQ ZhengHY WangJS YuZQ ZhangR TaoY Yuan	3	Environmental science and pollution research international
+20010977	2011	HinesCJ HopfNB DeddensJA SilvaMJ CalafatA	7	Journal of exposure science & environmental epidemiology
+19948620	2009	WhyattRM AdibiJJ CalafatAM CamannDE RauhV BhatHK PereraFP AndrewsH JustAC HoepnerL TangD Hauser	40	Pediatrics
+22251514	2012	KranslerKM BachmanAN McKeeR	3	Regulatory toxicology and pharmacology : RTP
+21406311	2011	FrommeH GruberL SeckinE RaabU ZimmermannS KiranogluM SchlummerM SchweglerU SmolicS VölkelW HBMnet	12	Environment international
+15893743	2005	InoueK KawaguchiM YamanakaR HiguchiT ItoR SaitoK Nakazawa	11	Clinica chimica acta; international journal of clinical chemistry
+21764513	2011	XieX WangZ ZhouX WangX Chen	2	Journal of hazardous materials
+11049818	2000	BlountBC SilvaMJ CaudillSP NeedhamLL PirkleJL SampsonEJ LucierGW JacksonRJ BrockJ	90	Environmental health perspectives
+2859109	1985	DeAngeloAB GarrettCT QueralAE Irwin	0	Cancer research
+22178135	2012	CarboneS SamaniegoYA CutreraR ReynosoR CardosoN ScacchiP MoguilevskyJA PonzoO	5	Neurotoxicology
+18640709	2008	LjungvallK VeeramachaneniDN HouM HulténF Magnusson	1	Theriogenology
+12456281	2002	BernalCA MartinelliMI MocchiuttiN	3	Food additives and contaminants
+15064163	2004	HoppinJA UlmerR LondonS	25	Environmental health perspectives
+20198640	2010	ChoiS ParkSY JeongJ ChoE PharkS LeeM KwakD LimJY JungWW Sul	4	Proteomics
+22147431	2011	SolymosE GuddatS GeyerH ThomasA ThevisM Schänzer	3	Drug testing and analysis
+16078637	2005	ItohH YoshidaK Masunaga	1	International journal of hygiene and environmental health
+23234290	2013	FrederiksenH KranichSK JørgensenN TaboureauO PetersenJH AnderssonA	20	Environmental science & technology
+10994974	2000	BlountBC MilgramKE SilvaMJ MalekNA ReidyJA NeedhamLL BrockJ	48	Analytical chemistry
+12655036	2003	HiguchiTT PalmerJS GrayLEJr VeeramachaneniD	15	Toxicological sciences : an official journal of the Society of Toxicology
+21389346	2011	MartinezArguellesDB GuichardT CultyM ZirkinBR Papadopoulos	10	Biology of reproduction
+21429583	2011	RomeroFrancoM HernándezRamírezRU CalafatAM CebriánME NeedhamLL TeitelbaumS WolffMS LópezCarrillo	39	Environment international
+21524797	2012	LiuL BaoH LiuF ZhangJ Shen	10	Environment international
+20123604	2010	AdibiJJ WhyattRM HauserR BhatHK DavisBJ CalafatAM HoepnerLA PereraFP TangD WilliamsP	14	Environmental health perspectives
+847759	1977	WaddellWJ MarloweC MiripolJE GarvinP	1	Toxicology and applied pharmacology
+20592772	2009	RaelLT BarOrR AmbrusoDR MainsCW SloneDS CraunML BarOr	7	Oxidative medicine and cellular longevity
+22222007	2012	TeitelbaumSL MervishN MoshierEL VangeepuramN GalvezMP CalafatAM SilvaMJ BrennerBL WolffM	47	Environmental research
+12869118	2003	BuchtaC BittnerC HöckerP MacherM SchmidR SegerC Dettke	1	Transfusion
+23437242	2013	WangH ZhouY TangC HeY WuJ ChenY Jiang	19	PloS one
+16125560	2005	LjungvallK KarlssonP HulténF MadejA NorrgrenL EinarssonS RodriguezMartinezH Magnusson	2	Theriogenology
+9276647	1997	SingletaryK MacDonaldC Wallig	3	Carcinogenesis
+21597090	2012	MendiolaJ MeekerJD JørgensenN AnderssonAM LiuF CalafatAM RedmonJB DrobnisEZ SparksAE WangC HauserR SwanS	17	Journal of andrology
+19729343	2009	BeckerK GöenT SeiwertM ConradA PickFussH MüllerJ WittassekM SchulzC KolossaGehring	49	International journal of hygiene and environmental health
+15840426	2005	SilvaMJ KatoK GrayEL WolfC NeedhamLL CalafatA	6	Toxicology
+14574443	2003	SilvaMJ BarrDB ReidyJA KatoK MalekNA HodgeCC HurtzD3rd CalafatAM NeedhamLL BrockJ	28	Archives of toxicology
+21188579	2011	SolymosE GuddatS GeyerH FlenkerU ThomasA SeguraJ VenturaR PlatenP SchulteMattlerM ThevisM Schänzer	1	Analytical and bioanalytical chemistry
+22197707	2012	TranfoG CaporossiL PaciE AragonaC RomanziD DeCarolisC DeRosaM CapannaS PapaleoB Pera	12	Toxicology letters
+21701833	2012	HinesCJ HopfNB DeddensJA SilvaMJ CalafatA	0	International archives of occupational and environmental health
+3709456	1986	RockG LabowRS Tocchi	7	Environmental health perspectives
+21696396	2012	SuzukiY YoshinagaJ MizumotoY SerizawaS Shiraishi	37	International journal of andrology
+17543380	2007	SpjuthL JohannissonA LundeheimN RodríguezMartínez	1	Theriogenology
+10089298	1999	FaouziMA DineT GressierB KambiaK LuyckxM PagniezD BrunetC CazinM BelabedA CazinJ	11	International journal of pharmaceutics
+23416250	2013	SongNR OnJW LeeJ ParkJD KwonHJ YoonHJ Pyo	4	Environment international
+21395215	2011	GuoY AlomirahH ChoHS MinhTB MohdMA NakataH Kannan	19	Environmental science & technology
+15700144	2005	KochHM BoltHM PreussR Angerer	62	Archives of toxicology
+20019910	2009	MeekerJD HuH CantonwineDE LamadridFigueroaH CalafatAM EttingerAS HernandezAvilaM LochCarusoR TéllezRojoM	66	Environmental health perspectives
+15072788	2004	HaishimaY MatsudaR HayashiY HasegawaC YagamiT Tsuchiya	4	International journal of pharmaceutics
+19555962	2009	ZhangY LinL CaoY ChenB ZhengL GeR	41	The Journal of pediatrics
+8194121	1994	AbergF ZhangY AppelkvistEL Dallner	0	Chemico-biological interactions
+15345350	2004	RaisBahramiK NunezS RevenisME LubanNL ShortB	14	Environmental health perspectives
+16961572	2006	SpjuthL SaraviaF JohannissonA LundeheimN RodríguezMartínez	0	Andrologia
+20803214	2011	GaudinR MarsanP NdawS RobertA Ducos	4	International archives of occupational and environmental health
+15297022	2004	ButalaJH DavidRM GansG McKeeRH GuoTL PeacheeVL WhiteKLJ	5	Toxicology
+19433267	2009	SeckinE FrommeH Völkel	6	Toxicology letters
+17704099	2007	HuangPC KuoPL GuoYL LiaoPC LeeC	60	Human reproduction (Oxford, England)
+21434628	2011	GuoY Kannan	15	Environmental science & technology
+15591081	2005	DutySM CalafatAM SilvaMJ RyanL Hauser	31	Human reproduction (Oxford, England)
+9017619	1996	MettangT ThomasS KieferT FischerFP KuhlmannU WodarzR RettenmeierA	4	Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association
+17049806	2007	MoseT MortensenGK HedegaardM KnudsenL	18	Reproductive toxicology (Elmsford, N.Y.)
+21783974	2009	KellerBO DavidsonAG InnisS	5	Environmental toxicology and pharmacology
+20870567	2011	CalafatAM WongLY SilvaMJ SamandarE PreauJLJr JiaLT NeedhamL	9	Environmental health perspectives
+22113848	2012	ToftG JönssonBA LindhCH JensenTK HjollundNH VestedA BondeJ	28	Environmental health perspectives
+22967065	2013	Shiue	5	European journal of neurology
+23040990	2012	MonfortN VenturaR BalcellsG Segura	1	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+3988859	1985	Shintani	4	Journal of chromatography
+1868266	1991	DineT LuyckxM CazinM BrunetC CazinJC Goudaliez	1	Biomedical chromatography : BMC
+22354176	2012	MeekerJD CalafatAM Hauser	22	Journal of exposure science & environmental epidemiology
+22537080	2012	MortamaisM ChevrierC PhilippatC PetitC CalafatAM YeX SilvaMJ BrambillaC EijkemansMJ CharlesMA CordierS Slama	9	Environmental health : a global access science source
+16171971	2006	LjungvallK SpjuthL HulténF EinarssonS RodriguezMartinezH AnderssonK Magnusson	2	Reproductive toxicology (Elmsford, N.Y.)
+351859	1978	BakerR	4	Toxicology
+18948546	2009	HinesCJ NilsenHopfNB DeddensJA CalafatAM SilvaMJ GroteAA SammonsD	10	The Annals of occupational hygiene
+7119075	1982	AlbroPW JordanST SchroederJL CorbettJ	4	Journal of chromatography
+21854843	2011	YoltonK XuY StraussD AltayeM CalafatAM Khoury	49	Neurotoxicology and teratology
+21534504	2011	PakVM McCauleyLA PintoMartin	7	AAOHN journal : official journal of the American Association of Occupational Health Nurses
+22669498	2012	ChristensenKL LorberM KochHM KolossaGehringM MorganM	12	Journal of exposure science & environmental epidemiology
+17343970	2007	JiangJ MaL YuanL WangX Zhang	9	Toxicology
+467574	1979	AhmadN AhmadSA KhanAA Shoeb	0	Experientia
+18824263	2009	BermanT HochnerCelnikierD CalafatAM NeedhamLL AmitaiY WormserU Richter	25	Environment international
+15113553	2004	SilvaMJ SlakmanAR ReidyJA PreauJLJr HerbertAR SamandarE NeedhamLL CalafatA	40	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+22484512	2012	FerriM ChielliniF PiliG GrimaldiL FlorioET PiliS CucciF Latini	0	International journal of pharmaceutics
+1146280	1975	GilboCM ColesN	1	Vox sanguinis
+4049487	1985	SjöbergPO BondessonUG SedinEG GustafssonJ	10	Transfusion
+16484133	2006	SilvaMJ ReidyJA PreauJL SamandarE NeedhamLL CalafatA	31	Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals
+6703327	1984	AlbroPW JordanS CorbettJT SchroederJ	4	Analytical chemistry
+19059903	2009	MeekerJD CalafatAM Hauser	50	Journal of andrology
+19811803	2009	ItohH IwasakiM HanaokaT SasakiH TanakaT Tsugane	11	The Science of the total environment
+11940459	2002	KooJW ParhamF KohnMC MastenSA BrockJW NeedhamLL PortierC	24	Environmental health perspectives
+23174424	2013	KranslerKM BachmanAN McKeeR	1	Regulatory toxicology and pharmacology : RTP
+14998681	2004	KesslerW NumtipW GroteK CsanádyGA ChahoudI FilserJ	6	Toxicology and applied pharmacology
+11958	1977	LeeHY AuslanderSE KalmusG	0	Comparative biochemistry and physiology. C: Comparative pharmacology
+12083265	2002	KatoK YoshimuraY NakazawaH ItoY Oka	1	Journal of AOAC International
+22027561	2011	JiangJT SunWL JingYF LiuSB MaZ HongY MaL QinC LiuQ StrattonHJ XiaS	6	Toxicology
+16263507	2005	DutySM AckermanRM CalafatAM Hauser	73	Environmental health perspectives
+21594692	2011	JurewiczJ Hanke	41	International journal of occupational medicine and environmental health
+12662212	2003	GourlayT SamartzisI StefanouD Taylor	13	Artificial organs
+22277248	2012	CragoJ Klaper	1	Aquatic toxicology (Amsterdam, Netherlands)
+19330368	2009	BotelhoGG GolinM BufaloAC MoraisRN DalsenterPR MartinoAndradeA	4	Archives of environmental contamination and toxicology
+7245717	1981	ColeRS TocchiM WyeE VilleneuveDC Rock	4	Vox sanguinis
+23314658	2013	IvellR HengK NicholsonH AnandIvell	2	Asian journal of andrology
+22320716	2012	SøeborgT FrederiksenH AnderssonA	5	International journal of andrology
+10506015	1999	NativelleC PicardK ValentinI LhuguenotJC ChagnonM	4	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+20574658	2010	KondoF IkaiY HayashiR OkumuraM TakatoriS NakazawaH IzumiS Makino	5	Bulletin of environmental contamination and toxicology
+23090363	2013	MartineB MarieJeanneT CendrineD FabriceA Marc	8	Bulletin of environmental contamination and toxicology
+22677342	2012	WeiZ SongL WeiJ ChenT ChenJ LinY XiaW XuB LiX ChenX LiY Xu	4	Toxicology letters
+19245819	2009	EveillardA LasserreF deTayracM PolizziA ClausS CanletC MselliLakhalL GotardiG ParisA GuillouH MartinPG Pineau	7	Toxicology and applied pharmacology
+20008419	2010	DurmazE OzmertEN ErkekogluP GirayB DermanO HincalF Yurdakök	19	Pediatrics
+12700402	2003	BarlowNJ PhillipsSL WallaceDG SarM GaidoKW FosterP	36	Toxicological sciences : an official journal of the Society of Toxicology
+664570	1978	VessmanJ Rietz	2	Vox sanguinis
+21893441	2012	WhyattRM LiuX RauhVA CalafatAM JustAC HoepnerL DiazD QuinnJ AdibiJ PereraFP FactorLitvak	48	Environmental health perspectives
+20686649	2009	YanX CalafatA LashleyS SmulianJ AnanthC BarrD SilvaM LedouxT HoreP RobsonM	16	Human and ecological risk assessment : HERA
+58987	1976	KimSW PetersenRV LeeE	1	Journal of pharmaceutical sciences
+19010379	2009	ClewellRA KremerJJ WilliamsCC CampbellJL SochaskiMA AndersenME BorghoffS	3	Toxicology
+841679	1977	MiripolJE SternI	0	Transfusion
+17098345	2007	GrandeSW AndradeAJ TalsnessCE GroteK GolombiewskiA SternerKockA Chahoud	17	Toxicology
+18522739	2008	HatchEE NelsonJW QureshiMM WeinbergJ MooreLL SingerM WebsterT	107	Environmental health : a global access science source
+14758462	2004	HolmA SolbuK MolanderP LundanesE Greibrokk	1	Analytical and bioanalytical chemistry
+22511701	2012	LangloisÉ LeblancA SimardY Thellen	6	Journal of analytical toxicology
+8889033	1996	FukuokaM NiimiS ZhouY KobayashiT Hayakawa	0	Biological & pharmaceutical bulletin
+20185384	2010	WeuveJ HauserR CalafatAM MissmerSA WiseL	30	Environmental health perspectives
+21704685	2012	KochHM HallerA WeissT KäfferleinHU StorkJ Brüning	2	Toxicology letters
+16759976	2006	MarseeK WoodruffTJ AxelradDA CalafatAM SwanS	33	Environmental health perspectives
+16996189	2006	AndradeAJ GrandeSW TalsnessCE GerickeC GroteK GolombiewskiA SternerKockA Chahoud	23	Toxicology
+22472124	2012	LindPM RoosV RönnM JohanssonL AhlströmH KullbergJ Lind	15	Environmental health : a global access science source
+22858127	2012	PradeepS Benjamin	1	Journal of hazardous materials
+23261794	2013	ParkHY KimJH LimYH BaeS HongY	6	Environmental research
+17003688	2006	HauserR MeekerJD DutyS SilvaMJ CalafatA	93	Epidemiology (Cambridge, Mass.)

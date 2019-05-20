@@ -1,0 +1,234 @@
+1978	DurstHI WillettLB BrummCJ SchanbacherF	4	Journal of dairy science
+1978	WolffMS AubreyB CamperF Haymes	6	Environmental health perspectives
+1978	WolffMS Aubrey	3	Environmental health perspectives
+1979	WolffMS AndersonHA CamperF NikaidoMN DaumSM HaymesN SelikoffIJ Aubrey	3	Journal of environmental pathology and toxicology
+1979	BekesiJG RobozJ AndersonHA RobozJP FischbeinAS SelikoffIJ HollandJ	1	Drug and chemical toxicology
+1990	LambertGH SchoellerDA HumphreyHE KotakeAN LietzH CampbellM KalowW SpielbergSP Budd	7	Environmental health perspectives
+1989	JacobsonJL HumphreyHE JacobsonSW SchantzSL MullinMD Welch	21	American journal of public health
+1985	RobozJ GreavesJ BekesiJ	0	Environmental health perspectives
+1987	LipsonS	1	Clinical immunology and immunopathology
+1987	SchanbacherFL WillettLB MoorheadPD DurstH	1	Journal of animal science
+1980	KuwaharaSS CaleraF PerryE	4	Transfusion
+1981	NeedhamLL BurseVW PriceH	22	Journal - Association of Official Analytical Chemists
+1983	EysterJT HumphreyHE KimbroughR	18	Archives of environmental health
+1983	BernertJTJr GroceDF KimbroughR	2	Toxicology and applied pharmacology
+1983	WillettLB LiuTT DurstHI SchanbacherF	0	Journal of animal science
+1995	RosenDH FlandersWD FriedeA HumphreyHE SinksT	6	Environmental health perspectives
+1998	HoqueA SigurdsonAJ BurauKD HumphreyHE HessKR SweeneyA	14	Epidemiology (Cambridge, Mass.)
+1999	SjödinA HagmarL KlassonWehlerE KronholmDiabK JakobssonE Bergman	32	Environmental health perspectives
+2000	BlanckHM MarcusM HertzbergV TolbertPE RubinC HendersonAK ZhangR	18	Environmental health perspectives
+2000	BlanckHM MarcusM TolbertPE RubinC HendersonAK HertzbergVS ZhangRH Cameron	59	Epidemiology (Cambridge, Mass.)
+2001	ZhouT RossDG DeVitoMJ CroftonK	72	Toxicological sciences : an official journal of the Society of Toxicology
+2001	SweeneyAM SymanskiE BurauKD KimYJ HumphreyHE SmithciM	8	Environmental research
+2001	HallgrenS SinjariT HåkanssonH DarnerudP	59	Archives of toxicology
+2001	ThomasAR MarcusM ZhangRH BlanckHM TolbertPE HertzbergV HendersonAK Rubin	6	Environmental health perspectives
+2002	ThomsenC HaugLS LeknesH LundanesE BecherG Lindström	1	Chemosphere
+2002	JakobssonK ThuressonK RylanderL SjödinA HagmarL Bergman	21	Chemosphere
+2002	BoonJP LewisWE TjoenAChoyMR AllchinCR LawRJ DeBoerJ TenHallersTjabbesCC ZegersB	14	Environmental science & technology
+2003	KaiserR MarcusM BlanckHM NaughtonM ZhangRH HendersonAK TolbertPE RubinCH HertzbergV	4	Annals of epidemiology
+2003	GuveniusDM AronssonA EkmanOrdebergG BergmanA Norén	62	Environmental health perspectives
+2003	MazdaiA DodderNG AbernathyMP HitesRA BigsbyR	89	Environmental health perspectives
+2003	SjödinA PattersonDGJr Bergman	56	Environment international
+2004	MarshG AthanasiadouM BergmanA Asplund	13	Environmental science & technology
+2004	McElroyJA KanarekMS TrenthamDietzA RobertSA HamptonJM NewcombPA AndersonHA RemingtonP	4	Environmental health perspectives
+2004	HitesR	140	Environmental science & technology
+2004	SjödinA JonesRS LapezaCR FocantJF McGaheeEE3rd PattersonDGJ	95	Analytical chemistry
+2004	SjödinA JonesRS FocantJF LapezaC WangRY McGaheeEE3rd ZhangY TurnerWE SlazykB NeedhamLL PattersonDGJ	55	Environmental health perspectives
+2004	GillU ChuI RyanJJ Feeley	17	Reviews of environmental contamination and toxicology
+2004	TakasugaT SenthilkumarK TakemoriH OhiE TsujiH Nagayama	4	Chemosphere
+2004	FocantJF SjödinA TurnerWE PattersonDGJ	3	Analytical chemistry
+2004	RogersE PetreasM ParkJS ZhaoG CharlesM	8	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+2005	KimBH IkonomouMG LeeSJ KimHS ChangY	5	The Science of the total environment
+2005	SchecterA PäpkeO JosephJE TungK	19	Journal of toxicology and environmental health. Part A
+2005	JulanderA KarlssonM HagströmK OhlsonCG EngwallM BryngelssonIL WestbergH vanBavel	15	International archives of occupational and environmental health
+2005	KoizumiA YoshinagaT HaradaK InoueK MorikawaA MuroiJ InoueS EslamiB FujiiS FujimineY HachiyaN KodaS KusakaY MurataK NakatsukaH OmaeK SaitoN ShimboS TakenakaK TakeshitaT TodorikiH WadaY WatanabeT Ikeda	9	Environmental research
+2005	MalmbergT AthanasiadouM MarshG BrandtI Bergman	19	Environmental science & technology
+2005	FernieKJ ShuttJL MayneG HoffmanD LetcherRJ DrouillardKG RitchieI	32	Toxicological sciences : an official journal of the Society of Toxicology
+2005	ValtersK LiH AlaeeM D'SaI MarshG BergmanA LetcherR	11	Environmental science & technology
+2005	CovaciA Voorspoels	10	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+2006	GómaraB HerreroL BordajandiLR GonzálezM	2	Rapid communications in mass spectrometry : RCM
+2006	CeccatelliR FaassO SchlumpfM Lichtensteiger	26	Toxicology
+2006	ThuressonK BergmanK RothenbacherK HerrmannT SjölinS HagmarL PäpkeO Jakobsson	5	Chemosphere
+2006	VoorspoelsS CovaciA LepomP JaspersVL Schepens	4	Environmental pollution (Barking, Essex : 1987)
+2006	BiX QuW ShengG ZhangW MaiB ChenD YuL Fu	15	Environmental pollution (Barking, Essex : 1987)
+2006	EllisHutchingsRG CherrGN HannaLA KeenC	24	Toxicology and applied pharmacology
+2006	JaraczewskaK LulekJ CovaciA VoorspoelsS KalubaSkotarczakA DrewsK Schepens	21	The Science of the total environment
+2006	InoueK HaradaK TakenakaK UeharaS KonoM ShimizuT TakasugaT SenthilkumarK YamashitaF Koizumi	23	Environmental health perspectives
+2007	HarradS Porter	3	Chemosphere
+2006	ZuurbierM LeijsM SchoetersG tenTusscherG KoppeJ	9	Acta paediatrica (Oslo, Norway : 1992). Supplement
+2007	ThomsenC LianeVH Becher	7	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+2006	SchecterA PäpkeO HarrisTR TungKC MusumbaA OlsonJ Birnbaum	53	Environmental health perspectives
+2006	FischerD HooperK AthanasiadouM AthanassiadisI Bergman	40	Environmental health perspectives
+2007	ChaoHR WangSL LeeWJ WangYF Päpke	40	Environment international
+2007	LeeSJ IkonomouMG ParkH BaekSY ChangY	3	Chemosphere
+2006	WeissJ WallinE AxmonA JönssonBA AkessonH JanákK HagmarL Bergman	17	Environmental science & technology
+2007	SchecterA JohnsonWelchS TungKC HarrisTR PäpkeO Rosen	24	Journal of toxicology and environmental health. Part A
+2007	RamosJJ GómaraB FernándezMA GonzálezM	2	Journal of chromatography. A
+2007	SmallCM CheslackPostavaK TerrellM BlanckHM TolbertP RubinC HendersonA Marcus	11	Environmental research
+2006	GómaraB HerreroL GonzálezM	5	Environmental science & technology
+2007	DarnerudPO AuneM LarssonL Hallgren	19	Chemosphere
+2007	BradmanA FensterL SjödinA JonesRS PattersonDGJr Eskenazi	18	Environmental health perspectives
+2007	WuN HerrmannT PaepkeO TicknerJ HaleR HarveyLE LaGuardiaM McCleanMD WebsterT	71	Environmental science & technology
+2008	Lorber	89	Journal of exposure science & environmental epidemiology
+2007	HoffmanCS SmallCM BlanckHM TolbertP RubinC Marcus	8	Annals of epidemiology
+2007	RiceDC ReeveEA HerlihyA ZoellerRT ThompsonWD MarkowskiV	32	Neurotoxicology and teratology
+2007	SweeneyAM Symanski	5	Environmental research
+2007	HallAJ ThomasG	3	Environmental toxicology and chemistry
+2007	GivensML SmallCM TerrellML CameronLL MichelsBlanckH TolbertPE RubinC HendersonAK Marcus	11	Chemosphere
+2007	QuW BiX ShengG LuS FuJ YuanJ Li	10	Environment international
+2007	QiuX MercadoFelicianoM BigsbyRM HitesR	27	Environmental health perspectives
+2008	TsengLH LiMH TsaiSS LeeCW PanMH YaoWJ HsuP	19	Chemosphere
+2007	XiaoQ HuB DuanJ HeM Zu	1	Journal of the American Society for Mass Spectrometry
+2007	SchantzMM KellerJM LeighS PattersonDGJr SharplessKE SjödinA StapletonHM SwarthoutR TurnerWE WiseS	2	Analytical and bioanalytical chemistry
+2007	MengXZ ZengEY YuLP GuoY MaiB	0	Environmental science & technology
+2008	CheungKC ZhengJS LeungHM WongM	2	Chemosphere
+2007	BiX ThomasGO JonesKC QuW ShengG MartinFL Fu	17	Environmental science & technology
+2007	DyeJA VenierM ZhuL WardCR HitesRA BirnbaumL	8	Environmental science & technology
+2007	LundgrenM DarnerudPO MolinY LilienthalH BlombergJ IlbäckN	1	Toxicology
+2007	GómaraB HerreroL RamosJJ MateoJR FernándezMA GarcíaJF GonzálezM	33	Environmental science & technology
+2008	CantónRF ScholtenDE MarshG deJongPC vandenBerg	17	Toxicology and applied pharmacology
+2007	HerbstmanJB SjödinA ApelbergBJ WitterFR PattersonDG HaldenRU JonesRS ParkA ZhangY HeidlerJ NeedhamLL GoldmanL	32	Environmental health perspectives
+2008	TerrellML ManatungaAK SmallCM CameronLL WirthJ BlanckHM LylesRH Marcus	8	Journal of exposure science & environmental epidemiology
+2008	ThomsenC KnutsenHK LianeVH FrøshaugM KvalemHE HaugenM MeltzerHM AlexanderJ Becher	8	Molecular nutrition & food research
+2008	LocontoPR IsengaD O'KeefeM Knottnerus	0	Journal of chromatographic science
+2008	SongR HeY MurphyMB YeungLW YuRM LamMH LamPK HeckerM GiesyJP WuRS ZhangW ShengG Fu	6	Chemosphere
+2008	AkutsuK TakatoriS NozawaS YoshiikeM NakazawaH HayakawaK MakinoT Iwamoto	19	Bulletin of environmental contamination and toxicology
+2008	GeeJR HedgeJM MoserV	9	Drug and chemical toxicology
+2008	TalsnessCE KuriyamaSN SternerKockA SchnitkerP GrandeSW ShakibaeiM AndradeA GroteK Chahoud	25	Environmental health perspectives
+2008	AthanasiadouM CuadraSN MarshG BergmanA Jakobsson	38	Environmental health perspectives
+2008	SjödinA WongLY JonesRS ParkA ZhangY HodgeC DipietroE McClureC TurnerW NeedhamLL PattersonDGJ	100	Environmental science & technology
+2008	YuanJ ChenL ChenD GuoH BiX JuY JiangP ShiJ YuZ YangJ LiL JiangQ ShengG FuJ WuT Chen	16	Environmental science & technology
+2008	ZhaoG WangZ DongMH RaoK LuoJ WangD ZhaJ HuangS XuY Ma	4	The Science of the total environment
+2008	LiangSX ZhaoQ QinZF ZhaoXR YangZZ XuX	0	Environmental toxicology and chemistry
+2008	SjödinA PäpkeO McGaheeE FocantJF JonesRS PlessMulloliT TomsLM HerrmannT MüllerJ NeedhamLL PattersonDGJ	31	Chemosphere
+2008	StapletonHM SjödinA JonesRS NiehüserS ZhangY PattersonDGJ	20	Environmental science & technology
+2009	FrederiksenM VorkampK ThomsenM KnudsenL	86	International journal of hygiene and environmental health
+2008	WenS YangFX GongY ZhangXL HuiY LiJG LiuAL WuYN LuWQ Xu	5	Environmental science & technology
+2008	LeijsMM vanTeunenbroekT OlieK KoppeJG tenTusscherGW vanAalderenWM deVoogt	4	Chemosphere
+2008	AndersonHA ImmP KnobelochL TurykM MathewJ BuelowC Persky	13	Chemosphere
+2008	LiJ YuH ZhaoY ZhangG Wu	2	Chemosphere
+2008	SpliethoffHM BloomMS VenaJ SorceJ AldousKM Eadon	3	Environmental research
+2008	ChristianssonA HovanderL AthanassiadisI JakobssonK Bergman	5	Chemosphere
+2009	AntignacJP CariouR ZalkoD BerrebiA CravediJP MaumeD MarchandP MonteauF RiuA AndreF LeBizec	17	Environmental pollution (Barking, Essex : 1987)
+2008	HerbstmanJB SjödinA ApelbergBJ WitterFR HaldenRU PattersonDG PannySR NeedhamLL GoldmanL	52	Environmental health perspectives
+2009	KellerJM SwarthoutRF CarlsonBK YordyJ GuichardA SchantzMM KucklickJ	4	Analytical and bioanalytical chemistry
+2009	VandenSteenE EensM CovaciA DirtuAC JaspersVL NeelsH Pinxten	1	Environmental pollution (Barking, Essex : 1987)
+2009	SzaboDT RichardsonVM RossDG DilibertoJJ KodavantiPR BirnbaumL	44	Toxicological sciences : an official journal of the Society of Toxicology
+2009	LundgrenM DarnerudPO BlombergJ FrimanG IlbäckN	6	Toxicology letters
+2008	ZotaAR RudelRA MorelloFroschRA BrodyJ	68	Environmental science & technology
+2008	TaoH NakazatoT AkasakaM RajendranRB Elouali	0	Analytical sciences : the international journal of the Japan Society for Analytical Chemistry
+2008	LemaSC DickeyJT SchultzIR Swanson	24	Environmental health perspectives
+2009	KlösenerJ PetersTM AdamcakovaDoddA TeeschLM ThornePS RobertsonLW Luthe	3	Chemical research in toxicology
+2009	QiuX BigsbyRM HitesR	34	Environmental health perspectives
+2009	ZhuL MaB LiJ WuY Gong	4	Chemosphere
+2009	MeekerJD JohnsonPI CamannD Hauser	50	The Science of the total environment
+2009	SchecterA ShahN ColacinoJA BrummittSI RamakrishnanV RobertHarrisT Päpke	1	Chemosphere
+2009	PérezMaldonadoIN RamírezJiménezMdelR MartínezArévaloLP LópezGuzmánOD AthanasiadouM BergmanA YartoRamírezM GavilánGarcíaA YáñezL DíazBarriga	6	Chemosphere
+2009	ElliottKH CeshLS DooleyJA LetcherRJ ElliottJ	3	The Science of the total environment
+2009	HoudeM PacepaviciusG DarlingC FairPA AlaeeM BossartGD SolomonKR LetcherRJ BergmanA MarshG MuirD	2	Environmental toxicology and chemistry
+2009	JinJ WangY YangC HuJ LiuW CuiJ Tang	4	Environment international
+2009	RoosensL AbdallahMA HarradS NeelsH Covaci	7	Environmental science & technology
+2009	FrommeH KörnerW ShahinN WannerA AlbrechtM BoehmerS ParlarH MayerR LieblB Bolte	7	Environment international
+2009	TerrellML BerzenAK SmallCM CameronLL WirthJJ Marcus	9	Environmental health : a global access science source
+2009	FrederiksenM ThomsenM VorkampK KnudsenL	17	Chemosphere
+2009	TomsLM SjödinA HardenF HobsonP JonesR EdenfieldE MuellerJ	41	Environmental health perspectives
+2009	LocontoP	0	Journal of chromatographic science
+2010	KohTW ChihChengChenS ChangChienGP LinDY ChenFA ChaoH	4	International journal of hygiene and environmental health
+2010	ChaoHA ChenSC ChangCM KohTW ChangChienGP OuyangE LinSL ShyCG ChenFA ChaoH	1	Journal of hazardous materials
+2009	AhnKC GeeSJ TsaiHJ BennettD NishiokaMG BlumA FishmanE HammockB	10	Environmental science & technology
+2010	ChenC ChenJ ZhaoH XieQ YinZ Ge	1	Environment international
+2009	ImmP KnobelochL BuelowC AndersonH	13	Environmental health perspectives
+2010	HerbstmanJB SjödinA KurzonM LedermanSA JonesRS RauhV NeedhamLL TangD NiedzwieckiM WangRY Perera	159	Environmental health perspectives
+2009	KimTH LeeYJ LeeE PatraN LeeJ KwackSJ KimKB ChungKK HanSY HanJY LeeBM KimH	14	Journal of toxicology and environmental health. Part A
+2010	SchecterA ColacinoJ SjödinA NeedhamL Birnbaum	13	Chemosphere
+2010	HarleyKG MarksAR ChevrierJ BradmanA SjödinA Eskenazi	52	Environmental health perspectives
+2010	LiuJ LuoXJ YuLH HeMJ ChenSJ MaiB	2	Archives of environmental contamination and toxicology
+2010	UemuraH ArisawaK HiyoshiM DakeshitaS KitayamaA TakamiH SawachikaF YamaguchiM Sasai	3	Chemosphere
+2010	KodavantiPR CoburnCG MoserVC MacPhailRC FentonSE StokerTE RaynerJL KannanK BirnbaumL	40	Toxicological sciences : an official journal of the Society of Toxicology
+2010	ShenH DingG HanG WangX XuX HanJ LouX XuC CaiD SongY Lu	2	Chemosphere
+2010	KangCS LeeJH KimSK LeeKT LeeJS ParkPS YunSH KannanK YooYW HaJY LeeS	3	Chemosphere
+2010	ObergM WesterholmE FattoreE SternN HanbergA HaglundP WibergK BergendorffA Håkansson	2	Chemosphere
+2010	FrederiksenM ThomsenC FrøshaugM VorkampK ThomsenM BecherG KnudsenL	25	International journal of hygiene and environmental health
+2010	MingwuS ChaoW YongjuanJ XinhuaD Xiang	1	Analytical chemistry
+2010	JohnsonPI StapletonHM SjodinA MeekerJ	53	Environmental science & technology
+2010	LunderS HovanderL AthanassiadisI Bergman	33	Environmental science & technology
+2010	PérezFuentetajaA LuptonS ClapsadlM SamaraF GattoL BiniakewitzR AgaD	2	Chemosphere
+2011	VorkampK ThomsenM FrederiksenM PedersenM KnudsenL	8	Environment international
+2011	TrudelD TlustosC VonGoetzN ScheringerM Hungerbühler	2	Journal of exposure science & environmental epidemiology
+2010	LeeE KimTH ChoiJS NabanataP KimNY AhnMY JungKK KangIH KimTS KwackSJ ParkKL KimSH KangTS LeeJ LeeBM KimH	13	The Journal of toxicological sciences
+2010	MunschyC HéasMoisanK TixierC PacepaviciusG Alaee	1	Environmental pollution (Barking, Essex : 1987)
+2011	PetreasM NelsonD BrownFR GoldbergD HurleyS Reynolds	9	Environment international
+2010	SchlumpfM KypkeK WittassekM AngererJ MascherH MascherD VöktC BirchlerM Lichtensteiger	22	Chemosphere
+2011	KalantziOI GeensT CovaciA SiskosP	2	Environment international
+2011	LinSM ChenFA HuangYF HsingLL ChenLL WuLS LiuTS ChangChienGP ChenKC ChaoH	13	International journal of hygiene and environmental health
+2011	FrouinH LebeufM HammillM SjareB Fournier	0	Chemosphere
+2010	SchecterA SmithS HaffnerD ColacinoJ MalikN PatelK HarrisTR OpelM Paepke	3	Journal of occupational and environmental medicine
+2010	FengC XuY HeY LuoQ ZhaJ Wang	1	Journal of environmental sciences (China)
+2010	FitzgeraldEF FletcherBA BelangerE TaoL KannanK HwangS	5	Archives of environmental & occupational health
+2011	LiberdaEN WainmanBC LeblancA DumasP MartinI TsujiL	3	Environment international
+2011	RaachM LebeufM Pelletier	0	Journal of environmental monitoring : JEM
+2011	TrudelD ScheringerM vonGoetzN Hungerbühler	20	Environmental science & technology
+2011	ZhangZ RhindS	4	Talanta
+2011	HurleyS ReynoldsP GoldbergD NelsonDO JeffreySS Petreas	5	Breast cancer research and treatment
+2011	LaiY ChenX LamMH Cai	2	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+2011	HuweJK West	4	Journal of agricultural and food chemistry
+2011	ParkJS SheJ HoldenA SharpM GephartR SoudersMasonG ZhangV ChowJ LeslieB Hooper	10	Environmental science & technology
+2011	EskenaziB FensterL CastorinaR MarksAR SjödinA RosasLG HollandN GuerraAG LopezCarilloL Bradman	18	Environmental health perspectives
+2012	MaS YuZ ZhangX RenG PengP ShengG Fu	1	Environment international
+2011	HanG DingG LouX WangX HanJ ShenH ZhouY Du	10	Biomedical and environmental sciences : BES
+2011	WangHS DuJ HoKL LeungHM LamMH GiesyJP WongCK WongM	2	Journal of hazardous materials
+2011	ChenA ChungE DeFrancoEA PinneySM DietrichK	11	Environmental research
+2011	FosterWG GregorovichS MorrisonKM AtkinsonSA KubwaboC StewartB Teo	16	Chemosphere
+2011	StapletonHM EagleS AnthopolosR WolkinA MirandaM	60	Environmental health perspectives
+2011	WatkinsDJ McCleanMD FraserAJ WeinbergJ StapletonHM SjödinA WebsterT	38	Environmental health perspectives
+2011	YardEE TerrellML HuntDR CameronLL SmallCM McGeehinMA Marcus	6	Chemosphere
+2011	HernikA GóralczykK StrucińskiP CzajaK KucharskaA KorczW SnopczyńskiT LudwickiJ	1	Annals of agricultural and environmental medicine : AAEM
+2005	SkarmanE DarnerudPO OhrvikH Oskarsson	8	Environmental toxicology and pharmacology
+2008	BloomM SpliethoffH VenaJ ShaverS AddinkR Eadon	19	Environmental toxicology and pharmacology
+2011	CastorinaR BradmanA SjödinA FensterL JonesRS HarleyKG EisenEA Eskenazi	21	Environmental science & technology
+2011	ShahA CoburnCG WatsonSiriboeA WhitleyR ShahidzadehA GillardER NicholR LeonOleaM GaertnerM KodavantiPR CurrásCollazoM	4	Toxicology and applied pharmacology
+2011	PoonE PowersBE McAlonanRM FergusonDC SchantzS	12	Toxicological sciences : an official journal of the Society of Toxicology
+2011	HarleyKG ChevrierJ AguilarSchallR SjödinA BradmanA Eskenazi	38	American journal of epidemiology
+2011	KimUJ LeeIS KimHS OhJ	8	Chemosphere
+2011	ShyCG HuangHL ChangChienGP ChaoHR TsouT	18	Bulletin of environmental contamination and toxicology
+2011	ChevrierJ HarleyKG BradmanA SjödinA Eskenazi	16	American journal of epidemiology
+2011	LaiY LuM GaoX WuH Cai	3	Environmental science & technology
+2012	ShyCG HuangHL ChaoHR ChangChienG	11	International journal of hygiene and environmental health
+2012	GuoW ParkJS WangY GardnerS BaekC PetreasM Hooper	4	Environmental toxicology and chemistry
+2011	ZhangX RuanX YanM ZhaoY WeiW QinZ YangY XuH Li	0	Journal of environmental sciences (China)
+2012	WangC LinZ DongQ LinZ LinK WangJ HuangJ HuangX HeY HuangC YangD Huang	2	Ecotoxicology and environmental safety
+2012	LinkB GabrioT MannV SchillingB MaisnerV KönigM FlickerKleinA ZöllnerI Fischer	2	International journal of hygiene and environmental health
+2012	ChangH WuF JinF FengC ZhaoX Liao	1	Journal of chromatography. A
+2012	KimTH BangduY LimHJ WonAJ AhnMY PatraN ChungKK KwackSJ ParkKL HanSY ChoiWS HanJY LeeBM OhJE YoonJH LeeJ KimH	10	Chemosphere
+2012	MillerMF ChernyakSM DominoSE BattermanSA LochCaruso	12	The Science of the total environment
+2012	ZhangJG SunXW Ai	1	Journal of environmental monitoring : JEM
+2012	NorrgranJ JonesB LindquistNG Bergman	3	Archives of environmental contamination and toxicology
+2012	KimJ KangJH ParkH BaekSY KimYH ChangY	1	Environmental pollution (Barking, Essex : 1987)
+2012	MillerVM SanchezMorrisseyS BroschKO SeegalR	10	Toxicological sciences : an official journal of the Society of Toxicology
+2012	LuD WangD IpHS BarleyF RamageR She	7	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+2012	JohnsonPI AltshulL CramerDW MissmerSA HauserR MeekerJ	9	Environment international
+2012	RydénA NestorG JakobssonK Marsh	1	Chemosphere
+2012	KimUJ KimMY HongYH LeeDH OhJ	7	Environmental science & technology
+2012	LiuX ZhanH ZengX ZhangC Chen	4	Mediators of inflammation
+2012	BradmanA CastorinaR SjödinA FensterL JonesRS HarleyKG ChevrierJ HollandNT Eskenazi	13	Environmental science & technology
+2012	WangS ZhangS HuangH LuA Ping	1	Chemosphere
+2012	ChovancováJ ConkaK FabišikováA SejákováZS DömötörováM DrobnáB Wimmerová	5	Chemosphere
+2012	SongY WuN TaoH TanY GaoM HanJ ShenH LiuK Lou	0	Environmental toxicology and chemistry
+2013	ButtkeDE WolkinA StapletonHM MirandaM	5	Journal of exposure science & environmental epidemiology
+2012	StapletonHM EagleS SjödinA WebsterT	69	Environmental health perspectives
+2012	WangHS ChenZJ HoKL GeLC DuJ LamMH GiesyJP WongMH WongC	11	Environment international
+2012	HoffmanK AdgentM GoldmanBD SjödinA DanielsJ	24	Environmental health perspectives
+2012	CuiC TianY ZhangL GaoY JinJ WangP DingW WangX ShiR Wang	1	The Science of the total environment
+2012	JakobssonK FångJ AthanasiadouM RignellHydbomA Bergman	5	Environment international
+2012	OrtaGarciaST LeónMorenoLC GonzálezVegaC DominguezCortinasG EspinosaReyesG PérezMaldonadoI	0	Bulletin of environmental contamination and toxicology
+2012	HoKL MurphyMB WanY FongBM TamS GiesyJP LeungKS LamM	1	Analytical chemistry
+2013	DelaTorreA PacepaviciusG MartínezMA DarlingC MuirD SherryJ McMasterM Alaee	1	Chemosphere
+2013	SunJ LiuJ LiuY Jiang	0	Environmental pollution (Barking, Essex : 1987)
+2013	GaríM GrimaltJ	3	Environment international
+2013	HearnLK HawkerDW TomsLM MuellerJ	0	Ecotoxicology and environmental safety
+2013	ShiZ JiaoY HuY SunZ ZhouX FengJ LiJ Wu	13	The Science of the total environment
+2013	ChenA ParkJS LinderholmL RheeA PetreasM DeFrancoEA DietrichKN HoS	18	Environmental science & technology
+2013	MarchittiSA LaKindJS NaimanDQ BerlinCM KennekeJ	4	Environmental science & technology
+2013	FaassO CeccatelliR SchlumpfM Lichtensteiger	8	General and comparative endocrinology
+2013	LinYP PessahIN Puschner	9	Talanta
+2013	LignellS AuneM DarnerudPO HanbergA LarssonSC Glynn	16	Environmental health : a global access science source

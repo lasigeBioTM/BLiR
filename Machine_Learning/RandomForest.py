@@ -111,7 +111,7 @@ def single_run_CV(file, ngram, df, tfidf, class_type):
     CrossVal_RandomForest(X_matrix, y_labels)
 
 # Uncomment next line to create only one classifier
-#single_run_CV(file, ngram = 3, df = 4, tfidf = False, class_type = 'A')
+#single_run_CV(DIET, ngram = 3, df = 4, tfidf = False, class_type = 'A')
 
 
 
@@ -123,7 +123,7 @@ def single_run_grid(file, ngram, df, tfidf, class_type):
     grid_search_RF(X_matrix, y_labels)
 
 # Uncomment next line to run a grid search
-#single_run_grid(file, ngram = 1, df = 1, tfidf = True, class_type = 'T')
+#single_run_grid(DIET, ngram = 1, df = 1, tfidf = True, class_type = 'T')
 
 
 
@@ -153,5 +153,5 @@ def multiple_runs_write_files(file):
 
 
 # Uncomment next line to get the files in the Results/RandomForest folder
-#multiple_runs_write_files(file)
+#multiple_runs_write_files(DIET)
 

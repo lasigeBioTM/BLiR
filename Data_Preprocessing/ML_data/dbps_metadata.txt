@@ -1,0 +1,130 @@
+1977	DeCerezoJM CerezoA	0	International journal of fertility
+1975	IkemoriR GruhlM ShrivastavaS ShanbergeJ	0	American journal of clinical pathology
+1992	KullingP AnderssonH BoströmK JohanssonLA LindströmB Nyström	2	Journal of toxicology. Clinical toxicology
+1992	OnksDL RobertsonAF Brodersen	1	Pharmacology & toxicology
+1991	AndersenME ClewellHJ3rd GargasML MacNaughtonMG ReitzRH NolanRJ McKennaM	6	Toxicology and applied pharmacology
+1990	CisnerosRJ DunlapR	1	Analytical biochemistry
+1987	CheungCK MakYT Swaminathan	2	Annals of clinical biochemistry
+1987	BerardiMR SnyderR WaritzRS CooperK	1	Fundamental and applied toxicology : official journal of the Society of Toxicology
+1983	EnserM WhittingtonF	0	Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme
+1984	WallaceLA PellizzariE HartwellT RosenzweigM EricksonM SparacinoC Zelon	12	Environmental research
+1980	MerkurevaRV AulikaBV ShaternikovaIS KonstantinovaIN DolinskayaSI BushinskayaLI NekrasovaGI KoganovaZ	0	Journal of hygiene, epidemiology, microbiology, and immunology
+1981	KurppaK Vainio	0	Research communications in chemical pathology and pharmacology
+1994	TatesAD GrummtT vanDamFJ deZwartF KasperFJ RotheR StirnH ZwindermanAH NatarajanA	5	Mutation research
+1995	O'DonnellGE JuskaA GeyerR FaizM Stalder	0	Journal of chromatography. A
+1995	CammannK Hübner	5	Archives of environmental health
+1994	DeCurtisV GemmaS SbracciaM TestaiE Vittozzi	1	Journal of biochemical toxicology
+1994	SanoM KawabataH TomitaI YoshiokaH HuM	0	Journal of toxicology and environmental health
+1993	PankowD Jagielki	2	Human & experimental toxicology
+1993	ThierR TaylorJB PembleSE HumphreysWG PersmarkM KettererB GuengerichF	23	Proceedings of the National Academy of Sciences of the United States of America
+1993	LinEL MattoxJK DanielF	7	Journal of toxicology and environmental health
+1993	HallierE LanghofT DannappelD LeutbecherM SchröderK GoergensHW MüllerA BoltH	12	Archives of toxicology
+1996	FuscoeJC AfshariAJ GeorgeMH DeAngeloAB TiceRR SalmanT AllenJ	6	Environmental and molecular mutagenesis
+1996	MaJ StoterG VerweijJ SchellensJ	5	Cancer chemotherapy and pharmacology
+1996	PotterCL ChangLW DeAngeloAB DanielF	4	Cancer letters
+1997	StennerRD MerdinkJL StevensDK SpringerDL BullR	5	Drug metabolism and disposition: the biological fate of chemicals
+1997	LindstromAB PleilJD BerkoffD	13	Environmental health perspectives
+1997	HonmaT Suda	0	Industrial health
+1996	FreitasRS GutfilenB daFonsecaLM BernardoFilho	1	The Yale journal of biology and medicine
+1998	MelnickRL KohnMC DunnickJK LeiningerJ	3	Toxicology and applied pharmacology
+1998	AggazzottiG FantuzziG RighiE Predieri	13	The Science of the total environment
+1998	UkaiH OkamotoS TakadaS InuiS KawaiT HigashikawaK Ikeda	0	International archives of occupational and environmental health
+1998	FisherJW MahleD Abbas	18	Toxicology and applied pharmacology
+1998	VölkelW FriedewaldM LedererE PählerA ParkerJ Dekant	9	Toxicology and applied pharmacology
+1999	WeiselCP KimH HaltmeierP KlotzJ	17	Environmental health perspectives
+1999	KimH HaltmeierP KlotzJB WeiselC	7	Environmental research
+1999	LucienedaSilvaM CharestTardifG KrishnanK Tardif	2	Toxicology letters
+1999	NarayananL MoghaddamAP TaylorAG SudberryGL FisherJ	1	Journal of chromatography. B, Biomedical sciences and applications
+1999	LandiS HanleyNM WarrenSH PegramRA DeMariniD	12	Mutagenesis
+1999	TorañoJS VerbonA GuchelaarH	2	Journal of chromatography. B, Biomedical sciences and applications
+1999	DeAngeloAB GeorgeMH HouseD	19	Journal of toxicology and environmental health. Part A
+2000	FurukiK UkaiH OkamotoS TakadaS KawaiT MiyamaY MitsuyoshiK ZhangZW HigashikawaK Ikeda	2	International archives of occupational and environmental health
+2000	GeorgeSE NelsonGM SwankAE BrooksLR BaileyK GeorgeM DeAngelo	1	Toxicological sciences : an official journal of the Society of Toxicology
+2000	BackerLC AshleyDL BoninMA CardinaliFL KieszakSM WootenJ	22	Journal of exposure analysis and environmental epidemiology
+2000	NieuwenhuijsenMJ ToledanoMB Elliott	15	Journal of exposure analysis and environmental epidemiology
+2001	JonssonF BoisF Johanson	4	Toxicological sciences : an official journal of the Society of Toxicology
+2001	FantuzziG RighiE PredieriG CeppelliG GobbaF Aggazzotti	7	The Science of the total environment
+2001	RaaschouNielsenO HansenJ ChristensenJM BlotWJ McLaughlinJK OlsenJ	1	American journal of industrial medicine
+2001	MarschGA MundkowskiRG MorrisBJ ManierML HartmanMK GuengerichF	4	Chemical research in toxicology
+2001	LynbergM NuckolsJR LangloisP AshleyD SingerP MendolaP WilkesC KrapflH MilesE SpeightV LinB SmallL MilesA BoninM ZeitzP TadkodA HenryJ ForresterM	13	Environmental health perspectives
+2001	BéliveauM CharestTardifG Krishnan	0	Chemosphere
+2001	KayserMF Vuilleumier	7	Journal of bacteriology
+2001	GravesCG MatanoskiGM TardiffR	18	Regulatory toxicology and pharmacology : RTP
+2002	ArbuckleTE HrudeySE KrasnerSW NuckolsJR RichardsonSD SingerP MendolaP DoddsL WeiselC AshleyDL FroeseKL PegramRA SchultzIR ReifJ BachandAM BenoitFM LynbergM PooleC Waller	9	Environmental health perspectives
+2002	GoldmanJM MurrA	2	Toxicology
+2002	BattermanS ZhangL WangS Franzblau	4	The Science of the total environment
+2002	ChuH NieuwenhuijsenM	8	Occupational and environmental medicine
+2002	MilesAM SingerPC AshleyDL LynbergMC MendolaP LangloisPH NuckolsJ	9	Environmental science & technology
+2002	KuklenyikZ AshleyDL CalafatA	2	Analytical chemistry
+2002	FroeseKL SinclairMI HrudeyS	4	Environmental health perspectives
+2002	FengP HuangCZ LiY	0	Analytical biochemistry
+2002	SakaiT MoritaY Wakui	1	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+2003	LiM AhujaES WatkinsD	1	Journal of pharmaceutical and biomedical analysis
+2003	CalafatAM KuklenyikZ CaudillSP AshleyD	2	Environmental health perspectives
+2003	WrightJM SchwartzJ DockeryD	21	Occupational and environmental medicine
+2003	ThaiSF AllenJW DeAngeloAB GeorgeMH FuscoeJ	2	Mutation research
+2003	McDormanKS ChandraS HoothMJ HesterSD SchoonhovenR WolfD	2	Toxicologic pathology
+2003	LumpkinMH BrucknerJV CampbellJL DallasCE WhiteCA FisherJ	4	Drug metabolism and disposition: the biological fate of chemicals
+2003	FensterL WallerK WindhamG HennemanT AndersonM MendolaP OverstreetJW SwanS	6	Epidemiology (Cambridge, Mass.)
+2003	JiaM WuWW YostRA ChadikPA StacpoolePW HendersonG	3	Analytical chemistry
+2004	BielmeierSR BestDS NarotskyM	1	Toxicological sciences : an official journal of the Society of Toxicology
+2004	MarschGA BottaS MartinMV McCormickWA GuengerichF	2	Chemical research in toxicology
+2002	ShimizuH DoteT UsudaK ToshinaY KatoJ SakaiA FuruyaE Kono	0	Toxicology and industrial health
+2004	BodensteinerKJ SawyerHR MoellerCL KaneCM PauKY KlinefelterGR VeeramachaneniD	3	Toxicological sciences : an official journal of the Society of Toxicology
+2004	LockT CottrellL SoamesT JacobsenM Williams	0	Archives of toxicology
+2004	LiuY MouS Chen	0	Journal of chromatography. A
+2004	BaderEL HrudeySE FroeseK	2	Occupational and environmental medicine
+2003	DoteT KonoK UsudaK ShimizuH TanimotoY DoteE Hayashi	2	Toxicology and industrial health
+2005	DelinskyAD DelinskyDC MuralidharaS FisherJW BrucknerJV BartlettM	2	Rapid communications in mass spectrometry : RCM
+2005	MurrAS GoldmanJ	0	Reproductive toxicology (Elmsford, N.Y.)
+2005	DelinskyAD BrucknerJV BartlettM	3	Biomedical chromatography : BMC
+2005	PoliD ManiniP AndreoliR FranchiniI Mutti	1	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+2005	BoninMA SilvaLK SmithMM AshleyDL BlountB	4	Journal of analytical toxicology
+2005	GeterDR MooreTM GeorgeMH KilburnSR AllenJW NelsonGM WinkfieldE DeAngeloA	2	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+2005	NuckolsJR AshleyDL LyuC GordonSM HinckleyAF Singer	15	Environmental health perspectives
+2005	HarlingAM WhiteheadJC Zhang	0	The journal of physical chemistry. A
+2006	GordonSM BrinkmanMC AshleyDL BlountBC LyuC MastersJ SingerP	7	Environmental health perspectives
+2006	InoueO UkaiH Ikeda	0	Industrial health
+2005	AshleyDL BlountBC SingerPC DepazE WilkesC GordonS LyuC Masters	8	Archives of environmental & occupational health
+2006	HaddadS TardifGC Tardif	12	Journal of toxicology and environmental health. Part A
+2007	CaroJ SerranoA Gallego	0	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+2007	LockEA ReedCJ McMillanJM OatisJEJr SchnellmannR	0	Toxicology
+2007	BoerK IsenmannS Deufel	0	Clinical chemistry and laboratory medicine
+2007	VeeramachaneniDN PalmerJS KlinefelterG	3	Journal of andrology
+2007	JakubowskaN PolkowskaZ KujawskiW KonieczkaP Namieśnik	0	Analytical and bioanalytical chemistry
+2007	CelikI Tuluce	5	Phytotherapy research : PTR
+2007	LeavensTL BlountBC DeMariniDM MaddenMC ValentineJL CaseMW SilvaLK WarrenSH HanleyNM PegramR	11	Toxicological sciences : an official journal of the Society of Toxicology
+2007	WatanabeK LibermanRG SkipperPL TannenbaumSR GuengerichF	6	Chemical research in toxicology
+2008	CelikI Isik	4	Natural product research
+2007	MuraoN IshigaiM YasunoH ShimonakaY Aso	17	Rapid communications in mass spectrometry : RCM
+2008	LubenTJ NuckolsJR MosleyBS HobbsC ReifJ	5	Occupational and environmental medicine
+2007	BoveGEJr RogersonPA VenaJ	4	Archives of environmental & occupational health
+2008	BackerLC LanQ BlountBC NuckolsJR BranchR LyuCW KieszakSM BrinkmanMC GordonSM FlandersWD RomkesM CantorK	6	Environmental health perspectives
+2008	SuttleN	0	The Veterinary record
+2008	BackerLC CossAM WolkinAF FlandersWD ReifJ	1	Journal of the American Veterinary Medical Association
+2008	CaroJ Gallego	4	Environmental science & technology
+2009	CelikI TemurA Isik	11	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+2007	DongL ChenX Hu	0	Talanta
+2009	SweeneyLM KirmanCR GargasML DugardP	0	Toxicology
+2009	DionFortierA RodriguezMJ SérodesJ Proulx	2	Water research
+2009	ZhangW GabosS SchopflocherD LiXF GatiWP HrudeyS	2	Journal of water and health
+2010	LaKindJS NaimanDQ HaysSM AylwardLL BlountB	7	Journal of exposure science & environmental epidemiology
+2009	ZhangW GabosS SchopflocherD LiXF GatiWP HrudeyS	2	Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals
+2010	EvansMV CaldwellJ	5	Toxicology and applied pharmacology
+2010	CsanádyGA GöenT KleinD DrexlerH FilserJ	0	Archives of toxicology
+2010	CardadorMJ Gallego	1	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+2010	KogevinasM VillanuevaCM FontRiberaL LiviacD BustamanteM EspinozaF NieuwenhuijsenMJ EspinosaA FernandezP DeMariniDM GrimaltJO GrummtT Marcos	15	Environmental health perspectives
+2011	XieSH LiYF TanYF ZhengD LiuAL XieH LuW	3	Environmental research
+2011	GrazulevicieneR NieuwenhuijsenMJ VenclovieneJ KostopoulouKaradanelliM KrasnerSW DanileviciuteA BalciusG Kapustinskiene	9	Environmental health : a global access science source
+2011	CardadorMJ Gallego	4	Environmental science & technology
+2012	CostetN GarlantézecR MonfortC RougetF GagnièreB ChevrierC Cordier	15	American journal of epidemiology
+2012	ZhouWS XuL XieSH LiYL LiL ZengQ DuYK LuW	4	The Science of the total environment
+2012	AhmadMK Mahmood	0	Chemosphere
+2012	RiveraNúñezZ WrightJM BlountBC SilvaLK JonesE ChanRL PegramRA SingerPC SavitzD	6	Environmental health perspectives
+2012	LourencettiC GrimaltJO MarcoE FernandezP FontRiberaL VillanuevaCM Kogevinas	3	Environment international
+2013	SilvaLK BackerLC AshleyDL GordonSM BrinkmanMC NuckolsJR WilkesCR BlountB	2	Journal of exposure science & environmental epidemiology
+2013	CattoC CharestTardifG RodriguezM Tardif	0	Journal of exposure science & environmental epidemiology
+2012	DanileviciuteA GrazulevicieneR VenclovieneJ PaulauskasA NieuwenhuijsenM	3	International journal of environmental research and public health
+2013	ZengQ LiM XieSH GuLJ YueJ CaoWC ZhengD LiuAL LiYF LuW	4	Environment international
+1995	JanzenEG SangH KotakeY DuboseCM PoyerJL Arimura	0	Journal of the American Society for Mass Spectrometry
+1999	ZhangA FutamuraS Yamamoto	0	Journal of the Air & Waste Management Association (1995)
