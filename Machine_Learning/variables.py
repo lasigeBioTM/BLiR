@@ -36,7 +36,7 @@ NB_PATH = Path('Results/NaiveBayes/')
 NN_PATH = Path('Results/NeuralNetwork/')
 RF_PATH = Path('Results/RandomForest/')
 SVM_PATH = Path('Results/SVM/')
-
+RESULTS_PATH = Path('Results/')
 
 
 """ --------------------------- FILE TERMINOLOGY --------------------------- """
