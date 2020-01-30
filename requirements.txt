@@ -1,5 +1,5 @@
 bibtexparser==1.1.0
-nltk==3.4.1
+nltk==3.4.5
 numpy==1.15.4
 pathlib==1.0.1
 requests==2.20.0
