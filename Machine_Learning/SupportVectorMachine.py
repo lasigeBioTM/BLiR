@@ -134,7 +134,7 @@ def single_run_SVC(file, ngram, df, tfidf, class_type):
     CrossVal_SVC(X_matrix, y_labels)
 
 # Uncomment next line to create only one classifier  
-#single_run_SVC(DIET, ngram = 1, df = 21, tfidf = True, class_type = 'A')
+single_run_SVC(DIET, ngram = 1, df = 21, tfidf = True, class_type = 'A')
 
 
 

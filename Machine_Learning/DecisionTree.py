@@ -18,15 +18,15 @@ def CrossVal_DecisionTree(X_matrix, y_labels):
     clf = tree.DecisionTreeClassifier(class_weight = 'balanced',\
                                       random_state = 0, min_samples_leaf = 5)
 
-    scoring = ['precision', 'recall','f1']
-    scores = cross_validate(clf, X_matrix, y_labels, cv = 10, scoring = scoring)
+    scoring = ['precision', 'recall','f1', 'roc_auc']
+    scores = cross_validate(clf, X_matrix, y_labels, cv = 10, scoring = scoring, n_jobs=10)
 
     precision = scores['test_precision'].mean()
     recall = scores['test_recall'].mean()
     fscore = scores['test_f1'].mean()
     
     print('Precision \t\t Recall  \t\t F-score')
-    print(precision, '\t', recall, '\t', fscore,'\n')
+    print(precision, '\t', recall, '\t', fscore,'\n', scores['test_roc_auc'].mean())
 
     return precision, recall, fscore
 
@@ -110,7 +110,7 @@ def single_run_CV(file, ngram, df, tfidf, class_type):
     CrossVal_DecisionTree(X_matrix, y_labels)
 
 # Uncomment next line to create only one classifier
-#single_run_CV(DIET, ngram = 3, df = 4, tfidf = False, class_type = 'A')
+single_run_CV(DIET, ngram = 3, df = 4, tfidf = False, class_type = 'A')
 
 
 
