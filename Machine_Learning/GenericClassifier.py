@@ -221,23 +221,11 @@ class BlirModel:
         X_matrix, y_labels = build_matrices(file, ngram, df, tfidf, class_type)
         self.grid_search(X_matrix, y_labels, param_grid)
 
-    def multiple_runs_write_files(self, file):
+    def multiple_runs_write_files(self, file, features=["T", "A", "M", "TM"]):
         """
         Run WriteFiles(file, tfidf, class_type)
         """
-
-        print("Run for Titles")
-        self.writeFiles(file, tfidf=True, class_type="T")
-        self.writeFiles(file, tfidf=False, class_type="T")
-
-        print("Run for Abstracts")
-        self.writeFiles(file, tfidf=True, class_type="A")
-        self.writeFiles(file, tfidf=False, class_type="A")
-
-        print("Run for Metadata")
-        self.writeFiles(file, tfidf=True, class_type="M")
-        self.writeFiles(file, tfidf=False, class_type="M")
-
-        print("Run for Titles and Meta")
-        self.writeFiles(file, tfidf=True, class_type="TM")
-        self.writeFiles(file, tfidf=False, class_type="TM")
+        for f in features:
+            print("Run for {}".format(f))
+            self.writeFiles(file, tfidf=True, class_type=f)
+            self.writeFiles(file, tfidf=False, class_type=f)
