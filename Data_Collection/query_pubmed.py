@@ -207,6 +207,7 @@ def get_titles_abstracts(pmids):
                   "api_key": API_KEY}
             
         r = requests.get(PUBMED_FETCH_URL,params)
+        import pdb; pdb.set_trace()
         results = ET.fromstring(r.text)
 
         for root in results.findall("PubmedArticle"):
@@ -214,7 +215,8 @@ def get_titles_abstracts(pmids):
             pmid = root.find(".//PMID").text
             
             # Title
-            title = root.find(".//ArticleTitle").text
+            title = root.find(".//ArticleTitle")
+            title = ''.join(title.itertext()) # remove tags
             titles.append((pmid, title))
 
             # Abstract
