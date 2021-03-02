@@ -207,7 +207,6 @@ def get_titles_abstracts(pmids):
                   "api_key": API_KEY}
             
         r = requests.get(PUBMED_FETCH_URL,params)
-        import pdb; pdb.set_trace()
         results = ET.fromstring(r.text)
 
         for root in results.findall("PubmedArticle"):
@@ -218,16 +217,18 @@ def get_titles_abstracts(pmids):
             title = root.find(".//ArticleTitle")
             title = ''.join(title.itertext()) # remove tags
             titles.append((pmid, title))
-
             # Abstract
             if root.find(".//Abstract") is not None:
                 abst_root = root.find(".//Abstract")
                 all_abst = ""
+                
                 for abst in abst_root.iter('AbstractText'):
+                    cur_text = ''.join(abst.itertext())
                     try:
-                        all_abst += abst.attrib['Label'] + ': ' + abst.text + ' '
+                        all_abst += abst.attrib['Label'] + ': ' + cur_text + ' '
                     except:
-                        all_abst = abst.text
+                        all_abst = cur_text
+                
                 abstracts.append((pmid, all_abst))
 
     print("Total number of Titles:", len(titles))
