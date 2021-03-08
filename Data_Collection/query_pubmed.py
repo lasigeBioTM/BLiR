@@ -216,6 +216,7 @@ def get_titles_abstracts(pmids):
             # Title
             title = root.find(".//ArticleTitle")
             title = ''.join(title.itertext()) # remove tags
+            title = title.replace("\n", " ").replace("\r", " ")
             titles.append((pmid, title))
             # Abstract
             if root.find(".//Abstract") is not None:
@@ -228,7 +229,7 @@ def get_titles_abstracts(pmids):
                         all_abst += abst.attrib['Label'] + ': ' + cur_text + ' '
                     except:
                         all_abst = cur_text
-                
+                all_abst = all_abst.replace("\n", " ").replace("\r", " ")
                 abstracts.append((pmid, all_abst))
 
     print("Total number of Titles:", len(titles))
