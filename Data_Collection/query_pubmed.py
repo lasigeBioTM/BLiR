@@ -1,7 +1,7 @@
 import requests
 import xml.etree.ElementTree as ET
 
-from variables import *
+from Data_Collection.variables import *
 
 
 def doi_to_pmid(dois):
