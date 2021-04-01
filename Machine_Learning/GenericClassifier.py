@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split, GridSearchCV, cross_valida
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn import model_selection, metrics
 
-from data_preprocessing import *
+from data_preprocessing import build_matrices, RESULTS_PATH
 
 
 class BlirModel:
