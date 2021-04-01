@@ -1,7 +1,7 @@
-from variables import *
-from parse_bib import *
-from query_pubmed import *
-from write_files import *
+from Data_Collection.variables import *
+from Data_Collection.parse_bib import *
+from Data_Collection.query_pubmed import *
+from Data_Collection.write_files import *
 from pathlib import Path
 
 
@@ -100,15 +100,15 @@ def main_pmids(files):
 #main_bib(ALL)          # run for all files
 #OR
 #main_bib(DIET)       # single run for file1
-main_bib(PAH)       # single run for file2
+#main_bib(PAH)       # single run for file2
 
 
 ###################################### OPTION 2 ######################################
 # Uncomment one of the next lines if you have a _pmids.txt file in the
 #Processed_data folder
-#main_pmids(ALL)          # run for all files
+main_pmids(ALL)          # run for all files
 #OR
-main_pmids(PAH)       # single run for file1
+#main_pmids(["gutmicrobi_hum"])       # single run for file1
 #main_pmids(DBPS)       # single run for file2
 
 
