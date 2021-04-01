@@ -8,13 +8,13 @@ from Data_Collection import query_pubmed
 import sys
 sys.path.append('../')
 
-""" Annotate documents only with the entities associated with it """
+""" Annotate all documents with all entities """
 
 nlp = spacy.load("en_core_web_sm")
 #conllformatter = ConllFormatter(nlp)
 #nlp.add_pipe(conllformatter, last=True)
 
-output_file = open("biomarker_entities.conll", 'w')
+output_file = open("biomarker_entities_all.conll", 'w')
 # generate ConLL style file using the publication_compounds.txt
 pmid_to_abst = {}
 
@@ -37,17 +37,18 @@ with Path("Data_Collection/Processed_data/all_pmid_abstracts.txt").open(encoding
                 pmid_to_abst[values[0]] += ". " +  values[1].strip().lower()
 
 missing_pmids = []
-document_entities = {} # pmid -> entities list
+all_entities = set()
 with open("publications_compounds.txt") as compounds_file:
     next(compounds_file)
     for line in compounds_file:
         values = line.strip().split("\t")
         pmid = values[1]
-        if pmid not in document_entities:
-            document_entities[pmid] = []
-        document_entities[pmid].append(values[3].lower())
+        all_entities.add(values[3].lower())
         if pmid not in pmid_to_abst:
             missing_pmids.append(pmid)
+
+merpy.create_lexicon(all_entities, "biomarkers")
+merpy.process_lexicon("biomarkers")
 
 #recover missing pmids:
 titles, abstracts = query_pubmed.get_titles_abstracts(missing_pmids)
@@ -65,19 +66,16 @@ total_entities = 0
 total_sents = 0
 total_docs = 0
 # can be parallelized
-for pmid in document_entities:
+for pmid in pmid_to_abst:
     if pmid == "":
         continue
     if pmid not in pmid_to_abst:
         print("missing this abstract:", pmid)
-        #import pdb; pdb.set_trace()
         missing_texts += 1
         continue
     total_docs += 1
     doc = nlp(pmid_to_abst[pmid])
-    merpy.create_lexicon(document_entities[pmid], "biomarker" + pmid)
-    merpy.process_lexicon("biomarker" + pmid)
-    doc_entities = merpy.get_entities(pmid_to_abst[pmid], "biomarker" + pmid)
+    doc_entities = merpy.get_entities(pmid_to_abst[pmid], "biomarkers")
     entity_spans = []
     for e in doc_entities:
         try:
@@ -91,8 +89,8 @@ for pmid in document_entities:
         doc.ents = entity_spans[:]
     except:
         import pdb; pdb.set_trace()
+        continue
     total_entities += len(entity_spans)
-    #import pdb; pdb.set_trace()
     for sent in doc.sents:
         if len(sent.ents) > 0:
             total_sents += 1
@@ -104,9 +102,6 @@ output_file.close()
 print("total entities", total_entities, "total sents", total_sents, "total docs", total_docs)
 print("missing", missing_texts, "pmids")
 
-#abs only: total entities 1581 total sents 1033 total docs 396
-#with titles: total entities 1894 total sents 1167 total docs 396
-# missing 79 pmids
-#with missing pmid total entities 4917 total sents 2754 total docs 475
 
+# total entities 23729 total sents 15296 total docs 7331
 
