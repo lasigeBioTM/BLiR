@@ -32,8 +32,13 @@ def get_individual_info(info, files):
 
     for file in files:
         in_file = open(PROCESSED_DATA_PATH/(file + info),'r',encoding = 'utf-8')
-        for pub in in_file.readlines():
-            pub = pub[:-1].split('\t',1)
+        print(PROCESSED_DATA_PATH/(file + info))
+        i = 0
+        for line in in_file.readlines():
+            i += 1
+            pub = line[:-1].split('\t',1)
+            if len(pub) < 2:
+                import pdb; pdb.set_trace()
             if pub[0] not in info_pmids_dict.keys():
                 info_pmids_dict[pub[0]] = pub[1]
         in_file.close()
@@ -114,7 +119,7 @@ def __main__(files):
 
 
 # Join all absts, titles and metadata from file_1 and file_2 in the same files.
-##__main__(ALL)
+__main__(ALL)
 
 #OR
 
