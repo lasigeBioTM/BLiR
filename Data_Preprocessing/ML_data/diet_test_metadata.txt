@@ -1,0 +1,905 @@
+1977	WallaceRB HooverJ SandlerD RifkingBM TyrolerH	2	Lancet (London, England)
+1979	JacobsDRJr AndersonJT Blackburn	12	American journal of epidemiology
+1979	LiuK CooperR McKeeverJ McKeeverP ByingtonR SolteroI StamlerR GoschF StevensE Stamler	36	American journal of epidemiology
+1978	O'FlahertyEJ McCartyC	0	The Journal of nutrition
+1975	FernstromJD FallerDV Shabshelowitz	1	Journal of neural transmission
+1975	WittingLA Lee	1	The American journal of clinical nutrition
+1975	DunnGD WilcoxHG Heimberg	2	The Journal of laboratory and clinical medicine
+1975	GarlichJD BryantD	0	Poultry science
+1975	MillerJP ChaitA Lewis	0	Clinical science and molecular medicine
+1992	HiguerasJM AriasJM MataixFJ MontellanoMA Llopis	0	International journal for vitamin and nutrition research. Internationale Zeitschrift fur Vitamin- und Ernahrungsforschung. Journal international de vitaminologie et de nutrition
+1992	AscherioA StampferMJ ColditzGA RimmEB LitinL WillettW	41	The Journal of nutrition
+1992	GilbertTJ PercyCA SugarmanJR BensonL Percy	12	American journal of diseases of children (1960)
+1992	BanerjeeI SahaS Dutta	0	Lipids
+1992	HenryY SèveB ColléauxY GanierP SaligautC Jégo	7	Journal of animal science
+1990	WassertheilSmollerS LangfordHG YamoriY BlaufoxMD ObermanA DavisB NaraY WylieRosettJ Zimbaldi	0	Journal of cardiovascular pharmacology
+1990	MizushimaS NaraY ManoM SawamuraM HorieR Yamori	0	Journal of cardiovascular pharmacology
+1991	TangB	0	Alcoholism, clinical and experimental research
+1991	BrownAJ PangE RobertsD	3	Prostaglandins, leukotrienes, and essential fatty acids
+1991	GavalerJS LoveK VanThielD FarholtS GluudC MonteiroE GalvaoTelesA OrtegaTC CuervasMons	4	Alcohol and alcoholism (Oxford, Oxfordshire). Supplement
+1991	TuriniME ThomsonAB ClandininM	1	Lipids
+1991	Kesteloot	1	Annals of nutrition & metabolism
+1991	GerhardGT PattonBD LindquistSA WanderR	2	The American journal of clinical nutrition
+1991	TaylorA JacquesPF NadlerD MorrowF SulskySI Shepard	5	Current eye research
+1991	SilvermanH	4	Chest
+1991	CoatesRJ EleyJW BlockG GunterEW SowellAL GrossmanC GreenbergR	46	American journal of epidemiology
+1991	ItoY SasakiR SuzukiS Aoki	2	International journal of epidemiology
+1991	YeungKS McKeownEyssenGE LiGF GlazerE HayK ChildP GurginV ZhuSL BaptistaJ Aloe	2	Journal of the National Cancer Institute
+1991	GrangerDL HibbsJBJr BroadnaxL	41	Journal of immunology (Baltimore, Md. : 1950)
+1990	MühlbauerRC Fleisch	0	Mineral and electrolyte metabolism
+1990	RestoriG BoiardiL ManariniS CerlettiC GelminiG BarbagalloM NovoS PasseriM Strano	0	International angiology : a journal of the International Union of Angiology
+1990	MuraiT Ogata	0	The Journal of nutrition
+1990	HartungGH KohlHW BlairSN LawrenceSJ HarristR	3	Hypertension (Dallas, Tex. : 1979)
+1990	PietinenP AroA TuomilehtoJ UusitaloU Korhonen	3	International journal of epidemiology
+1990	LangfordHG WatsonR	3	Cardiovascular drugs and therapy
+1990	GuoWD LiJY BlotWJ HsingAW ChenJS FraumeniJFJ	2	Nutrition and cancer
+1990	RomieuI StampferMJ StrykerWS HernandezM KaplanL SoberA RosnerB WillettW	8	American journal of epidemiology
+1990	HagemanG HermansR tenHoorF Kleinjans	1	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+1990	van'tVeerP vanderWielenRP KokFJ HermusRJ Sturmans	4	American journal of epidemiology
+1990	RudelLL StarR	2	Arteriosclerosis (Dallas, Tex.)
+1989	SorciThomasM PrackMM DashtiN JohnsonF RudelLL WilliamsD	11	Journal of lipid research
+1989	CarroT WilliamsD	0	American journal of veterinary research
+1989	DoiT KawataT TadanoN IijimaT Maekawa	1	Journal of nutritional science and vitaminology
+1989	DeBackerG DeCraeneI RosseneuM VercaemstR Kornitzer	1	Atherosclerosis
+1989	PannelliF LaRosaF SaltalamacchiaG VitaliR PetrinelliAM Mastrandrea	0	European journal of epidemiology
+1985	RiceGE ArnasonSS AradZ Skadhauge	1	Comparative biochemistry and physiology. A, Comparative physiology
+1989	KrasinskiSD RussellRM OtradovecCL SadowskiJA HartzSC JacobRA McGandyR	14	The American journal of clinical nutrition
+1989	GlatzJF SoffersAE KatanM	15	The American journal of clinical nutrition
+1989	GrandjeanP HollnagelH HedegaardL ChristensenJM Larsen	4	American journal of epidemiology
+1987	ShultzTD WilcoxRB SpuehlerJM HowieB	2	The American journal of clinical nutrition
+1988	SagnellaGA MarkanduND BuckleyMG ShoreAC SugdenAL SingerDR MacGregorG	1	American journal of hypertension
+1988	KanavinO ScottH FausaO EkJ GaarderPI Brandtzaeg	4	Acta medica Scandinavica
+1986	AcquavellaJF HanisNM NicolichMJ PhillipsS	1	Journal of occupational medicine. : official publication of the Industrial Medical Association
+1987	ZhuJQ ZhangLS HuX XiaoY ChenJS XuYC FremyJ ChuF	11	Cancer research
+1988	KushiLH SamondsKW LaceyJM BrownPT BerganJG SacksF	2	American journal of epidemiology
+1988	GruchowHW SobocinskiKA BarboriakJ	4	The American journal of clinical nutrition
+1988	SolakiviT SaloMK PuskaP Nikkari	0	Atherosclerosis
+1988	RoidtL WhiteE GoodmanGE WahlPW OmennGS RollinsB KarkeckJ	7	American journal of epidemiology
+1987	SaitoN KimuraM KuchibaA Itokawa	2	Journal of nutritional science and vitaminology
+1987	SmithJL HodgesR	11	Annals of the New York Academy of Sciences
+1986	ForsytheWA3r	1	The Journal of nutrition
+1986	GreenMS Jucha	2	Journal of epidemiology and community health
+1987	BhattacharyyaAK EggenD	4	Atherosclerosis
+1987	HackettAF MortonS McCowenC CourtS DicksonD ParkinJ	1	Diabetes research (Edinburgh, Scotland)
+1986	SherlockJC QuinnM	4	Food additives and contaminants
+1986	SchrammMM CauleyJA SandlerRB SlemendaC	1	The American journal of clinical nutrition
+1986	BukoskiRD McCarronD	2	The American journal of physiology
+1986	SugiyamaK OhkawaS Muramatsu	10	Journal of nutritional science and vitaminology
+1985	FagerbergB AnderssonOK LindstedtG WaldenströmJ Aurell	1	Acta medica Scandinavica
+1986	BulpittCJ BroughtonPM MarkoweHL MarmotMG RoseG SemmenceA ShipleyM	7	Journal of chronic diseases
+1985	MbofungCM Atinmo	0	Annals of nutrition & metabolism
+1985	ZadwornyD WaltonJS EtchesR	1	Poultry science
+1985	O'KeefeSJ NdabaN Woodward	1	Human nutrition. Clinical nutrition
+1983	LarssonG OttenbladC HagenfeldtL LarssonA Forsgren	0	American journal of obstetrics and gynecology
+1983	StaunOlsenP BjørneboeM PrytzH ThomsenAC Orskov	6	Scandinavian journal of gastroenterology
+1984	GilA FausMJ RoblesR PitaML SánchezPozoA LinaresMD SánchezMedina	1	Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme
+1983	PlakkéT BerkelJ BeynenAC HermusRJ KatanM	4	Human nutrition. Applied nutrition
+1984	BernsteinA Harris	4	American journal of obstetrics and gynecology
+1984	GudmundssonO HerlitzH JonssonO HednerT AnderssonO Berglund	0	Clinical science (London, England : 1979)
+1984	SanchezCJ HooperE GarryPJ GoodwinJM GoodwinJ	2	Journal of the American Geriatrics Society
+1984	FoxLS BlackstoneEH KirklinJW BishopSP BergdahlLA BradleyE	3	The Journal of thoracic and cardiovascular surgery
+1984	StamfordBA MatterS FellRD SadyS CresantaMK Papanek	2	Metabolism: clinical and experimental
+1984	LeDividichJ Noblet	0	Biology of the neonate
+1984	FrisanchoAR LeonardWR BollettinoL	7	Journal of chronic diseases
+1983	HayashiN GreenBA GonzalezCarvajalM MoraJ VeraaR	0	Journal of neurosurgery
+1983	GlazenburgEJ JekelHalsemaIM ScholtensE BaarsAJ MulderG	2	The Journal of nutrition
+1983	RogersRL MeyerJS ShawTG MortelK	10	Journal of the American Geriatrics Society
+1982	PanarettoBA MooreGP RobertsonD	1	The Journal of endocrinology
+1982	ChapmanHD FernandesDL DavisonT	1	Parasitology
+1981	DelageI DuvergerD GottiB MacKenzieE	1	European neurology
+1995	DeBackerD ZhangH VincentJ	1	Shock (Augusta, Ga.)
+1994	KashyapR IyerLR SinghM	2	Archives of environmental health
+1994	DragnevKH BeebeLE JonesCR FoxSD ThomasPE NimsRW LubetR	1	Toxicology and applied pharmacology
+1994	NealDEJr MoonT	6	Urology
+1995	ThomsenC RasmussenOW HansenKW VesterlundM Hermansen	5	Diabetic medicine : a journal of the British Diabetic Association
+1994	VillanuevaMB JonaiH KannoS Takeuchi	2	Industrial health
+1995	PengYM PengYS LinY MoonT RoeDJ Ritenbaugh	15	Nutrition and cancer
+1995	KishimotoY WakabayashiS Takeda	2	Journal of nutritional science and vitaminology
+1995	AstrupA BuemannB GluudC BennettP TjurT Christensen	3	International journal of obesity and related metabolic disorders : journal of the International Association for the Study of Obesity
+1995	MaJ FolsomAR ShaharE EckfeldtJ	49	The American journal of clinical nutrition
+1995	VäisänenS RankinenT PenttiläI Rauramaa	0	Thrombosis and haemostasis
+1995	OsbornLA RossumA StandeferJ JacksonJ SkipperB BeesonC CrawfordM	0	Cardiology
+1995	GillmanMW CookNR EvansDA RosnerB HennekensC	13	Hypertension (Dallas, Tex. : 1979)
+1995	OlsenSF HansenHS SandströmB Jensen	15	The British journal of nutrition
+1995	YaqoobP SherringtonEJ JefferyNM SandersonP HarveyDJ NewsholmeEA CalderP	10	The international journal of biochemistry & cell biology
+1994	HercbergS PreziosiP GalanP DevanlayM KellerH BourgeoisC PotierdeCourcyG Cherouvrier	3	International journal for vitamin and nutrition research. Internationale Zeitschrift fur Vitamin- und Ernahrungsforschung. Journal international de vitaminologie et de nutrition
+1994	vanLeerEM SeidellJC Kromhout	4	Epidemiology (Cambridge, Mass.)
+1995	LandsW	16	The American journal of clinical nutrition
+1995	KardinaalAF van'tVeerP BrantsHA vandenBergH vanSchoonhovenJ HermusR	11	American journal of epidemiology
+1994	HandaK KonoS IshiiH ShinchiK ImanishiK Arakawa	1	Journal of human hypertension
+1994	vanMaanenJM MoonenEJ MaasLM KleinjansJC vanSchootenF	7	Carcinogenesis
+1994	RosseneuM CambienF VinaimontN NicaudV DeBacker	1	Atherosclerosis
+1994	HaugenMA KjeldsenKraghJ BjerveKS HøstmarkAT Førre	3	The British journal of nutrition
+1994	CampbellDR GrossMD MartiniMC GranditsGA SlavinJL PotterJ	41	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+1994	NestelP CliftonP Noakes	15	Journal of lipid research
+1994	SchmitzJC GrindeyGB SchultzRM PriestD	4	Biochemical pharmacology
+1994	DwyerJT MadansJH TurnbullB CornoniHuntleyJ DresserC EverettDF PerroneR	1	American journal of public health
+1994	ResnickLM GuptaRK DiFabioB BarbagalloM MannS MarionR LaraghJ	5	The Journal of clinical investigation
+1993	HefterH KuwertT HerzogH ArendtG StremmelW FeinendegenL	0	Journal of neurology
+1994	MarckmannP SandströmB Jespersen	4	The American journal of clinical nutrition
+1993	WhiteheadCC BowmanAS GriffinH	1	British poultry science
+1994	TindallH MartinP NagiD PinnockS SticklandM DaviesJ	0	Diabetic medicine : a journal of the British Diabetic Association
+1993	MussaloRauhamaaH VuoriE LehtoJJ AkerblomH Räsänen	2	European journal of clinical nutrition
+1993	BaldiE BurraP PlebaniM Salvagnini	7	The Italian journal of gastroenterology
+1993	HaydenJM WilliamsJE CollierR	5	Journal of animal science
+1994	MillerLV HambidgeKM NaakeVL HongZ WestcottJL FennesseyP	15	The Journal of nutrition
+1994	PestañaD GarciadeLorenzo	0	Anesthesia and analgesia
+1993	ParkerDR WeissST TroisiR CassanoPA VokonasPS Landsberg	13	The American journal of clinical nutrition
+1993	CarsonCA CauleyJA CaggiulaA	3	American journal of epidemiology
+1993	HolmesRP GoodmanHO HartLJ AssimosD	12	Kidney international
+1993	LieverseRJ vanSetersAP JansenJB LamersC	3	International journal of obesity and related metabolic disorders : journal of the International Association for the Study of Obesity
+1993	GuoW ZhengW LiJY ChenJS BlotW	2	Nutrition and cancer
+1993	KestelootHE JoossensJ	4	Journal of the American College of Nutrition
+1993	TjønnelandA OvervadK ThorlingE Ewertz	13	The American journal of clinical nutrition
+1993	DomiatiSaadR JerrellsT	1	Alcoholism, clinical and experimental research
+1993	MensinkGB KohlmeierL RehmJ Hoffmeister	1	European journal of epidemiology
+1995	NikkariT LuukkainenP PietinenP Puska	13	Annals of medicine
+1995	KoechlingUM AmitZ NegreteJ	1	Alcoholism, clinical and experimental research
+1996	MilneDB NielsenF	4	The American journal of clinical nutrition
+1996	MarshallJA KambohMI BessesenDH HoagS HammanRF FerrellR	2	The American journal of clinical nutrition
+1996	HelanderA CarlssonAV Borg	4	Alcohol and alcoholism (Oxford, Oxfordshire)
+1996	HolsbeekL DasHK JoirisC	1	The Science of the total environment
+1996	KuenemannMigeotC CallaisF MomasI Festy	2	Mutation research
+1996	SimonJA FongJ BernertJTJr BrownerW	23	American journal of epidemiology
+1996	JohansenHR AlexanderJ RosslandOJ PlantingS LøvikM GaarderPI GdyniaW BjerveKS Becher	8	Environmental health perspectives
+1996	KikuchiH AndrieuxC RiottotM BensaadaM PopotF BeaumatinP Szylit	0	The Journal of applied bacteriology
+1996	HussainA Kvăle	0	Acta paediatrica (Oslo, Norway : 1992)
+1996	BurggraafJ SchoemakerHC CohenA	4	British journal of clinical pharmacology
+1996	GodleyPA CampbellMK GallagherP MartinsonFE MohlerJL SandlerR	11	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+1996	RitenbaughC PengYM AickinM GraverE BranchM AlbertsD	3	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+1996	OstlundREJr YangJW KleinS Gingerich	69	The Journal of clinical endocrinology and metabolism
+1996	YangBS YamazakiM WanQ Kato	0	Bioscience, biotechnology, and biochemistry
+1997	SantolariaF CastillaA GonzálezReimersE PérezRodríguezJC RodríguezGonzálezC LópezPeñalverA DeMiguelJ	0	Alcohol (Fayetteville, N.Y.)
+1996	MoonCS ZhangZW ShimboS HokimotoS ShimazakiK SaitoT ShimizuA ImaiY WatanabeT Ikeda	1	Journal of trace elements in medicine and biology : organ of the Society for Minerals and Trace Elements (GMS)
+1997	ThibaultP	0	Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]
+1997	BaileyAL MaiseyS SouthonS WrightAJ FinglasPM FulcherR	6	The British journal of nutrition
+1997	RaghunathanK SchmitzJC PriestD	1	Cancer chemotherapy and pharmacology
+1997	BlackAE BinghamSA JohanssonG CowardW	7	European journal of clinical nutrition
+1997	SmithGM AllenJ	0	Australian veterinary journal
+1997	SuraiPF KutzE WishartGJ NobleRC SpeakeB	2	Journal of reproduction and fertility
+1997	BuchingerW LorenzWawschinekO SemlitschG LangstegerW BinterG BonelliRM Eber	7	Thyroid : official journal of the American Thyroid Association
+1997	OzonoR OshimaT MatsuuraH IshibashiK WatanabeM YoshimuraM KajiyamaG Kambe	0	Clinical science (London, England : 1979)
+1997	NeggersYH GoldenbergRL TamuraT JohnstonKE CopperRL DuBard	2	Journal of the American Dietetic Association
+1997	MarckmannP BladbjergEM Jespersen	1	Arteriosclerosis, thrombosis, and vascular biology
+1997	GärtnerR BechtnerG RafferzederM Greil	0	Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association
+1998	StickDA DavisME LoerchSC SimmenR	2	Journal of animal science
+1997	Tiirats	1	Acta veterinaria Scandinavica
+1998	WolkA LjungH VessbyB HunterD WillettW	6	European journal of clinical nutrition
+1998	LeonettiF DussolB BerthezeneP ThirionX Berland	5	Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association
+1998	ZinnRA Shen	11	Journal of animal science
+1998	GintyF FlynnA CashmanK	5	The British journal of nutrition
+1998	StarcTJ SheaS CohnLC MoscaL GersonyWM DeckelbaumR	3	The American journal of clinical nutrition
+1998	HoshinoH KushidaK TakahashiM KoyamaS YamauchiH Inoue	0	Annals of nutrition & metabolism
+1998	LakwijkN VanStrienRT DoekesG BrunekreefB Gerritsen	13	Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology
+1998	deVriesJH HollmanPC MeyboomS BuysmanMN ZockPL vanStaverenWA KatanM	16	The American journal of clinical nutrition
+1998	BirkettN	9	American journal of epidemiology
+1998	LampingDL RoweP BlackN Lessof	0	British journal of urology
+1998	MuirJG WalkerKZ KaimakamisMA CameronMA GoversMJ LuZX YoungGP O'Dea	0	The American journal of clinical nutrition
+1998	LoguercioC deGirolamoV CuomoA ArgenzioF IannottaC DisalvoD GrellaA delVecchioBlanco	3	Alcohol and alcoholism (Oxford, Oxfordshire)
+1998	DecsiT BurusI Koletzko	0	Annals of nutrition & metabolism
+1998	SeowA ShiCY ChungFL JiaoD HankinJH LeeHP CoetzeeGA YuM	56	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+1998	GulsonBL JamesonCW MahaffeyKR MizonKJ PatisonN LawAJ KorschMJ SalterM	20	Environmental health perspectives
+1998	OrtegaRM MartínezRM QuintasME LópezSobalerAM Andrés	3	The British journal of nutrition
+1998	RiceRL SchurigGG BlodgettD	0	American journal of veterinary research
+1998	ChoudhurySR UeshimaH OkayamaA KitaY Miyoshi	0	Hypertension research : official journal of the Japanese Society of Hypertension
+1998	FerriC BelliniC DesideriG GiulianiE DeSiatiL CicognaS Santucci	6	Hypertension (Dallas, Tex. : 1979)
+1998	HagmarL PerssonMoschosM AkessonB Schütz	5	European journal of clinical nutrition
+1998	MikkelsenIM KanitzRD NilssenO HusebyN	2	Alcohol and alcoholism (Oxford, Oxfordshire)
+1998	WorrallS deJerseyJ WilcePA SeppäK HurmeL Sillanaukee	1	Alcoholism, clinical and experimental research
+1998	BurkeV PuddeyIB RakicV SwansonNR DimmittSB BeilinLJ ChingS BeilbyJ	2	Alcoholism, clinical and experimental research
+1999	GeerlingBJ vHouwelingenAC BadartSmookA StockbrüggerRW BrummerR	8	The American journal of gastroenterology
+1999	MiyakeY KonoS NishiwakiM HamadaH NishikawaH KogaH Ogawa	5	Annals of epidemiology
+1999	StolzenbergSolomonRZ MillerER3rd MaguireMG SelhubJ AppelL	4	The American journal of clinical nutrition
+1998	TausonA	0	The British journal of nutrition
+1999	ChenZ ZhengW CusterLJ DaiQ ShuXO JinF FrankeA	34	Nutrition and cancer
+1999	PaolissoG RizzoMR MazziottiG RotondiM TagliamonteMR VarricchioG CarellaC Varricchio	8	European journal of clinical investigation
+1999	BakerA HarveyL MajaskNewmanG FairweatherTaitS FlynnA Cashman	1	European journal of clinical nutrition
+1999	WoleverTM HamadS ChiassonJL JosseRG LeiterLA RodgerNW RossSA RyanE	10	Journal of the American College of Nutrition
+1999	InnisSM DyerR	2	The Journal of nutrition
+1999	YoshitakeK YokotaK KasugaiY KagawaM SukamotoT Nakamura	4	Bone
+1999	KaklamaniVG LinosA KaklamaniE MarkakiI KoumantakiY MantzorosC	12	Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+1999	AssisPandochiAI LucisanoValimYM AzzoliniAE DuarteCG RussoEM CarvalhoI	0	Immunological investigations
+1999	ToellerM BuykenAE HeitkampG ScherbaumWA KransHM FullerJ	3	Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association
+1999	NielsenSE YoungJF DaneshvarB LauridsenST KnuthsenP SandströmB DragstedL	29	The British journal of nutrition
+2000	ConnorSL ZhuN AndersonGJ HamillD JaffeE CarlsonJ ConnorW	5	The American journal of clinical nutrition
+1999	EcclesM FordGA DugganS Steen	15	The British journal of general practice : the journal of the Royal College of General Practitioners
+2000	BubenikGA PangSF CockshutJR SmithPS GrovumLW FriendshipRM HackerR	9	Journal of pineal research
+2000	FujiwaraN OsanaiT KamadaT KatohT TakahashiK Okumura	30	Circulation
+1999	ShaharS DixonRA Earland	0	International journal of food sciences and nutrition
+1999	LovegroveJA JacksonKG MurphyMC BrooksCN ZampelasA KnapperJM WrightJW GouldBJ WilliamsC	0	Nutrition, metabolism, and cardiovascular diseases : NMCD
+1999	LampeJW GustafsonDR HutchinsAM MartiniMC LiS WähäläK GranditsGA PotterJD SlavinJ	19	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+2000	EtterE HosteH ChartierC PorsI KochC BroquaC Coutineau	3	Veterinary research
+2000	VirgiliF PaganaG BourneL RimbachG NatellaF RiceEvansC Packer	7	Free radical biology & medicine
+2000	BouéC CombeN BilleaudC MignerotC EntressanglesB TheryG GeoffrionH BrunJL DallayD LengJ	1	Lipids
+2000	TakeshitaT YangX Morimoto	7	Human genetics
+2000	RobinsonTM SewellDA CaseyA SteengeG GreenhaffP	9	British journal of sports medicine
+2000	BonofiglioD MaggioliniM CatalanoS MarsicoS AquilaS GiornoA Andò	3	The British journal of nutrition
+1998	DeSchepperJA SmitzJP ZhouXL LouisO VelkeniersBE Vanhaelst	4	Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society
+2000	PattersonRE KristalAR PetersJC NeuhouserML RockCL CheskinLJ NeumarkSztainerD ThornquistM	1	Archives of internal medicine
+2000	GunthorpeW BrownW Redman	5	Neurourology and urodynamics
+2000	HallikainenMA SarkkinenES GyllingH ErkkiläAT UusitupaM	18	European journal of clinical nutrition
+2000	MadiganC RyanM OwensD CollinsP TomkinG	8	Diabetes care
+2000	GerberMJ ScaliJD MichaudA DurandMD AstreCM DallongevilleJ RomonM	13	Journal of the American Dietetic Association
+2000	KönigJS Elmadfa	1	Annals of nutrition & metabolism
+2000	BrynesAE EdwardsCM JadhavA GhateiMA BloomSR FrostG	7	The American journal of clinical nutrition
+2000	deMaatMP PijlH KluftC PrincenH	8	European journal of clinical nutrition
+2000	IzunoT SugitaM AritaS OtaharaY NasuI TsuchiyaK Hayashi	0	Environmental research
+2000	ResnicowK OdomE WangT DudleyWN MitchellD VaughanR JacksonA Baranowski	53	American journal of epidemiology
+2001	McLeanJA BarrSI PriorJ	12	The American journal of clinical nutrition
+2001	deRoosNM deVriesJH KatanM	2	The American journal of clinical nutrition
+2000	BrownMS KrehbielCR GalyeanML RemmengaMD PetersJP HibbardB RobinsonJ MoseleyW	7	Journal of animal science
+2001	MaynardLM BoissonneaultGA ChowCK BrucknerG	1	The Journal of nutrition
+2000	JuntunenKS MazurWM LiukkonenKH UeharaM PoutanenKS AdlercreutzHC MykkänenH	3	The British journal of nutrition
+2001	HurwitzS PotterB WeissRJ JeunemaitreX HopkinsPN HuntSC LitchfieldWR WilliamsG	0	American journal of clinical pathology
+2001	HjortswangH JärnerotG CurmanB SandbergGertzénH TyskC BlombergB AlmerS Ström	7	Scandinavian journal of gastroenterology
+2000	DierenfeldES Seyjagat	2	Journal of zoo and wildlife medicine : official publication of the American Association of Zoo Veterinarians
+2001	KoehlerKM BaumgartnerRN GarryPJ AllenRH StablerSP RimmE	6	The American journal of clinical nutrition
+2001	SalemRO RefaaiMA CluetteBrownJE RussoJW Laposata	2	Clinical chemistry
+2001	RifasShimanSL WillettWC LobbR KotchJ DartC GillmanM	47	Public health nutrition
+2001	CowinIS EmmettPM ALSPACStudyTeam.AvonLongitudinalStudyofPregnancyandChildhood	4	European journal of clinical nutrition
+2001	KimYY MahanD	3	Journal of animal science
+2001	KrokeA KlipsteinGrobuschK HoffmannK TerbeckI BoeingH Helander	3	The British journal of nutrition
+2001	RasmussenLB OvesenL BülowI JørgensenT KnudsenN LaurbergP Perrild	6	European journal of clinical nutrition
+2001	vandenBrandH PrunierA SoedeNM Kemp	0	Reproduction, nutrition, development
+2001	DayN McKeownN WongM WelchA Bingham	88	International journal of epidemiology
+2001	BianchiniF JaeckelA VineisP MartinezGarciáC ElmstahlS vanKappelAL BoeingH OhshimaH RiboliE Kaaks	2	Carcinogenesis
+2001	FranssonP TavelinB Widmark	6	Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+2001	GuoX LongneckerMP MichalekJ	0	Journal of toxicology and environmental health. Part A
+2000	LeotsinidisM AlexopoulosA SchinasV KardaraM Kondakis	4	European journal of epidemiology
+2001	PriceWA LeeE MaynorA StilesAD ClemmonsD	2	Journal of pediatric gastroenterology and nutrition
+2001	McKeownNM DayNE WelchAA RunswickSA LubenRN MulliganAA McTaggartA BinghamS	42	The American journal of clinical nutrition
+2001	KobayashiM SasakiS KawabataT HasegawaK AkabaneM Tsugane	19	European journal of clinical nutrition
+2001	HarveyMA KristjanssonB GriffithD Versi	9	American journal of obstetrics and gynecology
+2001	PragstF AuwaerterV SporkertF Spiegel	4	Forensic science international
+2001	DayAJ Williamson	12	The British journal of nutrition
+2001	MilneDB DavisCD NielsenF	4	Nutrition (Burbank, Los Angeles County, Calif.)
+2001	HallgrenCG HallmansG JanssonJH MarklundSL HuhtasaariF SchützA StrömbergU VessbyB Skerfving	20	The British journal of nutrition
+2001	BrunnerE StalloneD JunejaM BinghamS Marmot	67	The British journal of nutrition
+2001	VerkasaloPK ApplebyPN AllenNE DaveyG AdlercreutzH KeyT	11	The British journal of nutrition
+2001	YamamotoS SobueT SasakiS KobayashiM AraiY UeharaM AdlercreutzH WatanabeS TakahashiT IitoiY IwaseY AkabaneM Tsugane	22	The Journal of nutrition
+2001	ZhangJ TemmeEH Kesteloot	0	Journal of the American College of Nutrition
+2001	IshikoO SumiT YoshidaH HyunY Ogita	1	International journal of molecular medicine
+2001	HoSC ChenYM WooJL LeungSS LamTH JanusE	2	Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA
+2001	ThuvanderA PaulsenJE AxbergK JohanssonN VidnesA EnghardtBarbieriH TryggK LundLarsenK JahrlS WidenfalkA BosnesV AlexanderJ HultK Olsen	7	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+2001	BybergL SmedmanA VessbyB Lithell	1	Arteriosclerosis, thrombosis, and vascular biology
+2001	WillettW StampferM ChuNF SpiegelmanD HolmesM Rimm	23	American journal of epidemiology
+2002	FarquharWB HuntBE TaylorJA DarlingSE Freeman	13	American journal of physiology. Heart and circulatory physiology
+2001	AndersonWA CastleL ScotterMJ MasseyRC Springall	42	Food additives and contaminants
+2001	CrewsHM OlivierL WilsonL	5	Food additives and contaminants
+2001	PizentA JurasovieJ Telisman	5	Journal of trace elements in medicine and biology : organ of the Society for Minerals and Trace Elements (GMS)
+2002	LarssonCL WesterterpKR JohanssonG	6	The American journal of clinical nutrition
+2002	SteiberAL WeatherspoonLJ Handu	1	Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation
+2002	LiuS MansonJE BuringJE StampferMJ WillettWC RidkerP	99	The American journal of clinical nutrition
+2002	HanaokaT TakahashiY KobayashiM SasakiS UsudaM OkuboS HayashiM Tsugane	2	The Science of the total environment
+2002	WoodsRK StoneyRM IrelandPD BaileyMJ RavenJM ThienFC WaltersEH AbramsonM	12	Asia Pacific journal of clinical nutrition
+2002	HuangMC ChaoA KirwanR TschanzC PeraltaJM DiersenSchadeDA ChaS BrennaJ	3	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+2002	AtkinsonC SkorHE FitzgibbonsED ScholesD ChenC WähäläK SchwartzSM LampeJ	14	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+2002	HsuTC ChenJ HuangHS WangC	3	Journal of the Formosan Medical Association = Taiwan yi zhi
+2002	LauritzenL JørgensenMH HansenHS MichaelsenK	6	Lipids
+2002	JaraA ChacónC FelsenfeldA	1	Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association
+2002	GaetkeLM FrederichRC OzHS McClainC	6	The Journal of nutritional biochemistry
+2002	NagataC ShimizuH TakamiR HayashiM TakedaN Yasuda	9	Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA
+2002	FremannD LinseisenJ Wolfram	0	Public health nutrition
+2002	NielsenSE FreeseR KleemolaP Mutanen	13	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+2002	YoungJF DragstedtLO HaraldsdóttirJ DaneshvarB KallMA LoftS NilssonL NielsenSE MayerB SkibstedLH HuynhBaT HermetterA Sandström	11	The British journal of nutrition
+2002	ParksE	14	The British journal of nutrition
+2002	BezerraFF LaboissièreFP KingJC DonangeloC	6	The Journal of nutrition
+2002	MoschandreasJA Kafatos	0	International journal for vitamin and nutrition research. Internationale Zeitschrift fur Vitamin- und Ernahrungsforschung. Journal international de vitaminologie et de nutrition
+2002	LeDE BinJP CogginsMP WeiK LindnerJR Kaul	12	Journal of the American Society of Echocardiography : official publication of the American Society of Echocardiography
+2002	BartschH NairJ OwenR	17	Biological chemistry
+2002	ElhaïmeurF CourderotMasuyerC NicodL GuyonC RichertL Berthelot	2	Molecular and cellular biochemistry
+2002	BayindirO OzmenD MutafI TurganN HabifS GülterC ParildarZ Uysal	0	Annals of nutrition & metabolism
+2002	HagenS HanleyJ Capewell	7	Neurourology and urodynamics
+2002	RadtkeJ LinseisenJ Wolfram	5	European journal of nutrition
+2002	PoikolainenK PodkletnovaI Alho	12	Alcohol and alcoholism (Oxford, Oxfordshire)
+2002	LiuL IkedaK SullivanDH LingW Yamori	10	Hypertension research : official journal of the Japanese Society of Hypertension
+2003	BestCA Laposata	16	Frontiers in bioscience : a journal and virtual library
+2002	BrownBD ThomasW HutchinsA MartiniMC SlavinJ	6	Nutrition and cancer
+2002	SweeneyC ColesBF NowellS LangNP KadlubarF	6	Toxicology
+2003	HajjarI Kotchen	29	The Journal of nutrition
+2003	BoelsmaE vandeVijverLP GoldbohmRA KlöppingKetelaarsIA HendriksHF Roza	11	The American journal of clinical nutrition
+2003	GardnerThorpeD O'HagenC YoungI LewisS	5	European journal of clinical nutrition
+2003	GonzálezQuintelaA GudeF BoqueteO ReyJ MeijideLM SuarezF FernándezMerinoMC PérezLF Vidal	12	Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology
+2003	HartwigS AuwärterV Pragst	6	Forensic science international
+2003	FrankenfeldCL PattersonRE HornerNK NeuhouserML SkorHE KalhornTF HowaldWN LampeJ	24	The American journal of clinical nutrition
+2003	ParrishLA MarshallJA KrebsNF RewersM NorrisJ	18	Epidemiology (Cambridge, Mass.)
+2003	NagataC ShimizuH TakamiR HayashiM TakedaN Yasuda	6	The Journal of nutrition
+2003	BinghamS	36	The Journal of nutrition
+2003	Hambidge	22	The Journal of nutrition
+2003	MoatSJ HillMH McDowellIF PullinCH AshfieldWattPA ClarkZE WhitingJM NewcombeRG LewisMJ PowersH	4	European journal of clinical nutrition
+2002	ParraMS SchnaasL MeydaniM PerroniE MartínezS Romieu	14	Public health nutrition
+2002	PrenticeRL SugarE WangCY NeuhouserM Patterson	25	Public health nutrition
+2003	TsuganeS SasakiS KobayashiM TsubonoY AkabaneM JPHC	17	Journal of epidemiology
+2003	KobayashiM SasakiS KawabataT HasegawaK TsuganeS JPHC	11	Journal of epidemiology
+2003	KobayashiM SasakiS TsuganeS JPHC	2	Journal of epidemiology
+2003	SasakiS IshiharaJ TsuganeS JPHC	5	Journal of epidemiology
+2003	IshiharaJ SobueT YamamotoS YoshimiI SasakiS KobayashiM TakahashiT IitoiY AkabaneM TsuganeS JPHC	24	Journal of epidemiology
+2003	PalliD MasalaG VineisP GarteS SaievaC KroghV PanicoS TuminoR MunniaA RiboliE Peluso	11	Carcinogenesis
+2003	BlumSC HeatonSN BowmanBM HegstedM MillerS	3	The Journal of nutrition
+2003	LoewM BoeingH StürmerT Brenner	5	Alcohol (Fayetteville, N.Y.)
+2003	KimES KoYS KimJ MatsudaInoguchiN NakatsukaH WatanabeT ShimboS Ikeda	4	The Tohoku journal of experimental medicine
+2003	PollardJ WildCP WhiteKL GreenwoodDC CadeJE KirkS	10	European journal of clinical nutrition
+2003	NagataC ShimizuH TakamiR HayashiM TakedaN Yasuda	6	Nutrition and cancer
+2003	SchröderH MarrugatJ ElosuaR CovasMI REGICORInvestigators	11	The British journal of nutrition
+2003	ResnicowK McCartyF BlissettD WangT HeitzlerC LeeR	41	Medicine and science in sports and exercise
+1994	GuoWD LinetMS ChowWH LiJY BlotW	3	Nutrition and cancer
+2003	NelsonJL BernsteinPS SchmidtMC VonTressMS AskewE	6	The Journal of nutrition
+2003	EicherR LiesegangA FuschiniE WannerM RüschP Martig	0	The Veterinary record
+2003	KokazeA IshikawaM MatsunagaN YoshidaM SekineY SekiguchiK SatohM HaradaM TeruyaK TakedaN UchidaY TsunodaT Takashima	8	Experimental gerontology
+2003	NewbyPK HuFB RimmEB SmithWarnerSA FeskanichD SampsonL WillettW	26	The American journal of clinical nutrition
+2003	MatthewsCE ShuXO YangG JinF AinsworthBE LiuD GaoYT Zheng	59	American journal of epidemiology
+2003	WakshlagJJ BarrSC OrdwayGA KallfelzFA FlahertyCE ChristensenBW ShepardLA NydamDV DavenportG	3	Journal of animal physiology and animal nutrition
+2003	RomeroAA HardartA KobakW QuallsC Rogers	2	Obstetrics and gynecology
+2003	FungTT MansonJE SolomonCG LiuS WillettWC HuF	10	Journal of the American College of Nutrition
+2004	YamadaY NoborisakaY IshizakiM TsuritaniI HondaR Yamada	4	Journal of human hypertension
+2004	SvilaasA SakhiAK AndersenLF SvilaasT StrömEC JacobsDRJr OseL Blomhoff	41	The Journal of nutrition
+2004	LeeDH SteffenLM JacobsDRJ	20	The American journal of clinical nutrition
+2004	MartínezME HenningSM AlbertsD	18	The American journal of clinical nutrition
+2004	BogersRP VanAssemaP KesterAD WesterterpKR DagnelieP	50	American journal of epidemiology
+2004	DoultonTW MacGregorG	1	Journal of the renin-angiotensin-aldosterone system : JRAAS
+2004	SchulpisKH KarakonstantakisT BartzeliotouA KarikasGA Papassotiriou	5	Clinical nutrition (Edinburgh, Scotland)
+2004	EstruchR SacanellaE BadiaE AntúnezE NicolásJM FernándezSoláJ RotilioD deGaetanoG RubinE UrbanoMárquez	27	Atherosclerosis
+2004	WilliamsSG NgLL O'BrienRJ TaylorS LiYF TanL	2	The American journal of cardiology
+2004	LopezGarciaE SchulzeMB MansonJE MeigsJB AlbertCM RifaiN WillettWC HuF	71	The Journal of nutrition
+2004	BatesCJ MishraGD Prentice	7	The British journal of nutrition
+2004	MalaveilleC FioriniL BianchiniM DavicoL BertinettiS AllegroG HautefeuilleA SacerdoteC Vineis	1	Mutation research
+2004	AlbertazziP SteelSA HowarthEM PurdieD	4	Climacteric : the journal of the International Menopause Society
+2004	SharmanMJ VolekJ	17	Clinical science (London, England : 1979)
+2004	LewisKE KirkEA McDonaldTO WangS WightTN O'BrienKD Chait	53	Circulation
+2004	HarrisA GrayMA SlaneyDP TurleyML FowlesJR Weinstein	2	Anticancer research
+2004	SchellLM DenhamM StarkAD RavenscroftJ ParsonsP Schulte	9	Environmental research
+2004	ZampelasA PanagiotakosDB PitsavosC ChrysohoouC Stefanadis	22	The American journal of clinical nutrition
+2004	LopezGarciaE SchulzeMB FungTT MeigsJB RifaiN MansonJE HuF	166	The American journal of clinical nutrition
+2004	ChenJR LiuSM YangSC Suetsuna	1	Nutrition (Burbank, Los Angeles County, Calif.)
+2005	HuangLS CoxC MyersGJ DavidsonPW CernichiariE ShamlayeCF SloaneReevesJ ClarksonT	8	Environmental research
+2004	DresenS WeinmannW WurstF	6	Journal of the American Society for Mass Spectrometry
+2004	DenisRG BingC BrocklehurstS HarroldJA VernonRG Williams	1	The Journal of endocrinology
+2004	FredriksonGN HedbladB NilssonJA AlmR BerglundG Nilsson	14	Metabolism: clinical and experimental
+2004	McDonaldCP ColvinJ SmithR WilkinsK RobbinsS BarbaraJ	0	Transfusion medicine (Oxford, England)
+2004	ImhofA WoodwardM DoeringA HelbecqueN LoewelH AmouyelP LoweGD Koenig	40	European heart journal
+2005	HuhSY RifasShimanSL KleinmanKP RichEdwardsJW LipshultzSE GillmanM	6	International journal of epidemiology
+2005	WhiteKLJr GermolecDR BookerCD HernendezDM McCayJA DelclosKB NewboldRR WeisC GuoT	7	Toxicology
+2004	MurashimaM WatanabeS ZhuoXG UeharaM Kurashige	14	BioFactors (Oxford, England)
+2005	SeierstadSL SeljeflotI JohansenO HansenR HaugenM RosenlundG FrøylandL Arnesen	18	European journal of clinical investigation
+2005	StarkKD BebloS MurthyM WhittyJE BudaAbelaM JanisseJ RockettH MartierSS SokolRJ HanniganJH SalemNJ	9	Alcoholism, clinical and experimental research
+2005	BertranN CampsJ FernandezBallartJ ArijaV FerreN TousM SimoD MurphyMM VilellaE Joven	18	The Journal of laboratory and clinical medicine
+2004	PaolucciU VigneauCallahanKE ShiH MatsonWR KristalB	11	Omics : a journal of integrative biology
+2005	NatriAM KärkkäinenMU RuusunenM PuolanneE LambergAllardt	3	European journal of clinical nutrition
+2005	DaviglusML GreenlandP StamlerJ ElliottP AppelLJ CarnethonMR ChanQ ClaeysG KestelootH MiuraK NakagawaH PirzadaA SteffenL YanLL ZhouB DyerA	5	American journal of kidney diseases : the official journal of the National Kidney Foundation
+2005	SavocaMR MacKeyML EvansCD WilsonM LudwigDA HarshfieldG	15	American journal of hypertension
+2005	OkudaN UeshimaH OkayamaA SaitohS NakagawaH RodriguezBL SakataK ChoudhurySR CurbJD StamlerJ INTERLIPIDResearchGroup	15	Atherosclerosis
+2004	JonesEK ZaczekV MacLeodM HockingP	2	British poultry science
+2005	MatsushitaY YokoyamaT HommaT TanakaH Kawahara	4	Diabetes research and clinical practice
+2005	AndersenS HvingelB KleinschmidtK JørgensenT Laurberg	9	The American journal of clinical nutrition
+2005	BoustanyCM BrownDR RandallDC CassisL	20	American journal of physiology. Regulatory, integrative and comparative physiology
+2005	GodartB MennetreyL SchellenbergF PagesJC Bacq	0	Gastroenterologie clinique et biologique
+2005	BisagaA LaposataM XieS EvansS	1	Alcohol and alcoholism (Oxford, Oxfordshire)
+2004	PanagiotakosDB PitsavosC ZampelasA ZeimbekisA ChrysohoouC PapademetriouL Stefanadis	2	Heart and vessels
+2005	PischonT GirmanCJ RifaiN HotamisligilGS RimmE	25	The American journal of clinical nutrition
+2004	TamakiJ YoshitaK KikuchiY TakebayashiT ChibaN OkamuraT TanakaT KasagiF MinaiJ UeshimaH HighRiskandPopulationStrategyforOccupationalHealthPromotionresearchgroup	3	Hypertension research : official journal of the Japanese Society of Hypertension
+2005	AnatolTI PintoPereiraL MatthewJ Sawh	0	International journal of urology : official journal of the Japanese Urological Association
+2005	MitchellBL YasuiY LampeJW GafkenPR LampeP	7	Proteomics
+2005	CabriniL BochicchioD BordoniA SassiS MarchettiM Maranesi	1	Nutrition, metabolism, and cardiovascular diseases : NMCD
+2005	MoghaddasF LidfeldtJ NerbrandC JernströmH Samsioe	5	Menopause (New York, N.Y.)
+2005	ThompsonLU ChenJM LiT StrasserWeipplK GossP	29	Clinical cancer research : an official journal of the American Association for Cancer Research
+2005	MorinP HerrmannF AmmannP UebelhartB Rizzoli	2	Clinical nutrition (Edinburgh, Scotland)
+2005	ZampelasA PanagiotakosDB PitsavosC DasUN ChrysohoouC SkoumasY Stefanadis	24	Journal of the American College of Cardiology
+2005	RaghavanM KnappDW BonneyPL DawsonMH GlickmanL	6	Journal of the American Veterinary Medical Association
+2005	HoffS SeilerH HeinrichJ KompauerI NietersA BeckerN NagelG GedrichK KargG WolframG Linseisen	2	European journal of clinical nutrition
+2006	DuthieSJ JenkinsonAM CrozierA MullenW PirieL KyleJ YapLS ChristenP DuthieG	39	European journal of nutrition
+2005	ClaysonD WildD DollH KeatingK Gondek	15	BJU international
+2006	PaiJK HankinsonSE ThadhaniR RifaiN PischonT RimmE	34	Atherosclerosis
+2005	GleiM HabermannN OsswaldK SeidelC PersinC JahreisG PoolZobelB	7	Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals
+2005	FerrariP AlDelaimyWK SlimaniN BoshuizenHC RoddamA OrfanosP SkeieG RodríguezBarrancoM ThiebautA JohanssonG PalliD BoeingH OvervadK Riboli	0	American journal of epidemiology
+2005	BrevikA VeierødMB DrevonCA AndersenL	40	European journal of clinical nutrition
+2005	AlDelaimyWK FerrariP SlimaniN PalaV JohanssonI NilssonS MattissonI WirfaltE GalassoR PalliD VineisP TuminoR DorronsoroM PeraG OckéMC BuenodeMesquitaHB OvervadK ChirlaqueM TrichopoulouA NaskaA TjønnelandA OlsenA LundE AlsakerEH BarricarteA KesseE BoutronRuaultMC ClavelChapelonF KeyTJ SpencerE BinghamS WelchAA SanchezPerezMJ NagelG LinseisenJ QuirósJR PeetersPH vanGilsCH BoeingH vanKappelAL SteghensJP Riboli	39	European journal of clinical nutrition
+2005	LovalloWR WhitsettTL al'AbsiM SungBH VincentAS WilsonM	19	Psychosomatic medicine
+2006	AlissaEM BahjriSM AlAmaN AhmedWH FernsG	2	Clinica chimica acta; international journal of clinical chemistry
+2005	TsikasD MitschkeA SuchyMT GutzkiFM StichtenothD	4	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+2005	IskandarM SwistE TrickKD WangB L'AbbéMR Bertinato	5	Nutrition journal
+2005	SteffenLM KroenkeCH YuX PereiraMA SlatteryML VanHornL GrossMD JacobsDRJ	71	The American journal of clinical nutrition
+2006	JiangR JacobsDRJr MayerDavisE SzkloM HerringtonD JennyNS KronmalR BarrR	50	American journal of epidemiology
+2006	ElliottP StamlerJ DyerAR AppelL DennisB KestelootH UeshimaH OkayamaA ChanQ GarsideDB Zhou	56	Archives of internal medicine
+2006	BaylinA Campos	53	Current opinion in lipidology
+2006	HornRossPL BarnesS LeeVS CollinsCN ReynoldsP LeeMM StewartSL CancholaAJ WilsonL Jones	13	Cancer causes & control : CCC
+2006	DeBacquerD ClaysE DelangheJ DeBacker	6	Atherosclerosis
+2006	BingMH MollerLA JennumP MortensenS Lose	3	European urology
+2006	ShoffSM AhnHY DavisL LaiH WisconsinCFNeonatalScreeningGroup	14	Pediatrics
+2005	KoppesLL TwiskJW VanMechelenW SnelJ KemperH	7	Journal of studies on alcohol
+2006	MalekshahAF KimiagarM SaadatianElahiM PourshamsA NouraieM GoglaniG HoshiarradA SadatsafaviM GolestanB YoonesiA RakhshaniN FahimiS NasrollahzadehD SalahiR GhafarpourA SemnaniS SteghensJP AbnetCC KamangarF DawseySM BrennanP BoffettaP Malekzadeh	52	European journal of clinical nutrition
+2006	KingIB LemaitreRN Kestin	43	The American journal of clinical nutrition
+2006	KimSK LeeG ShinM HanJB MoonHJ ParkJH KimKJ HaJ ParkDS MinB	3	Pharmacology, biochemistry, and behavior
+2006	AilhaudG MassieraF WeillP LegrandP AlessandriJM Guesnet	56	Progress in lipid research
+2006	KelleyDS RasoolyR JacobRA KaderAA MackeyB	26	The Journal of nutrition
+2006	KoutsosEA GarcíaLópezJC KlasingK	4	The Journal of nutrition
+2006	KasimKarakasSE TsodikovA SinghU Jialal	21	The American journal of clinical nutrition
+2006	ChoE ZeiselSH JacquesP SelhubJ DoughertyL ColditzGA WillettW	57	The American journal of clinical nutrition
+2006	TasevskaN RunswickSA BinghamS	19	The Journal of nutrition
+2006	ErdmannJ LeiblM WagenpfeilS LipplF Schusdziarra	6	Regulatory peptides
+2006	SowersMR CrawfordS McConnellDS RandolphJFJr GoldEB WilkinMK Lasley	19	The Journal of nutrition
+2006	NasserR CookSL DorschKD HaennelR	1	Journal of the American Dietetic Association
+2006	DufficyL NaumovskiN NgX BladesB YatesZ TraversC LewisP SturmJ VeyseyM RoachPD LucockM	7	Life sciences
+2006	FantiP AsmisR StephensonTJ SawayaBP FrankeA	21	Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association
+2006	RideoutCA LindenW BarrS	8	The journals of gerontology. Series A, Biological sciences and medical sciences
+2006	BlacheD DevauxS JoubertO LoreauN SchneiderM DurandP ProstM GaumeV AdrianM LaurantP Berthelot	11	Free radical biology & medicine
+2007	PurnellJQ CummingsD WeigleD	5	International journal of obesity (2005)
+2007	MitoN TakimotoH UmegakiK IshiwakiA KusamaK FukuokaH OhtaS AbeS YamawakiM IshidaH Yoshiike	2	European journal of clinical nutrition
+2006	KokazeA IshikawaM MatsunagaN YoshidaM SatohM TeruyaK HonmyoR YorimitsuM MasudaY UchidaY Takashima	4	Journal of human genetics
+2006	BatesCJ PrenticeA BirchMC DelvesHT SinclairK	4	The British journal of nutrition
+2007	HodgeAM SimpsonJA GibsonRA SinclairAJ MakridesM O'DeaK EnglishDR GilesG	26	Nutrition, metabolism, and cardiovascular diseases : NMCD
+2006	KoukourakisMI PitiakoudisM GiatromanolakiA TsarouhaA PolychronidisA SivridisE Simopoulos	14	Cancer science
+2007	ReidFM SmithAR Dunn	1	Neurourology and urodynamics
+2007	KnudsenLB BorgåK JørgensenEH vanBavelB SchlabachM VerreaultJ GabrielsenG	2	Environmental pollution (Barking, Essex : 1987)
+2006	BravoE NapolitanoM LopezSoldadoI ValeriM BothamKM Stefanutti	1	European journal of clinical investigation
+2007	StellingaBoelenAA WiegersmaPA StormH BijleveldCM VerkadeH	2	European journal of pediatrics
+2006	HamerM WilliamsED VuononvirtaR GibsonEL Steptoe	4	Journal of hypertension
+2006	SchuckitMA SmithTL WaylenA HorwoodJ DankoGP HibbelnJR DavisJM Pierson	9	Journal of studies on alcohol
+2006	WilliamsMA FrederickIO QiuC MerymanLJ KingIB WalshSW SorensenT	8	Clinical biochemistry
+2007	CamC SakalliM AyP CamM Karateke	13	Neurourology and urodynamics
+2006	EsteveTurrillasFA BickerW LämmerhoferM KellerT Lindner	1	Electrophoresis
+2006	TrumboPR EllwoodK	10	The American journal of clinical nutrition
+2006	BoS DurazzoM GuidiS CarelloM SacerdoteC SilliB RosatoR CassaderM GentileL Pagano	21	The American journal of clinical nutrition
+2007	DierkesJ WolfersdorfM BoruckiK WeinmannW WiesbeckG BeckO BorgS WurstF	0	Clinical biochemistry
+2006	DixonLB SubarAF WideroffL ThompsonFE KahleLL Potischman	15	The Journal of nutrition
+2006	PanagiotakosDB PitsavosC Stefanadis	100	Nutrition, metabolism, and cardiovascular diseases : NMCD
+2007	BasraR ArtibaniW CardozoL CastroDiazD ChappleC CortesE DeRidderD PonsME HaabF HohenfellnerM KirbyM MilsomI VanKerrebroeckP VierhoutM WaggA Kelleher	1	European urology
+2006	BlumA MereiM KaremA BlumN BenArziS WirsanskyI Khazim	7	Clinical and investigative medicine. Medecine clinique et experimentale
+2007	WoodRJ FernandezML SharmanMJ SilvestreR GreeneCM ZernTL ShresthaS JudelsonDA GomezAL KraemerWJ VolekJ	5	Metabolism: clinical and experimental
+2007	NotoA ZahradkaP RyzNR YurkovaN XieX TaylorC	6	Metabolism: clinical and experimental
+2007	McNaughtonSA MishraGD StephenAM WadsworthM	20	The Journal of nutrition
+2007	HodgsonJM WardNC BurkeV BeilinLJ PuddeyI	15	The Journal of nutrition
+2007	HartvigsenK BinderCJ HansenLF RafiaA JulianoJ HörkköS SteinbergD PalinskiW WitztumJL LiA	32	Arteriosclerosis, thrombosis, and vascular biology
+2007	LissnerL TroianoRP MidthuneD HeitmannBL KipnisV SubarAF Potischman	27	International journal of obesity (2005)
+2008	SudaI IshikawaF HatakeyamaM MiyawakiM KudoT HiranoK ItoA YamakawaO Horiuchi	11	European journal of clinical nutrition
+2007	HolmesMD PowellIJ CamposH StampferMJ GiovannucciEL WillettW	14	European journal of clinical nutrition
+2007	PanagiotakosDB TzimaN PitsavosC ChrysohoouC ZampelasA ToussoulisD Stefanadis	17	Journal of the American College of Nutrition
+2007	HwangES BowenP	12	Critical reviews in food science and nutrition
+2007	EsmaillzadehA KimiagarM MehrabiY AzadbakhtL HuFB WillettW	80	The Journal of nutrition
+2007	BradyH LambMM SokolRJ RossCA SeifertJA RewersMJ NorrisJ	11	Public health nutrition
+2007	AzadbakhtL KimiagarM MehrabiY EsmaillzadehA HuFB WillettW	32	Diabetes care
+2007	BatesCJ PrenticeA BirchMC DelvesH	6	Public health nutrition
+2007	HearnshawH WrightK DaleJ SturtJ VermeireE vanRoyen	2	Diabetic medicine : a journal of the British Diabetic Association
+2007	BrantsaeterAL HaugenM RasmussenSE AlexanderJ SamuelsenSO MeltzerH	19	Public health nutrition
+2007	vandeRestO DurgaJ VerhoefP MelseBoonstraA BrantsH	4	The British journal of nutrition
+2007	BrantsaeterAL HaugenM HagveTA AksnesL RasmussenSE JulshamnK AlexanderJ MeltzerH	33	Annals of nutrition & metabolism
+2008	KamphuisMH GeerlingsMI GrobbeeDE Kromhout	15	European journal of clinical nutrition
+2006	AmaniR Soflaei	1	Food and nutrition bulletin
+2007	WeinsteinSJ WrightME LawsonKA SnyderK MännistöS TaylorPR VirtamoJ Albanes	26	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+2007	NomuraF TomonagaT SogawaK WuD Ohashi	4	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+2008	CharltonKE SteynK LevittNS JonathanD ZuluJV NelJ	9	Public health nutrition
+2007	YamagishiK TanigawaT CuiR TabataM IkedaA YaoM ShimamotoT Iso	2	American journal of hypertension
+2007	PanagiotakosDB ZeimbekisA BoutzioukaV EconomouM KourlabaG ToutouzasP Polychronopoulos	16	Medical science monitor : international medical journal of experimental and clinical research
+2007	MecklingKA Sherfey	29	Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme
+2008	SpencerJP AbdElMohsenMM MinihaneAM MathersJ	54	The British journal of nutrition
+2007	MangraviteLM DawsonK DavisRR GreggJP KraussR	13	The American journal of clinical nutrition
+2008	VolcikKA BallantyneCM FuchsFD SharrettAR Boerwinkle	24	Annals of epidemiology
+2007	GummessonA JernåsM SvenssonPA LarssonI GladCA SchéleE GripetegL SjöholmK LystigTC SjöströmL CarlssonB FagerbergB CarlssonL	20	The Journal of clinical endocrinology and metabolism
+2007	SchwartzJI ThachC LasseterKC MillerJ HreniukD HilliardDA SnyderKM GertzBJ GottesdienerK	4	Journal of clinical pharmacology
+2008	FurenesEB SeljeflotI SolheimS HjerkinnEM Arnesen	7	Scandinavian journal of clinical and laboratory investigation
+2007	KhanMA LeeHJ LeeWS KimHS KimSB KiKS ParkSJ HaJK ChoiY	1	Journal of dairy science
+2007	Hotz	10	Food and nutrition bulletin
+2007	DehghanM AkhtarDaneshN McMillanCR Thabane	22	Nutrition journal
+2008	GonzalezQuintelaA AlendeR GudeF CamposJ ReyJ MeijideLM FernandezMerinoC Vidal	81	Clinical and experimental immunology
+2007	GregoryCO YuC SinghR	11	Genetics in medicine : official journal of the American College of Medical Genetics
+2008	AdamiS ViapianaO GattiD IdolazziL Rossini	12	Bone
+2008	KimJC MullanBP HampsonDJ PluskeJ	6	The British journal of nutrition
+2008	vanWijngaardenE SingerEA PalapattuG	15	The Prostate
+2007	VolkM	3	Alternative medicine review : a journal of clinical therapeutic
+2008	TsengYM JinYR ChenIJ HuangFD WuSH MaH ChenSY TsaiLY TsaiSM LeeJ	2	Clinica chimica acta; international journal of clinical chemistry
+2008	SlatteryML MurtaughMA SchumacherMC JohnsonJ EdwardsS EdwardsR BensonJ TomOrmeL LanierA	8	Journal of the American Dietetic Association
+2008	AroraM EttingerAS PetersonKE SchwartzJ HuH HernándezAvilaM TellezRojoMM WrightR	2	The Journal of nutrition
+2008	DavisNJ CohenHW WylieRosettJ Stein	1	Southern medical journal
+2008	KuhnleGG JoosenAM WoodTR RunswickSA GriffinJL BinghamS	5	Rapid communications in mass spectrometry : RCM
+2008	AzadbakhtL AtabakS Esmaillzadeh	42	Diabetes care
+2008	BandaraJM SenevirathnaDM DasanayakeDM HerathV BandaraJM AbeysekaraT RajapakshaK	25	Environmental geochemistry and health
+2008	BoS DurazzoM GambinoR BeruttiC MilanesioN CaropresoA GentileL CassaderM CavalloPerinP Pagano	18	The Journal of nutrition
+2008	LiuC WangQ GuoH XiaM YuanQ HuY ZhuH HouM MaJ TangZ Ling	11	The Journal of nutrition
+2008	LeeSA WenW XiangYB FazioS LintonMF CaiQ LiuD ZhengW ShuX	3	Disease markers
+2008	MasamotoK VazquezA WangP KimS	24	NeuroImage
+2009	TasevskaN RunswickSA WelchAA McTaggartA BinghamS	10	European journal of clinical nutrition
+2008	ObaraH TomiteY Doi	0	Clinical nutrition (Edinburgh, Scotland)
+2008	O'ConnorDB CoronaG FortiG TajarA LeeDM FinnJD BartfaiG BoonenS CasanuevaFF GiwercmanA HuhtaniemiIT KulaK O'NeillTW PendletonN PunabM SilmanAJ VanderschuerenD WuF	8	The journal of sexual medicine
+2008	MoellerSM VolandR TinkerL BlodiBA KleinML GehrsKM JohnsonEJ SnodderlyDM WallaceRB ChappellRJ ParekhN RitenbaughC MaresJA CAREDSStudyGroup. Women'sHelathInitiative	27	Archives of ophthalmology (Chicago, Ill. : 1960)
+2008	TarwadiKV ChiplonkarSA Agte	7	Clinical nutrition (Edinburgh, Scotland)
+2008	NeuhouserML TinkerL ShawPA SchoellerD BinghamSA HornLV BeresfordSA CaanB ThomsonC SatterfieldS KullerL HeissG SmitE SartoG OckeneJ StefanickML AssafA RunswickS PrenticeR	141	American journal of epidemiology
+2008	RiséP MarangoniF MartielloA ColomboC ManzoniC MarconiC CattabeniF Galli	4	Asia Pacific journal of clinical nutrition
+2008	RibayaMercadoJD MaramagCC TengcoLW BlumbergJB SolonF	5	Bioscience reports
+2008	AbiakaC MachadoL MathewM Rao	0	Biological trace element research
+2008	HamiltonReevesJM RebelloSA ThomasW KurzerMS SlatonJ	17	Nutrition and cancer
+2008	VaismanN KaysarN ZarukAdashaY PelledD BrichonG ZwingelsteinG Bodennec	26	The American journal of clinical nutrition
+2008	RautiainenS SerafiniM MorgensternR PriorRL Wolk	17	The American journal of clinical nutrition
+2008	DeBackerD ChristiaensT HeytensS DeSutterA StobberinghEE Verschraegen	10	The Journal of antimicrobial chemotherapy
+2008	NeumannT HelanderA DahlH HolzmannT NeunerB WeissGerlachE MüllerC Spies	7	Alcohol and alcoholism (Oxford, Oxfordshire)
+2008	TamaniniJT AlmeidaFG GirottiME RiccettoCL PalmaPC RiosL	4	International urogynecology journal and pelvic floor dysfunction
+2008	StewartLK SoileauJL RibnickyD WangZQ RaskinI PoulevA MajewskiM CefaluWT GettysT	41	Metabolism: clinical and experimental
+2008	MarinEC BalbiAP FrancescatoHD AlvesdaSilvaCG CostaRS CoimbraT	7	Renal failure
+2009	BilauM DeHenauwS SchroijenC BruckersL HondED KoppenG MatthysC VanDeMieroopE KeuneH BaeyensW NelenV VanLarebekeN WillemsJL Schoeters	1	Environment international
+2008	DedoussisGV KanoniS MarianiE CattiniL HerbeinG FulopT VarinA RinkL JajteJ MontiD MarcelliniF MalavoltaM Mocchegiani	6	Clinical chemistry and laboratory medicine
+2008	WarensjöE SundströmJ VessbyB CederholmT Risérus	74	The American journal of clinical nutrition
+2009	LindqvistHM LangkildeAM UndelandI SandbergA	8	The British journal of nutrition
+2008	FukuwatariT Shibata	8	Journal of nutritional science and vitaminology
+2008	ThuyS LadurnerR VolynetsV WagnerS StrahlS KönigsrainerA MaierKP BischoffSC Bergheim	89	The Journal of nutrition
+2008	BradfordBU O'ConnellTM HanJ KosykO ShymonyakS RossPK WinnikeJ KonoH Rusyn	24	Toxicology and applied pharmacology
+2008	SingerEA PalapattuGS vanWijngaarden	13	Cancer
+2008	GozdzikA BartaJL WuH WagnerD ColeDE ViethR WhitingS ParraE	25	BMC public health
+2008	OnatA HergencG DursunogluD OrduS CanG BulurS Yüksel	17	Alcohol (Fayetteville, N.Y.)
+2008	HusøyT HaugenM MurkovicM JöbstlD StølenLH BjellaasT RønningborgC GlattH Alexander	11	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+2009	TheuwissenE PlatJ MensinkR	4	Molecular nutrition & food research
+2008	AlDaghriN	8	International journal of occupational medicine and environmental health
+2009	BurrowsTL WarrenJM ColyvasK GargML CollinsC	22	Obesity (Silver Spring, Md.)
+2009	DueU Ottesen	4	Acta obstetricia et gynecologica Scandinavica
+2009	NimptschK NietersA HailerS WolframG Linseisen	3	The British journal of nutrition
+2008	LeesonS NamkungH CastonL DurosoyS Schlegel	2	Poultry science
+2009	SaadatianElahiM SlimaniN ChajèsV JenabM GoudableJ BiessyC FerrariP ByrnesG AutierP PeetersPH OckéM BuenodeMesquitaB JohanssonI HallmansG ManjerJ WirfältE GonzálezCA NavarroC MartinezC AmianoP SuárezLR ArdanazE TjønnelandA HalkjaerJ OvervadK JakobsenMU BerrinoF PalaV PalliD TuminoR VineisP SantuccideMagistrisM SpencerEA CroweFL BinghamS KhawKT LinseisenJ RohrmannS BoeingH NoethlingsU OlsenKS SkeieG LundE TrichopoulouA OustoglouE ClavelChapelonF Riboli	48	The American journal of clinical nutrition
+2009	GudbrandsenOA WergedahlH BergeR	7	Nutrition (Burbank, Los Angeles County, Calif.)
+2009	PetersAM BirdNJ HalsallI PetersC MichellA	1	Annals of clinical biochemistry
+2009	NimptschK RohrmannS NietersA Linseisen	9	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+2009	MentorMarcelRA BobeG BarrettKG YoungMR AlbertPS BenninkMR LanzaE ColburnN	11	Cancer prevention research (Philadelphia, Pa.)
+2009	SaracinoMR BiglerJ SchwarzY ChangJL LiS LiL WhiteE PotterJD LampeJ	8	The Journal of nutrition
+2009	WennbergM VessbyB Johansson	20	Public health nutrition
+2009	OkamuraK NojiriY Osuga	3	BJU international
+2009	MedinaRemónA BarrionuevoGonzálezA ZamoraRosR AndresLacuevaC EstruchR MartínezGonzálezMA DiezEspinoJ LamuelaRaventosR	24	Analytica chimica acta
+2009	ColićBarićI SatalićZ PedisićZ ZizićV Linarić	2	International journal of food sciences and nutrition
+2009	ColićBarićI SatalićZ KeserI CecićI Sucić	3	International journal of food sciences and nutrition
+2009	VogiatzoglouA SmithAD NurkE BerstadP DrevonCA UelandPM VollsetSE TellGS Refsum	29	The American journal of clinical nutrition
+2009	PortaN ValléeL BoutryE FontaineM DesseinAF JoriotS CuissetJM CuvellierJC Auvin	7	Seizure
+2009	GotohM HommaY FunahashiY MatsukawaY Kato	1	International journal of urology : official journal of the Japanese Urological Association
+2009	OmotoshoTB HardartA RogersRG SchafferJI KobakWH RomeroA	2	International urogynecology journal and pelvic floor dysfunction
+2009	ManiosY MoschonisG PanagiotakosDB FarajianP TrovasG LyritisG	5	Journal of human nutrition and dietetics : the official journal of the British Dietetic Association
+2009	HenryM DavidsonL CohenZ McDonaghPF NolanPE RitterL	5	Diabetes research and clinical practice
+2009	MatsumotoC TomiyamaH YamadaJ YoshidaM ShiinaK NagataM Yamashina	2	Hypertension research : official journal of the Japanese Society of Hypertension
+2009	KimJ WoodhouseLR KingJC WelchRM LiSJ PaikHY Joung	1	The British journal of nutrition
+2009	ElkanAC HåkanssonN FrostegårdJ CederholmT Hafström	25	Arthritis research & therapy
+2009	PalmerR	9	Seminars in diagnostic pathology
+2009	ArrarasJI VillafrancaE AriasdelaVegaF RomeroP RicoM VilaM AsínG ChicataV DomínguezMA LainezN ManterolaA MartínezE Martínez	4	Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico
+2009	PizentA ColakB KljakovićZ Telisman	2	Arhiv za higijenu rada i toksikologiju
+2009	RoseC ArmbrusterFP RuppertJ IglBW ZillikensD Shimanovich	14	Journal of the American Academy of Dermatology
+2009	BremerAA AuingerP ByrdR	32	Archives of pediatrics & adolescent medicine
+2010	MartínTeresoJ DerksM vanLaarH MulderK denHartogLA VerstegenM	1	Journal of animal physiology and animal nutrition
+2009	vandeSteegN SielkM PentzekM BakxC Altiner	12	Journal of evaluation in clinical practice
+2009	PérezJiménezJ SerranoJ TaberneroM ArranzS DíazRubioME GarcíaDizL GoñiI SauraCalixto	10	Plant foods for human nutrition (Dordrecht, Netherlands)
+2009	HawkinsJS CaseyBM LoJY MossK McIntireDD LevenoK	3	Obstetrics and gynecology
+2009	BuyckJF BlacherJ KesseGuyotE CastetbonK GalanP SafarM HercbergS Czernichow	1	Journal of hypertension
+2009	WakabayashiI Araki	2	Gender medicine
+2009	StewartSH ReubenA BrzezinskiWA KochDG BasileJ RandallPK MillerP	24	Alcohol and alcoholism (Oxford, Oxfordshire)
+2009	KoppeSW EliasM MoseleyRH GreenR	8	American journal of physiology. Gastrointestinal and liver physiology
+2009	LiJ Nekka	0	Journal of pharmacokinetics and pharmacodynamics
+2009	RuottinenS RönnemaaT NiinikoskiH LagströmH SaarinenM PahkalaK KaitosaariT ViikariJ Simell	2	Acta paediatrica (Oslo, Norway : 1992)
+2009	CamC SancakP KarahanN SancakA CelikC Karateke	2	European journal of obstetrics, gynecology, and reproductive biology
+2009	PuchauB ZuletMA UrtiagaG NavarroBlascoI MartínezJ	5	Metabolism: clinical and experimental
+2009	ChungHY FerreiraAL EpsteinS PaivaSA CastanedaSceppaC JohnsonE	20	The American journal of clinical nutrition
+2010	ZemelBS CareyLB PaulhamusDR StallingsVA IttenbachR	7	American journal of human biology : the official journal of the Human Biology Council
+2009	ParkY LimJ KwonY Lee	3	Nutrition research (New York, N.Y.)
+2010	TomitaLY LongattoFilhoA CostaMC AndreoliMA VillaLL FrancoEL CardosoMA BrazilianInvestigationintoNutritionandCervicalCancerPrevention(BRINCA)StudyTeam	6	International journal of cancer
+2009	BloomerRJ CanaleRE BlankenshipMM HammondKG FisherWellmanKH SchillingB	13	Lipids in health and disease
+2009	CohenAA McGrawKJ RobinsonW	10	Oecologia
+2010	MusshoffF TrafkowskiJ LichtermannD Madea	3	International journal of legal medicine
+2009	LassaleC GuilbertC KeoghJ SyretteJ LangeK CoxD	9	Journal of human nutrition and dietetics : the official journal of the British Dietetic Association
+2009	ComascoE NordquistN LeppertJ OrelandL KronstrandR AllingC NilssonK	9	Journal of studies on alcohol and drugs
+2009	CalandrinoR delVecchioA SaviA ToddeS Belloli	0	Health physics
+2009	IqbalS BlumenthalW KennedyC YipFY PickardS FlandersWD LoringerK KrugerK CaldwellKL JeanBrown	16	Environmental research
+2009	AzadbakhtL Esmaillzadeh	23	Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation
+2008	FontaineBissonB ElSohemy	8	Journal of nutrigenetics and nutrigenomics
+2009	PortaM LópezT PumaregaJ JariodM CrousBouM MarcoE RifàJ GrimaltJO MalatsN RealFX PANKRASIIStudyGroup	3	Mutagenesis
+2010	BurriBJ NguyenT NeidlingerT	1	Nutrition (Burbank, Los Angeles County, Calif.)
+2009	MahnAV MuñozMC ZamoranoM	3	Journal of chromatographic science
+2009	WinningH RoldánMarínE DragstedLO ViereckN PoulsenM SánchezMorenoC CanoMP EngelsenS	10	The Analyst
+2009	ThiébautAC RotivalM GauthierE LenoirGM BoutronRuaultMC JoulinV ClavelChapelonF Chajès	13	Nutrition and cancer
+2010	AubertinLeheudreM KoskelaA SamaletdinA Adlercreutz	7	The British journal of nutrition
+2009	StefanuttiC MazzaF VivenzioA DiGiacomoS PerroneG SerraM Bucci	3	Lipids
+2010	BuykenAE FloodV RochtchinaE NestelP BrandMillerJ Mitchell	3	The Journal of nutrition
+2010	SmithKM DagleishMP AbrahamsP	1	The Science of the total environment
+2010	EsmaillzadehA Azadbakht	13	Public health nutrition
+2010	AmaniR SaeidiS NazariZ Nematpour	25	Biological trace element research
+2009	ParkS Park	6	Nutrition research and practice
+2009	YunJO KimK	1	Nutrition research and practice
+2010	CookCM AlvigAL LiuYQ SchoellerD	17	The Journal of nutrition
+2010	PotGK GeelenA MajsakNewmanG HarveyLJ NagengastFM WittemanBJ vandeMeebergPC HartAR SchaafsmaG LundEK RijkersGT Kampman	13	The Journal of nutrition
+2010	YangB HuangL WangY LiuY TaoY ChenD LiuZ FangK ChenY Yuan	0	Journal of agricultural and food chemistry
+2010	YuLW KongAP TongPC TamC KoGT HoCS SoWY MaRC ChowCC ChanJ	6	International journal of andrology
+2010	RuottinenS LagströmHK NiinikoskiH RönnemaaT SaarinenM PahkalaKA HakanenM ViikariJS Simell	8	The American journal of clinical nutrition
+2010	KandaJ MatsuoK InoueM IwasakiM SawadaN ShimazuT YamajiT SasazukiS TsuganeS JapanPublicHealthCenterbasedProspectiveStudyGroup	8	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+2010	ChristiansenT PaulsenSK BruunJM PedersenSB Richelsen	58	American journal of physiology. Endocrinology and metabolism
+2010	SauraCalixtoF PérezJiménezJ TouriñoS SerranoJ FuguetE TorresJL Goñi	9	Molecular nutrition & food research
+2010	PerichartPereraO BalasNakashM RodríguezCanoA MuñozManriqueC MongeUrreaA VadilloOrtega	11	Journal of the American Dietetic Association
+2010	TurunenAW MännistöS KivirantaH MarniemiJ JulaA TiittanenP SuominenTaipaleL VartiainenT VerkasaloP	10	European journal of clinical nutrition
+2010	ZhaoQ HixsonJE RaoDC GuD JaquishCE RiceT ShimminLC ChenJ CaoJ KellyTN HammLL He	14	Journal of hypertension
+2010	LissMA OsannK CanvasserN ChuW ChangA GanJ LiR SantosR SkareckyD FinleyDS AhleringT	11	The Journal of urology
+2010	MarcuzziA DecortiG PontilloA VenturaA Tommasini	3	Inflammation research : official journal of the European Histamine Research Society ... [et al.]
+2010	ChanDC WattsGF GanSK OoiEM BarrettP	36	Diabetes care
+2011	SuliburskaJ BogdańskiP PupekMusialikD Krejpcio	16	Biological trace element research
+2010	LeynaGH MmbagaEJ MnyikaKS HussainA KleppK	6	Public health nutrition
+2010	BushNC AlvarezJA ChoquetteSS HunterGR OsterRA DarnellBE GowerB	6	Obesity (Silver Spring, Md.)
+2010	Costantini	6	Journal of comparative physiology. B, Biochemical, systemic, and environmental physiology
+2010	KoekWN vanMeursJB vanderEerdenBC RivadeneiraF ZillikensMC HofmanA ObermayerPietschB LipsP PolsHA UitterlindenAG vanLeeuwenJ	6	Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research
+2010	CoelhoMS LopesKL FreitasRdeA deOliveiraSalesEB BergasmaschiCT CamposRR CasariniDE CarmonaAK AraújoMdaS HeimannJC DolnikoffM	10	Regulatory peptides
+2010	TupeRS TupeSG TarwadiKV AgteV	5	Metabolism: clinical and experimental
+2010	D'AmatoJL HumphreyB	0	Poultry science
+2010	FreemanWM VranaK	16	Alcoholism, clinical and experimental research
+2010	KimJ KimHJ JoungH ParkMK LiS SongY FrankeAA PaikH	3	The British journal of nutrition
+2010	AmatiL MarzulliG MartulliM ChiloiroM Jirillo	4	Current pharmaceutical design
+2010	RajiaS ChenH MorrisM	29	Journal of neuroendocrinology
+2010	WaśkiewiczA SygnowskaE Broda	3	Kardiologia polska
+2010	ZuureF DavidovichU KokG DeplaAC HoebeC vandenHoekA JansenPL vanLeeuwenGilbertP WeeginkCJ CoutinhoRA Prins	4	Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin
+2010	MoriokaN FunadaJ TakataY HashidaH IwataT HigakiJ Okayama	0	Hypertension research : official journal of the Japanese Society of Hypertension
+2011	TsubotaUtsugiM OhkuboT KikuyaM MetokiH KurimotoA SuzukiK FukushimaN HaraA AsayamaK SatohH TsubonoY Imai	8	Journal of human hypertension
+2010	PetersonTV KarpDR AguilarVC DavilaG	2	International urogynecology journal
+2010	dePaulaTP RamalhoA BraulioV	4	Journal of human nutrition and dietetics : the official journal of the British Dietetic Association
+2010	AbramsonJL LewisC MurrahN	7	American journal of hypertension
+2011	AiraksinenR TurunenAW RantakokkoP MännistöS VartiainenT VerkasaloP	1	Public health nutrition
+2010	NettletonJA MatijevicN FollisJL FolsomAR Boerwinkle	8	Atherosclerosis
+2009	MaruyamaK IsoH ItoY WatanabeY InabaY TajimaK NakachiK TamakoshiA JACCStudyGroup	8	Asian Pacific journal of cancer prevention : APJCP
+2010	StrausSE HolroydLeducJ OrrM	0	The Canadian journal of urology
+2010	BaileyRL MillsJL YetleyEA GahcheJJ PfeifferCM DwyerJT DoddKW SemposCT BetzJM PiccianoM	26	The American journal of clinical nutrition
+2010	HeinzmannSS BrownIJ ChanQ BictashM DumasME KochharS StamlerJ HolmesE ElliottP NicholsonJ	33	The American journal of clinical nutrition
+2010	MartinBautistaE MuñozTorresM FonollaJ QuesadaM PoyatosA LopezHuertas	11	Nutrition research (New York, N.Y.)
+2010	PintoE RamosE SeveroM CasalS DosSantosSilvaI LopesC Barros	3	Annals of epidemiology
+2010	BloomerRJ CanaleRE ShastriS Suvarnapathki	10	Lipids in health and disease
+2010	TurconiG BazzanoR RoggiC Cena	6	International journal of food sciences and nutrition
+2010	NeyestaniTR ShariatzadeN KalayiA GharaviA KhalajiN DadkhahM ZowghiT HaidariH Shabbidar	11	Annals of nutrition & metabolism
+2010	JacksonLW CromerBA Panneerselvamm	13	Environmental health perspectives
+2010	KotaniK SakaneN YamadaT Taniguchi	5	Clinical chemistry and laboratory medicine
+2010	TalahalliRR VallikannanB SambaiahK LokeshB	5	Lipids
+2010	LinYC WuTC ChenPY HsiehLY YehS	10	Asia Pacific journal of clinical nutrition
+2010	PérezJiménezJ HubertJ HooperL CassidyA ManachC WilliamsonG Scalbert	29	The American journal of clinical nutrition
+2010	YeungEH SaudekCD JahrenAH KaoWH IslasM KraftR CoreshJ AndersonC	17	American journal of epidemiology
+2011	MünstedtK BöhmeM HauenschildA Hrgovic	7	European journal of clinical nutrition
+2011	ZhengJ RautiainenS MorgensternR Wolk	2	Antioxidants & redox signaling
+2010	CahillLE ElSohemy	11	The American journal of clinical nutrition
+2010	MorineMJ McMonagleJ ToomeyS ReynoldsCM MoloneyAP GormleyIC GaoraPO RocheH	8	BMC bioinformatics
+2011	CombetE LeanME BoyleJG CrozierA DavidsonD	2	Clinica chimica acta; international journal of clinical chemistry
+2010	O'DohertyMG AbnetCC MurrayLJ WoodsideJV AndersonLA BrockmanJD CantwellM	7	Cancer causes & control : CCC
+2011	CooperJA WatrasAC PatonCM WegnerFH AdamsAK SchoellerD	5	Appetite
+2011	SakuraiM StamlerJ MiuraK BrownIJ NakagawaH ElliottP UeshimaH ChanQ TzoulakiI DyerAR OkayamaA ZhaoL INTERMAPResearchGroup	13	Journal of hypertension
+2010	WilliamsCA BurkA	1	Equine veterinary journal. Supplement
+2010	ShiraishiM HarunaM MatsuzakiM OtaE MurayamaR Murashima	8	Bioscience trends
+2011	GiggeyPP WendellCR ZondermanAB WaldsteinS	1	American journal of hypertension
+2011	WalleniusV EliasE BergstromGM ZetterbergH BehreC	8	Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association
+2010	ZhouQ ZhangB WangP MeiF ChenCG SunLN XuY SuY	2	Asia Pacific journal of clinical nutrition
+2011	CominettiC deBortoliMC PurgattoE OngTP MorenoFS GarridoABJr CozzolinoS	15	Nutrition (Burbank, Los Angeles County, Calif.)
+2011	MilagroFI CampiónJ CorderoP GoyenecheaE GómezUrizAM AbeteI ZuletMA MartínezJ	45	FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+2011	RossAB BruceSJ BlondelLubranoA OgueyAraymonS BeaumontM BourgeoisA NielsenMoennozC VigoM FayLB KochharS BibiloniR PittetAC EmadyAzarS GrathwohlD Rezzi	29	The British journal of nutrition
+2011	TasevskaN MidthuneD PotischmanN SubarAF CrossAJ BinghamSA SchatzkinA Kipnis	13	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+2011	KitayamaA ArisawaK UemuraH HiyoshiM TakamiH SawachikaF YamaguchiM NakamotoM HasegawaM TantoM ShimaM SumiyoshiY MorinagaK KodamaK SuzukiT NagaiM Satoh	1	International archives of occupational and environmental health
+2011	ChangSR ChenKH ChangTC LinH	1	Journal of clinical nursing
+2011	KlempelMC VaradyK	22	Nutrition reviews
+2011	YeonJY SuhYJ KimSW BaikHW SungCJ KimHS SungM	7	Nutrition (Burbank, Los Angeles County, Calif.)
+2011	ThieraufA KempfJ PerdekampMG AuwärterV GnannH WohlfarthA Weinmann	0	Forensic science international
+2012	BatesCJ HamerM MishraG	8	Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA
+2011	FloegelA ChungSJ vonRuestenA YangM ChungCE SongWO KooSI PischonT ChunO	4	Public health nutrition
+2011	FerreiraSaeMC CipolliJA CornélioME MatosSouzaJR FernandesMN SchreiberR CostaFO FranchiniKG RodriguesRC GallaniMC NadruzWJ	4	The Journal of nutrition
+2011	DaveySmith	55	Genes & nutrition
+2011	DamascenoMM deAraújoMF deFreitasRW deAlmeidaPC ZanettiM	4	Journal of clinical nursing
+2011	ChaitouA BoutroyS VilayphiouN VarennesA RichardM BlaizotS MunozF DelmasPD GoudableJ ChapurlatR Szulc	4	European journal of endocrinology
+2011	AounallahSkhiriH TraissacP ElAtiJ EymardDuvernayS LandaisE AchourN DelpeuchF BenRomdhaneH Maire	22	Nutrition journal
+2011	NimptschK BrandMillerJC FranzM SampsonL WillettWC Giovannucci	11	The American journal of clinical nutrition
+2011	BraakhuisAJ HopkinsWG LoweTE RushE	4	International journal of sport nutrition and exercise metabolism
+2011	TanizawaK HandaT NagaiS OgaT KuboT ItoY WatanabeK AiharaK ChinK MishimaM Izumi	0	Health and quality of life outcomes
+2011	KimH HwangJY HaEH ParkH HaM LeeSH HongYC Chang	6	European journal of clinical nutrition
+2011	DavyBM JahrenAH HedrickVE ComberD	20	Journal of the American Dietetic Association
+2011	LeeSH JinN PaikDJ KimDY ChungIM Park	2	Nutrition research (New York, N.Y.)
+2011	LinJ FangDZ DuJ ShigdarS XiaoLY ZhouXD Duan	5	Annals of nutrition & metabolism
+2011	BeasleyJM AragakiAK LaCroixAZ NeuhouserML TinkerLF CauleyJA EnsrudKE JacksonRD PrenticeR	13	The Journal of nutrition
+2011	BayerCarterJL GreenPS MontineTJ VanFossenB BakerLD WatsonGS BonnerLM CallaghanM LeverenzJB WalterBK TsaiE PlymateSR PostupnaN WilkinsonCW ZhangJ LampeJ KahnSE Craft	35	Archives of neurology
+2011	KreiderRB RasmussenC KerksickCM WilbornC TaylorL4th CampbellB MagransCourtneyT FogtD FerreiraM LiR GalbreathM IosiaM CookeM SerraM GutierrezJ ByrdM KrestaJY SimboS OliverJ Greenwood	11	The Physician and sportsmedicine
+2011	StranahanAM CutlerRG ButtonC TelljohannR MattsonM	25	Journal of neurochemistry
+2012	FrankenfeldCL LampeJW ShannonJ GaoDL LiW RayRM ChenC KingIB ThomasD	4	Public health nutrition
+2011	LloydAJ BeckmannM FavéG MathersJC Draper	22	The British journal of nutrition
+2011	vanBusselBC HenryRM SchalkwijkCG FerreiraI FeskensEJ StreppelMT SmuldersYM TwiskJW StehouwerC	8	The Journal of nutrition
+2012	GarcíaAlonsoFJ JorgeVidalV RosG PeriagoM	12	European journal of nutrition
+2011	GilBernabeP BovedaRuizD D'AlessandroGabazzaC TodaM MiyakeY MifujiMorokaR IwasaM MorserJ GabazzaEC Takei	6	Circulation journal : official journal of the Japanese Circulation Society
+2011	ChungHK KimOY LeeH DoHJ KimYS OhJ KangSM ShinM	3	Journal of clinical biochemistry and nutrition
+2011	KiharaJ MwandawiroC WaweruB GitongaCW Brooker	6	Tropical medicine & international health : TM & IH
+2011	HtunNC MiyakiK SongY IkedaS ShimboT Muramatsu	8	American journal of hypertension
+2012	RichardC CoutureP DesrochesS BenjannetS SeidahNG LichtensteinAH Lamarche	12	The British journal of nutrition
+2012	SembaRD AngA TalegawkarS CrastoC DalalM JardackP TraberMG FerrucciL Arab	14	European journal of clinical nutrition
+2012	SantanaGW AokiT AugeA	3	International urogynecology journal
+2011	MoyadMA WojnoK	0	The Urologic clinics of North America
+2012	JinX HidiroglouN LokE TaylorM KapalK RossN SarafinK LauA DeSouzaA ChanHM Mehta	5	Cardiovascular toxicology
+2013	BozzettoL DeNataleC DiCapuaL DellaCorteG PattiL MaioneS RiccardiG RivelleseAA Annuzzi	5	Acta diabetologica
+2011	SimpsonM BradyH YinX SeifertJ BarrigaK HoffmanM BugawanT BarónAE SokolRJ EisenbarthG ErlichH RewersM NorrisJ	27	Diabetologia
+2012	JuśkiewiczJ ZarySikorskaE ZduńczykZ KrólB JarosławskaJ Jurgoński	3	The British journal of nutrition
+2012	WangY OuYL LiuYQ XieQ LiuQF WuQ FanTQ YanLL WangJ	4	Biological trace element research
+2011	deMelloVD SchwabU KolehmainenM KoenigW SiloahoM PoutanenK MykkänenH Uusitupa	27	Diabetologia
+2012	HermsdorffHH BarbosaKB VolpAC PuchauB BressanJ ZuletMÁ MartínezJ	12	The British journal of nutrition
+2012	OdegaardAO ChohAC CzerwinskiSA TowneB DemerathE	18	Obesity (Silver Spring, Md.)
+2011	ZamoraRosR RabassaM CherubiniA UrpiSardaM LlorachR BandinelliS FerrucciL AndresLacueva	13	Analytica chimica acta
+2011	MoriniL VarangoC FilippiC RuscaC DanesinoP CheliF FusiniM IannelloG Groppi	4	Therapeutic drug monitoring
+2011	PasrichaSR ShetAS BlackJF SudarshanH PrashanthNS BiggsB	8	The American journal of clinical nutrition
+2011	FiskPS2nd MiddaughAL RheeYS BruntA	2	Nutrition research (New York, N.Y.)
+2011	IllisonVK RondóPH deOliveiraAM D'AbronzoFH CamposK	3	International journal for vitamin and nutrition research. Internationale Zeitschrift fur Vitamin- und Ernahrungsforschung. Journal international de vitaminologie et de nutrition
+2012	BokhofB BuykenAE DoğanC KaraboğaA KaiserJ SonntagA Kroke	2	Public health nutrition
+2012	GumpBB MacKenzieJA DumasAK PalmerCD ParsonsPJ SeguZM MechrefYS BendinskasK	5	Environmental research
+2012	BarthSW KochTC WatzlB DietrichH WillF Bub	11	European journal of nutrition
+2012	diGiuseppeR BertuzziT RossiF RastelliS MulazziA CapraroJ deCurtisA IacovielloL Pietri	3	European journal of nutrition
+2011	ChajèsV BiessyC ByrnesG DeharvengG SaadatianElahiM JenabM PeetersPH OckéM BuenodeMesquitaHB JohanssonI HallmansG ManjerJ WirfältE JakszynP GonzálezCA HuertaJM MartinezC AmianoP SuárezLR ArdanazE TjønnelandA HalkjaerJ OvervadK JakobsenMU BerrinoF PalaV PalliD TuminoR VineisP deMagistrisMS SpencerEA CroweFL BinghamS KhawKT LinseisenJ RohrmannS BoeingH NöethlingsU OlsenKS SkeieG LundE TrichopoulouA ZilisD OustoglouE ClavelChapelonF RiboliE Slimani	7	Nutrition and cancer
+2013	UusitaloL NevalainenJ SalminenI OvaskainenML KronbergKippiläC AhonenS NiinistöS AlfthanG SimellO IlonenJ VeijolaR KnipM VirtanenS	3	Maternal & child nutrition
+2011	MullenW GonzalezJ SiwyJ FrankeJ SattarN MullanA RobertsS DellesC MischakH Albalat	5	Journal of agricultural and food chemistry
+2011	ImaiE TsujiT SanoM FukuwatariT Shibata	6	Asia Pacific journal of clinical nutrition
+2012	PerssonM EngströmG BjörkbackaH Hedblad	19	Atherosclerosis
+2012	UlmanováO VinopalováM ZimaT Růžička	2	Journal of neurology
+2012	AnderssonU BergerK HögbergA LandinOlssonM Holm	2	European journal of clinical nutrition
+2011	RyuMS LangkampHenkenB ChangSM ShankarMN CousinsR	32	Proceedings of the National Academy of Sciences of the United States of America
+2012	YamajiT IwasakiM SasazukiS SakamotoH YoshidaT Tsugane	12	American journal of epidemiology
+2012	GarcíaBailoB BrennerDR NielsenD LeeHJ DomanskiD KuzykM BorchersCH BadawiA KarmaliMA ElSohemy	16	The American journal of clinical nutrition
+2013	VitaleM LuongoD NaviglioD BozzettoL MirabellaM RivieccioAM GiaccoA RivelleseA	0	Acta diabetologica
+2012	ShibataK ImaiE SanoM Fukuwatari	3	Bioscience, biotechnology, and biochemistry
+2012	BoaventuraBC DiPietroPF deAssisMA AmbrosiC NeselloLA DaSilvaFO VasconcelosFA MoreiraJC FaustoM	0	The journal of nutrition, health & aging
+2012	RaatzSK YoungLR PickloMJSr SauterER QinW KurzerM	7	Nutrition research (New York, N.Y.)
+2012	AugustineLF VazirS FernandezRaoS RaoMV LaxmaiahA RavinderP RaoVV NairK	2	Public health nutrition
+2012	OhMJ EomCS LeeHJ ChoiHC ChoB ParkJ	3	The Journal of urology
+2012	BonjourJP BenoitV RousseauB SouberbielleJ	9	The Journal of nutrition
+2012	TsujiM TamaiY WadaK NakamuraK HayashiM TakedaN YasudaK Nagata	9	Cancer causes & control : CCC
+2012	SarkisKS MartiniLA SzejnfeldVL PinheiroM	4	Lipids in health and disease
+2012	deKoningL MalikVS KelloggMD RimmEB WillettWC HuF	100	Circulation
+2012	HoseiniSM HosseiniSA Soudagar	0	Fish physiology and biochemistry
+2012	ShiraishiM HarunaM MatsuzakiM MurayamaR SasakiS Murashima	3	Nutrition journal
+2012	FraulobJC SouzaMelloV AguilaMB MandarimdeLacerdaC	10	Clinical science (London, England : 1979)
+2012	ScarmoS HeneberyK PeracchioH CartmelB LinH ErmakovIV GellermannW BernsteinPS DuffyVB MayneS	19	European journal of clinical nutrition
+2012	LandbergR TownsendMK NeelakantanN SunQ SampsonL SpiegelmanD vanDamR	4	The Journal of nutrition
+2012	NeyestaniTR NikooyehB AlaviMajdH ShariatzadehN KalayiA TayebinejadN HeravifardS SalekzamaniS Zahedirad	19	The Journal of clinical endocrinology and metabolism
+2012	HellstrandS SonestedtE EricsonU GullbergB WirfältE HedbladB OrhoMelander	25	Journal of lipid research
+2013	McFarlinBK JohnstonCJ CarpenterKC DavidsonT MorenoJL StrohackerK BreslinWL ForeytJ	5	Maternal & child nutrition
+2012	MarchalJ BlancS EpelbaumJ AujardF Pifferi	22	PloS one
+2012	KaplanPB SutN SutH	4	European journal of obstetrics, gynecology, and reproductive biology
+2012	YapRW ShidojiY HonWM Masaki	2	Asia Pacific journal of clinical nutrition
+2012	PiaultE DoshiS BrandtBA AngünÇ EvansCJ BergqvistA Trocio	0	Health and quality of life outcomes
+2012	YouCH KimBG JoEM KimGY YuBC HongMG KimDS HongY	6	Neurotoxicology
+2012	LydakisC StefanakiE StefanakiS ThalassinosE KavousanakiM Lydaki	7	European journal of pediatrics
+2012	ZhangFF SantellaRM WolffM KappilMA MarkowitzSB Morabia	29	Epigenetics
+2012	UrpiSardaM CasasR ChivaBlanchG RomeroMamaniES ValderasMartínezP SalasSalvadóJ CovasMI ToledoE AndresLacuevaC LlorachR GarcíaArellanoA BullóM RuizGutierrezV LamuelaRaventosRM Estruch	23	The Journal of nutrition
+2012	LipskyLM CheonK NanselTR AlbertP	13	Nutrition research (New York, N.Y.)
+2012	HempelJM GreifHigerG KaufmannT BeutelM	2	Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society
+2012	ParikhS PollockNK BhagatwalaJ GuoDH GutinB ZhuH Dong	9	The Journal of clinical endocrinology and metabolism
+2012	LlorachR GarciaAloyM TulipaniS VazquezFresnoR AndresLacueva	11	Journal of agricultural and food chemistry
+2013	EnhörningS BankirL BoubyN StruckJ HedbladB PerssonM MorgenthalerNG NilssonPM Melander	31	International journal of obesity (2005)
+2012	ParkS LeeB	2	The Science of the total environment
+2012	DehghanM delCerroS ZhangX CuneoJM LinetzkyB DiazR MerchantA	10	PloS one
+2012	ChavanPD BhatVG OjhaS KelkarRS RajadhyakshaSB MaratheA	0	Indian journal of medical microbiology
+2012	PetrenyaN BrustadM CooperM DobrodeevaL BichkaevaF LutfalievaG OdlandJ	1	Nutrition & metabolism
+2012	MolinaLópezJ MolinaJM ChirosaLJ FloreaD SáezL MillánE Planells	1	Magnesium research
+2012	FormanJP SchevenL deJongPE BakkerSJ CurhanGC GansevoortR	19	Circulation
+2012	TynjäläJ KangastupaP LaatikainenT AaltoM Niemelä	4	Alcohol and alcoholism (Oxford, Oxfordshire)
+2012	AuneD ChanDS VieiraAR NavarroRosenblattDA VieiraR GreenwoodDC Norat	24	The American journal of clinical nutrition
+2012	DeGrooteD VanBelleghemK DevièreJ VanBrusselW MukanezaA Amininejad	13	Annals of nutrition & metabolism
+2012	ParkS ParkNY ValacchiG Lim	26	Mediators of inflammation
+2013	LeeYA HwangJY KimH KimKN HaEH ParkH HaM KimY HongYC Chang	1	The British journal of nutrition
+2012	VengiauG UmezakiM PhuanukoonnonS SibaP Watanabe	2	American journal of human biology : the official journal of the Human Biology Council
+2012	HagenMK LudkeA AraujoAS MendesRH FernandesTG MandarinoJM LlesuyS VogtdeJongE BellóKlein	2	Canadian journal of physiology and pharmacology
+2012	MentorMarcelRA BobeG SardoC WangLS KuoCT StonerG ColburnN	7	Nutrition and cancer
+2012	KrystekP FavaroP BodeP Ritsema	1	Talanta
+2012	PetkevicieneJ SmalinskieneA LuksieneDI JurenieneK RamazauskieneV KlumbieneJ Lesauskaite	11	PloS one
+2012	BrantLH CardozoLF VelardeLG BoaventuraG	1	Acta cirurgica brasileira
+2012	MeiH GuD HixsonJE RiceTK ChenJ ShimminLC SchwanderK KellyTN LiuDP ChenS HuangJF JaquishCE RaoDC He	1	American journal of epidemiology
+2012	MaranoKM NaufalZS KathmanSJ BodnarJA BorgerdingMF WilsonC	2	Regulatory toxicology and pharmacology : RTP
+2013	TownsendMK DevoreEE ResnickNM Grodstein	0	International urogynecology journal
+2012	JohnsonGH Fritsche	37	Journal of the Academy of Nutrition and Dietetics
+2012	ArmstrongLE JohnsonEC MunozCX SwoklaB LeBellegoL JimenezL CasaDJ MareshC	21	Journal of the Academy of Nutrition and Dietetics
+2012	MaranoKM NaufalZS KathmanSJ BodnarJA BorgerdingMF GarnerCD WilsonC	11	Regulatory toxicology and pharmacology : RTP
+2012	VanaelstB HuybrechtsI MichelsN VynckeK SioenI DeVriendtT FlórezMR AramendíaM BalcaenL ResanoM VanhaeckeF DeHenauw	3	Biological trace element research
+2012	JenningsA WelchAA FairweatherTaitSJ KayC MinihaneAM ChowienczykP JiangB CeceljaM SpectorT MacgregorA Cassidy	33	The American journal of clinical nutrition
+2013	PerrierE VergneS KleinA PoupinM RondeauP LeBellegoL ArmstrongLE LangF StookeyJ Tack	26	The British journal of nutrition
+2012	BonnetF DisseE LavilleM MariA HojlundK AnderwaldCH PiattiP BalkauB RISCStudyGroup	18	Diabetologia
+2013	VelázquezLópezL GonzálezFigueroaE MedinaBravoP PinedaDelAguilaI AvilaJiménezL RamosHernándezR KlunderKlunderM EscobedodelaPeña	2	Endocrine
+2012	PastorelliAA BaldiniM StacchiniP BaldiniG MorelliS SagratellaE ZazaS Ciardullo	4	Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment
+2013	IglesiaI DhonuksheRuttenRA BelSerratS DoetsEL CavelaarsAE van'tVeerP NissensohnM BenetouV HermosoM BertiC deGrootLC MorenoL	0	Public health nutrition
+2011	MohammadifardN OmidvarN HoushiarradA NeyestaniT NaderiGA Soleymani	4	Journal of research in medical sciences : the official journal of Isfahan University of Medical Sciences
+2012	WassefH SalemH BissonnetteS BaassA DufourR DavignonJ Faraj	4	Arteriosclerosis, thrombosis, and vascular biology
+2012	FietenH HooijerNouwensBD BiourgeVC LeegwaterPA WatsonAL vandenInghTS Rothuizen	11	Journal of veterinary internal medicine
+2013	MiklavčičA CasettaA SnojTratnikJ MazejD KrsnikM MariuzM SofianouK SpirićZ BarboneF Horvat	15	Environmental research
+2013	HotzK Walczyk	2	Journal of biological inorganic chemistry : JBIC : a publication of the Society of Biological Inorganic Chemistry
+2012	KrólE KrejpcioZ MichalakS WójciakRW Bogdański	2	Biological trace element research
+2013	SoHK LiAM ChoiKC SungRY NelsonE	0	Journal of human hypertension
+2013	IvanovaD VankovaD Nashar	6	Archives of physiology and biochemistry
+2012	KobayashiS MurakamiK SasakiS UenishiK YamasakiM HayabuchiH GodaT OkaJ BabaK OhkiK WatanabeR Sugiyamama	3	Nutrition journal
+2013	FungST HoCK ChoiSW ChungWY BenzieI	7	The British journal of nutrition
+2013	SluijsI BeulensJW vanderADL SpijkermanAM SchulzeMB vanderSchouwY	25	The Journal of nutrition
+2013	BrozinickJT HawkinsE HoangBuiH KuoMS TanB KievitP Grove	24	International journal of obesity (2005)
+2012	BaronaJ BlessoCN AndersenCJ ParkY LeeJ FernandezM	7	Nutrients
+2014	HuangX SjögrenP CederholmT ÄrnlövJ LindholmB RisérusU CarreroJ	5	Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association
+2012	HedrickVE DietrichAM EstabrooksPA SavlaJ SerranoE DavyB	42	Nutrition journal
+2012	LiX ChenY LiuJ YangG ZhaoJ LiaoG ShiM YuanY HeS LuY Cheng	0	Experimental biology and medicine (Maywood, N.J.)
+2013	AlAttasOS HussainT AlDaghriNM DeRosasE KazmiU Vinodson	4	Journal of atherosclerosis and thrombosis
+2013	BusquetsR FrandsenH JönssonJÅ PuignouL GalceranMT Skog	1	Chemical research in toxicology
+2013	StoeckelK BachmannL DobeleitG Fuhrmann	1	Journal of animal physiology and animal nutrition
+2013	ClarkeDB LloydAS LawrenceJM BrownJE StoreyL RaatsM RainsburyRM CullifordDJ BaileyHorneVA ParryB	0	The British journal of nutrition
+2013	YangM ChungSJ FloegelA SongWO KooSI ChunO	9	European journal of nutrition
+2013	XiongZ ZhuC QianX ZhuJ WuZ Chen	6	The journal of nutrition, health & aging
+2013	VynckeKE HuybrechtsI DallongevilleJ MouratidouT VanWinckelMA CuencaGarcíaM OttevaereC GonzálezGrossM MorenoLA KafatosAG LeclercqC SjöströmM MolnárD StehleP BreidenasselC MarcosA ManiosY WidhalmK GilbertCC GottrandF DeHenauwS HELENAStudyGroup	4	Nutrition (Burbank, Los Angeles County, Calif.)
+2013	KurziusSpencerM O'RourkeMK HsuCH HartzV HarrisRB BurgessJ	9	Journal of exposure science & environmental epidemiology
+2012	ChoeJS KimEK KimE	0	Nutrition research and practice
+2013	BilgicCelikD BejiNK Yalcin	3	Neurourology and urodynamics
+2013	KruppD ShiL MaserGluthC PietzarkaM Remer	0	The American journal of clinical nutrition
+2013	AlmoosawiS PrynneCJ HardyR StephenA	5	Journal of hypertension
+2013	YouJS ZhaoX KimSH ChangK	0	Advances in experimental medicine and biology
+2013	daSilvaFerreiraT TorresMR SanjulianiA	5	The British journal of nutrition
+2013	VioqueJ NavarreteMuñozEM GimenezMonzóD GarcíadelaHeraM GranadoF YoungIS RamónR BallesterF MurciaM RebagliatoM IñiguezC INMAValenciaCohortStudy	40	Nutrition journal
+2013	MandelEI TaylorEN CurhanG	4	Clinical journal of the American Society of Nephrology : CJASN
+2013	NiesserM DemmelmairH WeithT MorettiD RauhPfeifferA vanLipzigM VaesW KoletzkoB Peissner	1	PloS one
+2013	BaziT KabakianKhasholianT EzzeddineD Ayoub	1	International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics
+2013	KorgaA DudkaJ BurdanF WroneckiL SierocinskaSawaJ IwanM KorobowiczMarkiewiczA Korobowicz	0	Postepy higieny i medycyny doswiadczalnej (Online)
+2013	RichardC CoutureP DesrochesS Lamarche	20	Obesity (Silver Spring, Md.)
+2013	ShiraishiM HarunaM MatsuzakiM MurayamaR Sasaki	3	International journal of food sciences and nutrition
+2013	PetrogianniM KanellakisS KallianiotiK ArgyropoulouD PitsavosC Manios	5	Journal of human nutrition and dietetics : the official journal of the British Dietetic Association
+2013	FrettsAM MozaffarianD SiscovickDS HeckbertSR McKnightB KingIB RimmEB PsatyBM SacksFM SongX SpiegelmanD LemaitreR	11	Journal of the American Heart Association
+2013	BjermoH SandS NälsénC LundhT EnghardtBarbieriH PearsonM LindroosAK JönssonBA BarregårdL DarnerudP	16	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+2013	OudeGriepLM StamlerJ ChanQ VanHornL SteffenLM MiuraK UeshimaH OkudaN ZhaoL DaviglusML ElliottP INTERMAPResearchGroup	7	The American journal of clinical nutrition
+2013	KimMH ChoiM	3	Biological trace element research
+2013	NakatsukaH ShimboS WatanabeT YaginumaSakuraiK Ikeda	4	Journal of trace elements in medicine and biology : organ of the Society for Minerals and Trace Elements (GMS)
+2014	Fantini	24	NeuroImage
+2013	OsorioJS TrevisiE BallouMA BertoniG DrackleyJK LoorJ	5	Journal of dairy science
+2013	HaynesBM PfeifferCM SternbergMR SchleicherR	16	The Journal of nutrition
+2013	BrookRD AppelLJ RubenfireM OgedegbeG BisognanoJD ElliottWJ FuchsFD HughesJW LacklandDT StaffilenoBA TownsendRR RajagopalanS AmericanHeartAssociationProfessionalEducationCommitteeoftheCouncilforHighBloodPressureResearch,CouncilonCardiovascularandStrokeNursing,CouncilonEpidemiologyandPrevention,andCouncilonNutrition,PhysicalActivity	77	Hypertension (Dallas, Tex. : 1979)
+2013	JungSK KimMK ShinJ ChoiB	2	European journal of clinical nutrition
+2013	RossAB PereTrépatE MontoliuI MartinFP CollinoS MocoS GodinJP ClérouxM GuyPA BretonI BibiloniR ThorimbertA TavazziI TornierL BebuisA BruceSJ BeaumontM FayLB Kochhar	12	The Journal of nutrition
+2013	FilibertoAC MumfordSL PollackAZ ZhangC YeungEH PerkinsNJ WactawskiWendeJ SchistermanE	4	The Journal of nutrition
+2013	BeköG WeschlerCJ LangerS CallesenM ToftumJ Clausen	20	PloS one
+2013	BeckmannM LloydAJ HaldarS FavéG SealCJ BrandtK MathersJC Draper	6	The Proceedings of the Nutrition Society
+2013	BrazionisL GolleyRK MittintyMN SmithersLG EmmettP NorthstoneK LynchJ	4	The American journal of clinical nutrition
+2013	BonjourJP BenoitV PayenF Kraenzlin	11	The Journal of clinical endocrinology and metabolism
+2013	MitchellNJ KumiJ JohnsonNM DotseE MarroquinCardonaA WangJS JollyPE AnkrahNA PhillipsT	7	Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals
+2013	JilcottPittsSB WuQ McGuirtJT CrawfordTW KeyserlingTC AmmermanA	21	Public health nutrition
+2013	WhiteDL TavakoliTabasiS KanwalF RamseyDJ HashmiA KuzniarekJ PatelP FrancisJ ElSeragH	5	Alimentary pharmacology & therapeutics
+2013	RzehakP GroteV LattkaE WeberM GruszfeldD SochaP ClosaMonasteroloR EscribanoJ GiovanniniM VerduciE GoyensP MartinF LanghendriesJP DemmelmairH KloppN IlligT KoletzkoB EuropeanChildhoodObesityTrialStudyGroup	5	Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society
+2013	ChangA BatchBC McGuireHL VollmerWM SvetkeyLP TysonCC SanguankeoA AndersonC HoustonJ AppelL	7	American journal of kidney diseases : the official journal of the National Kidney Foundation
+2014	WandersD GhoshS StoneKP VanNT GettysT	10	BioFactors (Oxford, England)
+2014	PalS Saha	4	Journal of biomolecular structure & dynamics
+2013	deLuisDA AllerR IzaolaO GonzalezSagradoM Conde	2	Journal of endocrinological investigation
+2013	BustnesJO BårdsenBJ HerzkeD JohnsenTV EulaersI BallesterosM HanssenSA CovaciA JaspersVL EensM SonneC HalleyD MoumT NøstTH ErikstadKE ImsR	0	Environmental toxicology and chemistry
+2013	PossavinoF PretiM CaroneR CalabreseR RandaccioS D'EliaC AllaisI CosmaS Benedetto	1	International urogynecology journal
+2013	MurakamiK SasakiS UenishiK JapanDieteticStudents’StudyforNutritionBiomarkersGroup	0	Nutrition research (New York, N.Y.)
+2013	SánchezSánchezB TorresLacombaM YusteSánchezMJ NavarroBrazálezB PachecodaCostaS GutiérrezOrtegaC ZapicoGoñi	1	European journal of obstetrics, gynecology, and reproductive biology
+1997	PornchaiSithisarankulPaoloVineisDaeheeKangNathanielRothmanNeilCaporasoAndPaulStricklan	0	Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals
+2014	ChenY PanL LiuN TroyFA Wang	6	The British journal of nutrition
+2013	SchmittA GahrA HermannsN KulzerB HuberJ Haak	26	Health and quality of life outcomes
+2013	JuliaC TouvierM MeunierN PapetI GalanP HercbergS KesseGuyot	7	The Journal of nutrition
+2013	CogswellME ElliottP WangCY RhodesDG PfeifferCM LoriaC	4	Advances in nutrition (Bethesda, Md.)
+2013	ConoverCA HarstadSL TchkoniaT KirklandJ	13	American journal of physiology. Endocrinology and metabolism
+2013	HashemiKaniA AlavianSM EsmaillzadehA AdibiP Azadbakht	13	Hepatitis monthly
+2013	LiberatoSC BressanJ HillsA	1	Journal of the International Society of Sports Nutrition
+2013	SpinaA GuallarE RaymanMP TigbeW KandalaNB Stranges	7	Free radical biology & medicine
+2014	PhamShortA CDonaghueK AmblerG KChanA HingS CusumanoJ ECraig	4	Diabetic medicine : a journal of the British Diabetic Association
+2014	SümnigA LembckeH WeberH DeitenbeckR GreffinK BuxJ Greinacher	4	Vox sanguinis
+2013	AndradeGF deAlmeidaCd EspeschitAC DantasMI BenjaminLdosA RibeiroSM MartinoH	1	Lipids in health and disease
+2013	ZhangZ CogswellME GillespieC FangJ LoustalotF DaiS CarriquiryAL KuklinaEV HongY MerrittR Yang	21	PloS one
+2013	SeabertT PalS KrümmelEM BlaisJM ImbeaultP RobidouxMA Haman	1	Nutrition & diabetes
+2013	OlubajoAF AdefunkeAO OlubusolaIB IbilolaO	2	African journal of traditional, complementary, and alternative medicines : AJTCAM
+2013	BallardKD QuannEE KupchakBR VolkBM KawieckiDM FernandezML SeipRL MareshCM KraemerWJ VolekJ	6	Nutrition research (New York, N.Y.)
+2014	PounisG CostanzoS PersichilloM deCurtisA SieriS VincetiM ZitoF DiCastelnuovoAF DonatiMB deGaetanoG IacovielloL MolisaniProjectInvestigators	3	Diabetes & metabolism
+2014	NormandinL AyotteP LevalloisP IbanezY CourteauM KennedyG ChenL LeXC Bouchard	0	Journal of exposure science & environmental epidemiology
+2013	BarronAM RosarioER ElteriefiR PikeC	24	PloS one
+2014	DrakeI SonestedtE GullbergB BjartellA OlssonH AdlercreutzH TikkanenMJ WirfältE Wallström	0	Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology
+2013	HarrisCB ChowanadisaiW MishchukDO SatreMA SlupskyCM RuckerR	12	The Journal of nutritional biochemistry
+2013	IkedaML BarcellosNT AlencastroPR WolffFH BrandãoAB FuchsFD FuchsS	1	TheScientificWorldJournal
+2014	RaheemOA ParsonsJ	9	Current opinion in urology
+2013	MelkonianS ArgosM HallMN ChenY ParvezF PierceB CaoH AschebrookKilfoyB AhmedA IslamT SlavcovichV GambleM HarisPI GrazianoJH Ahsan	15	PloS one
+2013	NeyrinckAM AlligierM MemvangaPB NévraumontE LarondelleY PréatV CaniPD DelzenneN	14	PloS one
+2014	LeySH SunQ WillettWC EliassenAH WuK PanA GrodsteinF HuF	32	The American journal of clinical nutrition
+2013	LiuQ LiH WangN ChenH JinQ ZhangR WangJ Chen	1	PloS one
+2014	MasonB RossL GillE HealyH JuffsP Kark	5	Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation
+2014	MazumderDN DebD BiswasA SahaC NandyA DasA GhoseA BhattacharyaK MazumdarK	2	Journal of environmental science and health. Part A, Toxic/hazardous substances & environmental engineering
+2014	SentaI KrizmanI AhelM Terzic	1	The Science of the total environment
+2014	MurakamiK SasakiS UenishiK JapanDieteticStudents’StudyforNutritionandBiomarkersGroup	1	Nutrition research (New York, N.Y.)
+2014	CrujeirasAB ZuletMA LopezLegarreaP delaIglesiaR PardoM CarreiraMC MartínezJA CasanuevaF	25	Metabolism: clinical and experimental
+2014	TorrensJM KoniecznaJ PalouM SánchezJ PicóC Palou	2	The Journal of nutritional biochemistry
+2013	MoschonisG PapandreouD MavrogianniC GiannopoulouA DamianidiL MalindretosP LionisC ChrousosGP Manios	1	BioMed research international
+2014	QuiferRadaP MartínezHuélamoM ChivaBlanchG JáureguiO EstruchR LamuelaRaventósR	2	The Journal of nutrition
+2014	BezerraDuarteSM FaintuchJ StefanoJT SobraldeOliveiraMB deCamposMazoDF RabeloF VanniD NogueiraMA CarrilhoFJ MarquesSouzadeOliveiraC	7	Nutricion hospitalaria
+2014	ProhanM AmaniR NematpourS JomehzadehN HaghighizadehM	7	Redox report : communications in free radical research
+2014	HartmanML ShirihaiOS HolbrookM XuG KocherlaM ShahA FettermanJL KlugeMA FrameAA HamburgNM VitaJ	25	Vascular medicine (London, England)
+2014	FitóM EstruchR SalasSalvadóJ MartínezGonzalezMA ArósF VilaJ CorellaD DíazO SáezG delaTorreR MitjavilaMT MuñozMA LamuelaRaventósRM RuizGutierrezV FiolM GómezGraciaE LapetraJ RosE SerraMajemL CovasMI PREDIMEDStudyInvestigators	14	European journal of heart failure
+2014	O'BrienDM KristalAR NashSH HopkinsSE LuickBR StanhopeKL HavelPJ BoyerB	9	The Journal of nutrition
+2014	CocatePG NataliAJ OliveiraAd LongoGZ AlfenasRdeC PeluzioMdoC SantosEC ButhersJM OliveiraLL HermsdorffH	6	Nutrition (Burbank, Los Angeles County, Calif.)
+2014	IglesiaI MouratidouT GonzálezGrossM NovakovicR BreidenasselC JiménezPavónD HuybrechtsI DeHenauwS GeelenA GottrandF KafatosA MisturaL deHerediaFP WidhalmK ManiosY MolnarD StehleP GurinovicM CavelaarsAE Van'tVeerP MorenoLA HELENAstudygroup	1	Nutrition research (New York, N.Y.)
+2014	RothwellJA FillâtreY MartinJF LyanB PujosGuillotE FezeuL HercbergS ComteB GalanP TouvierM Manach	12	PloS one
+2014	FattoreE BosettiC BrighentiF AgostoniC Fattore	14	The American journal of clinical nutrition
+2014	LandMA JefferyP WebsterJ CrinoM ChalmersJ WoodwardM NowsonC SmithW FloodV Neal	5	BMC public health
+2014	GuertinKA MooreSC SampsonJN HuangWY XiaoQ StolzenbergSolomonRZ SinhaR CrossA	56	The American journal of clinical nutrition
+2014	WangY ChungSJ McCulloughML SongWO FernandezML KooSI ChunO	10	The Journal of nutrition
+2014	BarcelosRP SouzaMA AmaralGP StefanelloST BrescianiG FigheraMR SoaresFA deVargasBarbosa	4	Nutrients
+2013	MathewS CharyT	0	Indian journal of biochemistry & biophysics
+2014	ShenZ MunkerS WangC XuL YeH ChenH XuG ZhangH ChenL YuC Li	7	Journal of clinical lipidology
+2014	AfeicheMC GaskinsAJ WilliamsPL TothTL WrightDL TanrikutC HauserR ChavarroJ	14	The Journal of nutrition
+2014	SimonaviceE LiuPY IlichJZ KimJS ArjmandiB PantonL	8	Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme
+2014	HuangMH ChiuAF KuoH	0	Lower urinary tract symptoms
+2012	IkewuchiC	2	EXCLI journal
